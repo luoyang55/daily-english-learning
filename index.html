@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日英语学习 · Daily English</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0a0a14;--card:#14142a;--card2:#1a1a35;--accent:#6c63ff;--accent2:#8b83ff;--glow:rgba(108,99,255,.3);--text:#e8e8f0;--dim:#6a6a8a;--en:#c8c8e0;--cn:#8888aa;--border:#252545;--ok:#4ecdc4;--warn:#ffd93d;--morning:#ff6b6b;--afternoon:#4ecdc4}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;overflow-x:hidden}
+body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellipse at 20% 30%,rgba(108,99,255,.06),transparent 50%),radial-gradient(ellipse at 80% 70%,rgba(78,205,196,.04),transparent 50%);pointer-events:none}
+.app{position:relative;z-index:1;max-width:860px;margin:0 auto;padding:20px 16px 40px}
+
+/* Header */
+.hdr{text-align:center;padding:24px 0 16px}
+.hdr h1{font-size:26px;font-weight:700;background:linear-gradient(135deg,var(--accent2),var(--ok));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hdr .sub{color:var(--dim);font-size:13px;margin-top:4px}
+
+/* Date nav */
+.dnav{display:flex;align-items:center;justify-content:center;gap:14px;margin:16px 0 20px}
+.dnav button{background:var(--card);border:1px solid var(--border);color:var(--text);width:34px;height:34px;border-radius:50%;cursor:pointer;font-size:15px;transition:.2s}
+.dnav button:hover{background:var(--accent);border-color:var(--accent)}
+.dnav .dt{font-size:17px;font-weight:600;min-width:170px;text-align:center}
+
+/* Tabs */
+.tabs{display:flex;gap:10px;justify-content:center;margin-bottom:20px}
+.tab{padding:9px 24px;border-radius:22px;border:2px solid var(--border);background:0 0;color:var(--dim);font-size:14px;font-weight:600;cursor:pointer;transition:.3s}
+.tab.on-m{border-color:var(--morning);color:var(--morning);background:rgba(255,107,107,.1)}
+.tab.on-a{border-color:var(--afternoon);color:var(--afternoon);background:rgba(78,205,196,.1)}
+
+/* Section card */
+.sec{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:24px 20px;margin-bottom:16px;position:relative;overflow:hidden}
+.sec::before{content:'';position:absolute;top:0;left:0;right:0;height:3px}
+.sec.morning::before{background:linear-gradient(90deg,var(--morning),#ff9a9e)}
+.sec.afternoon::before{background:linear-gradient(90deg,var(--afternoon),#a8edea)}
+
+/* Now playing header */
+.np{display:flex;align-items:center;gap:14px;margin-bottom:16px}
+.album{width:60px;height:60px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0}
+.album.ma{background:linear-gradient(135deg,#ff6b6b,#ff9a9e)}
+.album.aa{background:linear-gradient(135deg,#4ecdc4,#a8edea)}
+.album.playing{animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 var(--glow)}50%{box-shadow:0 0 18px 4px var(--glow)}}
+.tinfo .lbl{font-size:11px;color:var(--dim);text-transform:uppercase;letter-spacing:1px;margin-bottom:2px}
+.tinfo .ttl{font-size:16px;font-weight:600}
+.tinfo .ttlcn{font-size:12px;color:var(--dim);margin-top:2px}
+
+/* Audio player row */
+.arow{display:flex;align-items:center;gap:10px;padding:10px 14px;background:rgba(255,255,255,.03);border-radius:10px;margin-bottom:6px}
+.arow .ic{font-size:18px;width:26px;text-align:center;flex-shrink:0}
+.arow .al{font-size:12px;color:var(--dim);min-width:60px}
+.arow audio{flex:1;height:36px}
+
+/* Mode switch */
+.modes{display:flex;gap:8px;margin:16px 0 12px}
+.mode-btn{padding:6px 16px;border-radius:16px;border:1px solid var(--border);background:0 0;color:var(--dim);font-size:12px;cursor:pointer;transition:.2s}
+.mode-btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+/* === KARAOKE MODE === */
+.karaoke{padding:20px;background:var(--card2);border-radius:14px;line-height:2.2;min-height:200px}
+.karaoke .w{display:inline;cursor:default;transition:all .15s;padding:1px 0;border-radius:3px;color:var(--dim);font-size:16px}
+.karaoke .w.read{color:var(--en)}
+.karaoke .w.active{color:#fff;background:var(--accent);padding:1px 4px;box-shadow:0 0 12px var(--glow);font-weight:600}
+.karaoke .punct{color:var(--dim)}
+.karaoke .sent{margin-bottom:6px;display:block}
+.karaoke .sent-cn{display:block;font-size:13px;color:var(--cn);margin-bottom:14px;padding:6px 10px;background:rgba(78,205,196,.06);border-radius:6px;border-left:2px solid var(--ok)}
+
+/* === READING MODE (bilingual paragraphs) === */
+.para-pair{margin-bottom:18px;padding:16px;background:var(--card2);border-radius:12px;border:1px solid var(--border)}
+.para-en{font-size:15px;line-height:1.9;color:var(--en);margin-bottom:10px;padding-bottom:10px;border-bottom:1px dashed var(--border)}
+.para-cn{font-size:14px;line-height:1.9;color:var(--cn)}
+
+/* === VOCAB FLASHCARD (万词王 style) === */
+.fc-container{padding:20px 0}
+.fc-progress{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+.fc-progress .bar{flex:1;height:6px;background:var(--border);border-radius:3px;overflow:hidden}
+.fc-progress .bar .fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--ok));border-radius:3px;transition:width .3s}
+.fc-progress .cnt{font-size:12px;color:var(--dim);min-width:50px;text-align:right}
+
+.fc-card{background:var(--card2);border-radius:16px;padding:28px 24px;text-align:center;margin-bottom:16px;border:1px solid var(--border);min-height:240px;display:flex;flex-direction:column;align-items:center;justify-content:center;position:relative}
+.fc-word{font-size:36px;font-weight:700;color:var(--text);margin-bottom:8px;cursor:pointer;transition:.2s}
+.fc-word:hover{color:var(--accent2)}
+.fc-phonetic{font-size:16px;color:var(--dim);margin-bottom:16px}
+.fc-meaning{font-size:20px;color:var(--ok);margin-bottom:8px}
+.fc-example{font-size:13px;color:var(--cn);max-width:400px;line-height:1.7;margin-top:12px;padding:12px;background:rgba(255,255,255,.03);border-radius:8px}
+.fc-speak-btn{position:absolute;top:16px;right:16px;width:40px;height:40px;border-radius:50%;background:var(--accent);border:none;color:#fff;font-size:18px;cursor:pointer;transition:.2s;display:flex;align-items:center;justify-content:center}
+.fc-speak-btn:hover{transform:scale(1.1);box-shadow:0 0 12px var(--glow)}
+
+.fc-actions{display:flex;gap:12px;justify-content:center;margin-bottom:12px}
+.fc-btn{padding:12px 28px;border-radius:12px;border:none;font-size:14px;font-weight:600;cursor:pointer;transition:.2s}
+.fc-btn:hover{transform:translateY(-2px)}
+.fc-btn.skip{background:rgba(255,107,107,.15);color:var(--morning);border:1px solid rgba(255,107,107,.3)}
+.fc-btn.know{background:rgba(78,205,196,.15);color:var(--ok);border:1px solid rgba(78,205,196,.3)}
+.fc-btn.prev{background:rgba(255,255,255,.05);color:var(--dim);border:1px solid var(--border)}
+
+/* Vocab list mode */
+.vocab-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.v-item{display:flex;align-items:center;gap:8px;padding:10px 12px;background:rgba(255,255,255,.03);border-radius:10px;border:1px solid transparent;transition:.2s;cursor:pointer}
+.v-item:hover{background:rgba(108,99,255,.1);border-color:var(--accent)}
+.v-item .vw{font-weight:600;color:var(--accent2);font-size:14px}
+.v-item .vp{font-size:10px;color:var(--dim)}
+.v-item .vm{font-size:12px;color:var(--cn)}
+.v-item.mastered{opacity:.5}
+.v-item.mastered .vw{text-decoration:line-through}
+
+/* Key sentences */
+.sec-title{font-size:12px;color:var(--dim);text-transform:uppercase;letter-spacing:1.5px;margin-bottom:10px;display:flex;align-items:center;gap:8px}
+.sec-title::after{content:'';flex:1;height:1px;background:var(--border)}
+.s-card{padding:14px;background:rgba(255,255,255,.03);border-radius:10px;margin-bottom:8px;border:1px solid var(--border)}
+.s-card .en{font-size:14px;color:var(--en);line-height:1.7;margin-bottom:4px}
+.s-card .cn{font-size:13px;color:var(--cn);margin-bottom:6px}
+.s-card .gr{font-size:11px;color:var(--warn);padding:4px 8px;background:rgba(255,217,61,.08);border-radius:5px;display:inline-block}
+
+.fade-in{animation:fadeIn .3s ease}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:600px){.app{padding:10px 8px 30px}.sec{padding:18px 14px}.fc-word{font-size:28px}.karaoke .w{font-size:14px}.vocab-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="hdr">
+    <h1>📖 每日英语学习</h1>
+    <div class="sub">Daily English · CET-4 Level · 四夕专属</div>
+  </div>
+  <div class="dnav">
+    <button onclick="changeDate(-1)">◀</button>
+    <div class="dt" id="curDate"></div>
+    <button onclick="changeDate(1)">▶</button>
+  </div>
+  <div class="tabs">
+    <button class="tab on-m" id="tM" onclick="switchTab('morning')">🌅 基础篇</button>
+    <button class="tab" id="tA" onclick="switchTab('afternoon')">💼 IT工作篇</button>
+  </div>
+  <div id="main"></div>
+</div>
+
+<script>
+// === DATA ===
+const DATA={"date": "2026-07-22", "morning": {"title_en": "The Joy of Cooking at Home", "title_cn": "在家做饭的乐趣", "level": "基础篇", "content_en": "Cooking at home has become more popular in recent years. More people are discovering the pleasure of preparing meals in their own kitchen. It is not just about saving money — it is also about enjoying the process and sharing food with the people you love.\n\nWhen you cook at home, you have full control over what goes into your food. You can choose fresh vegetables, healthy oils, and less salt. This makes home-cooked meals generally healthier than restaurant food. Many doctors suggest that eating at home more often can help people maintain a balanced diet and manage their weight.\n\nCooking can also be a wonderful way to relax after a busy day. Chopping vegetables, stirring a pot, or baking bread can feel like a creative activity. The smells and sounds in the kitchen help you forget about work stress. Some people even find cooking to be a form of meditation.\n\nAnother benefit is that cooking brings families together. When everyone helps in the kitchen, it becomes a team activity. Children can learn basic life skills while spending quality time with their parents. Family recipes passed down from grandparents become a way to keep traditions alive.\n\nYou do not need to be an expert to enjoy cooking. Start with simple dishes like pasta, soups, or salads. As you gain confidence, you can try more complex recipes. The most important thing is to have fun and be patient with yourself. Every great cook started as a beginner.", "content_cn": "在家做饭近年来变得越来越流行。越来越多的人发现了在自己厨房里准备饭菜的乐趣。这不仅仅是为了省钱——更是为了享受这个过程，与你爱的人一起分享美食。\n\n当你在家里做饭时，你可以完全控制食物的成分。你可以选择新鲜的蔬菜、健康的油和更少的盐。这使得家常饭菜通常比餐馆的食物更健康。许多医生建议经常在家吃饭可以帮助人们保持均衡的饮食和管理体重。\n\n做饭也是一种在忙碌一天后放松的绝佳方式。切蔬菜、搅动锅中的食物或烤面包，这些都可以成为一种创造性的活动。厨房里的各种气味和声音能帮你忘记工作压力。有些人甚至把做饭当作一种冥想方式。\n\n另一个好处是做饭能让家人团聚。当每个人都参与厨房的工作时，这变成了一项团队活动。孩子们可以学习基本的生活技能，同时与父母共度美好时光。从祖辈传下来的家传食谱成为延续传统的一种方式。\n\n你不需要成为专家就能享受做饭。从简单的菜开始，比如意大利面、汤或沙拉。随着你信心的增长，可以尝试更复杂的食谱。最重要的是享受乐趣，对自己有耐心。每位伟大的厨师都是从初学者开始的。", "vocabulary": [{"word": "pleasure", "phonetic": "/ˈpleʒər/", "meaning": "乐趣，愉快"}, {"word": "kitchen", "phonetic": "/ˈkɪtʃɪn/", "meaning": "厨房"}, {"word": "control", "phonetic": "/kənˈtroʊl/", "meaning": "控制，掌控"}, {"word": "maintain", "phonetic": "/meɪnˈteɪn/", "meaning": "保持，维持"}, {"word": "balanced", "phonetic": "/ˈbælənst/", "meaning": "均衡的，平衡的"}, {"word": "relax", "phonetic": "/rɪˈlæks/", "meaning": "放松"}, {"word": "creative", "phonetic": "/kriˈeɪtɪv/", "meaning": "有创造力的"}, {"word": "meditation", "phonetic": "/ˌmedɪˈteɪʃn/", "meaning": "冥想"}, {"word": "recipe", "phonetic": "/ˈresəpi/", "meaning": "食谱，菜谱"}, {"word": "tradition", "phonetic": "/trəˈdɪʃn/", "meaning": "传统"}], "key_sentences": [{"en": "It is not just about saving money — it is also about enjoying the process.", "cn": "这不仅仅是为了省钱——更是为了享受这个过程。", "grammar": "\"not just...but also...\" 句型表示\"不仅……而且……\"，用于连接两个并列的内容，强调后者同样重要。"}, {"en": "Many doctors suggest that eating at home more often can help people maintain a balanced diet.", "cn": "许多医生建议经常在家吃饭可以帮助人们保持均衡的饮食。", "grammar": "\"suggest that + 从句\" 表示建议的内容。\"maintain a balanced diet\" 是常见搭配，意为\"保持均衡饮食\"。"}, {"en": "Family recipes passed down from grandparents become a way to keep traditions alive.", "cn": "从祖辈传下来的家传食谱成为延续传统的一种方式。", "grammar": "\"passed down from\" 是过去分词短语作后置定语，修饰 \"recipes\"。\"keep something alive\" 表示\"使某事物延续\"。"}]}, "afternoon": {"title_en": "", "title_cn": "", "level": "", "content_en": "", "content_cn": "", "vocabulary": [], "key_sentences": []}, "timing": {"morning": [{"text": "Cooking at home has become more popular in recent years.", "sent_start": 0.0, "sent_end": 4.367, "words": [{"word": "Cooking", "start": 0.0, "end": 0.664}, {"word": "at", "start": 0.704, "end": 0.894}, {"word": "home", "start": 0.934, "end": 1.314}, {"word": "has", "start": 1.354, "end": 1.639}, {"word": "become", "start": 1.679, "end": 2.248}, {"word": "more", "start": 2.288, "end": 2.668}, {"word": "popular", "start": 2.708, "end": 3.373}, {"word": "in", "start": 3.413, "end": 3.602}, {"word": "recent", "start": 3.642, "end": 4.212}, {"word": "years", "start": 4.252, "end": 4.727}]}, {"text": "More people are discovering the pleasure of preparing meals in their own kitchen.", "sent_start": 4.367, "sent_end": 9.719, "words": [{"word": "More", "start": 4.367, "end": 4.682}, {"word": "people", "start": 4.722, "end": 5.194}, {"word": "are", "start": 5.234, "end": 5.47}, {"word": "discovering", "start": 5.51, "end": 6.376}, {"word": "the", "start": 6.416, "end": 6.652}, {"word": "pleasure", "start": 6.692, "end": 7.322}, {"word": "of", "start": 7.362, "end": 7.519}, {"word": "preparing", "start": 7.559, "end": 8.268}, {"word": "meals", "start": 8.308, "end": 8.701}, {"word": "in", "start": 8.741, "end": 8.899}, {"word": "their", "start": 8.939, "end": 9.332}, {"word": "own", "start": 9.372, "end": 9.608}, {"word": "kitchen", "start": 9.648, "end": 10.199}]}, {"text": "It is not just about saving money — it is also about enjoying the process and sharing food with the people you love.", "sent_start": 9.719, "sent_end": 17.531, "words": [{"word": "It", "start": 9.719, "end": 9.889}, {"word": "is", "start": 9.929, "end": 10.099}, {"word": "not", "start": 10.139, "end": 10.394}, {"word": "just", "start": 10.434, "end": 10.773}, {"word": "about", "start": 10.813, "end": 11.238}, {"word": "saving", "start": 11.278, "end": 11.787}, {"word": "money", "start": 11.827, "end": 12.252}, {"word": "it", "start": 12.292, "end": 12.462}, {"word": "is", "start": 12.502, "end": 12.671}, {"word": "also", "start": 12.711, "end": 13.051}, {"word": "about", "start": 13.091, "end": 13.516}, {"word": "enjoying", "start": 13.556, "end": 14.235}, {"word": "the", "start": 14.275, "end": 14.53}, {"word": "process", "start": 14.57, "end": 15.164}, {"word": "and", "start": 15.204, "end": 15.459}, {"word": "sharing", "start": 15.499, "end": 16.093}, {"word": "food", "start": 16.133, "end": 16.472}, {"word": "with", "start": 16.512, "end": 16.852}, {"word": "the", "start": 16.892, "end": 17.147}, {"word": "people", "start": 17.187, "end": 17.696}, {"word": "you", "start": 17.736, "end": 17.991}, {"word": "love", "start": 18.031, "end": 18.371}]}, {"text": "When you cook at home, you have full control over what goes into your food.", "sent_start": 17.531, "sent_end": 22.55, "words": [{"word": "When", "start": 17.531, "end": 17.871}, {"word": "you", "start": 17.911, "end": 18.166}, {"word": "cook", "start": 18.206, "end": 18.546}, {"word": "at", "start": 18.586, "end": 18.757}, {"word": "home", "start": 18.797, "end": 19.137}, {"word": "you", "start": 19.177, "end": 19.432}, {"word": "have", "start": 19.472, "end": 19.812}, {"word": "full", "start": 19.852, "end": 20.193}, {"word": "control", "start": 20.233, "end": 20.828}, {"word": "over", "start": 20.868, "end": 21.208}, {"word": "what", "start": 21.248, "end": 21.589}, {"word": "goes", "start": 21.629, "end": 21.969}, {"word": "into", "start": 22.009, "end": 22.349}, {"word": "your", "start": 22.389, "end": 22.73}, {"word": "food", "start": 22.77, "end": 23.11}]}, {"text": "You can choose fresh vegetables, healthy oils, and less salt.", "sent_start": 22.55, "sent_end": 27.528, "words": [{"word": "You", "start": 22.55, "end": 22.855}, {"word": "can", "start": 22.895, "end": 23.2}, {"word": "choose", "start": 23.24, "end": 23.849}, {"word": "fresh", "start": 23.889, "end": 24.397}, {"word": "vegetables", "start": 24.437, "end": 25.453}, {"word": "healthy", "start": 25.493, "end": 26.204}, {"word": "oils", "start": 26.244, "end": 26.65}, {"word": "and", "start": 26.69, "end": 26.995}, {"word": "less", "start": 27.035, "end": 27.441}, {"word": "salt", "start": 27.481, "end": 27.888}]}, {"text": "This makes home-cooked meals generally healthier than restaurant food.", "sent_start": 27.528, "sent_end": 32.422, "words": [{"word": "This", "start": 27.528, "end": 27.854}, {"word": "makes", "start": 27.894, "end": 28.302}, {"word": "home", "start": 28.342, "end": 28.668}, {"word": "cooked", "start": 28.708, "end": 29.198}, {"word": "meals", "start": 29.238, "end": 29.646}, {"word": "generally", "start": 29.686, "end": 30.42}, {"word": "healthier", "start": 30.46, "end": 31.194}, {"word": "than", "start": 31.234, "end": 31.56}, {"word": "restaurant", "start": 31.6, "end": 32.416}, {"word": "food", "start": 32.456, "end": 32.782}]}, {"text": "Many doctors suggest that eating at home more often can help people maintain a balanced diet and manage their weight.", "sent_start": 32.422, "sent_end": 40.233, "words": [{"word": "Many", "start": 32.422, "end": 32.744}, {"word": "doctors", "start": 32.784, "end": 33.348}, {"word": "suggest", "start": 33.388, "end": 33.952}, {"word": "that", "start": 33.992, "end": 34.314}, {"word": "eating", "start": 34.354, "end": 34.837}, {"word": "at", "start": 34.877, "end": 35.038}, {"word": "home", "start": 35.078, "end": 35.4}, {"word": "more", "start": 35.44, "end": 35.762}, {"word": "often", "start": 35.802, "end": 36.205}, {"word": "can", "start": 36.245, "end": 36.486}, {"word": "help", "start": 36.526, "end": 36.849}, {"word": "people", "start": 36.889, "end": 37.372}, {"word": "maintain", "start": 37.412, "end": 38.056}, {"word": "a", "start": 38.096, "end": 38.176}, {"word": "balanced", "start": 38.216, "end": 38.861}, {"word": "diet", "start": 38.901, "end": 39.223}, {"word": "and", "start": 39.263, "end": 39.504}, {"word": "manage", "start": 39.544, "end": 40.028}, {"word": "their", "start": 40.068, "end": 40.47}, {"word": "weight", "start": 40.51, "end": 40.993}]}, {"text": "Cooking can also be a wonderful way to relax after a busy day.", "sent_start": 40.233, "sent_end": 45.239, "words": [{"word": "Cooking", "start": 40.233, "end": 40.948}, {"word": "can", "start": 40.988, "end": 41.295}, {"word": "also", "start": 41.335, "end": 41.743}, {"word": "be", "start": 41.783, "end": 41.988}, {"word": "a", "start": 42.028, "end": 42.13}, {"word": "wonderful", "start": 42.17, "end": 43.089}, {"word": "way", "start": 43.129, "end": 43.436}, {"word": "to", "start": 43.476, "end": 43.68}, {"word": "relax", "start": 43.72, "end": 44.231}, {"word": "after", "start": 44.271, "end": 44.782}, {"word": "a", "start": 44.822, "end": 44.924}, {"word": "busy", "start": 44.964, "end": 45.372}, {"word": "day", "start": 45.412, "end": 45.719}]}, {"text": "Chopping vegetables, stirring a pot, or baking bread can feel like a creative activity.", "sent_start": 45.239, "sent_end": 51.967, "words": [{"word": "Chopping", "start": 45.239, "end": 45.997}, {"word": "vegetables", "start": 46.037, "end": 46.985}, {"word": "stirring", "start": 47.025, "end": 47.783}, {"word": "a", "start": 47.823, "end": 47.917}, {"word": "pot", "start": 47.957, "end": 48.242}, {"word": "or", "start": 48.282, "end": 48.471}, {"word": "baking", "start": 48.511, "end": 49.08}, {"word": "bread", "start": 49.12, "end": 49.593}, {"word": "can", "start": 49.633, "end": 49.918}, {"word": "feel", "start": 49.958, "end": 50.337}, {"word": "like", "start": 50.377, "end": 50.756}, {"word": "a", "start": 50.796, "end": 50.891}, {"word": "creative", "start": 50.931, "end": 51.689}, {"word": "activity", "start": 51.729, "end": 52.487}]}, {"text": "The smells and sounds in the kitchen help you forget about work stress.", "sent_start": 51.967, "sent_end": 56.889, "words": [{"word": "The", "start": 51.967, "end": 52.221}, {"word": "smells", "start": 52.261, "end": 52.77}, {"word": "and", "start": 52.81, "end": 53.065}, {"word": "sounds", "start": 53.105, "end": 53.614}, {"word": "in", "start": 53.654, "end": 53.824}, {"word": "the", "start": 53.864, "end": 54.119}, {"word": "kitchen", "start": 54.159, "end": 54.753}, {"word": "help", "start": 54.793, "end": 55.132}, {"word": "you", "start": 55.172, "end": 55.427}, {"word": "forget", "start": 55.467, "end": 55.976}, {"word": "about", "start": 56.016, "end": 56.44}, {"word": "work", "start": 56.48, "end": 56.82}, {"word": "stress", "start": 56.86, "end": 57.369}]}, {"text": "Some people even find cooking to be a form of meditation.", "sent_start": 56.889, "sent_end": 61.464, "words": [{"word": "Some", "start": 56.889, "end": 57.287}, {"word": "people", "start": 57.327, "end": 57.923}, {"word": "even", "start": 57.963, "end": 58.361}, {"word": "find", "start": 58.401, "end": 58.799}, {"word": "cooking", "start": 58.839, "end": 59.535}, {"word": "to", "start": 59.575, "end": 59.774}, {"word": "be", "start": 59.814, "end": 60.013}, {"word": "a", "start": 60.053, "end": 60.153}, {"word": "form", "start": 60.193, "end": 60.59}, {"word": "of", "start": 60.63, "end": 60.829}, {"word": "meditation", "start": 60.869, "end": 61.864}]}, {"text": "Another benefit is that cooking brings families together.", "sent_start": 61.464, "sent_end": 65.719, "words": [{"word": "Another", "start": 61.464, "end": 62.072}, {"word": "benefit", "start": 62.112, "end": 62.72}, {"word": "is", "start": 62.76, "end": 62.933}, {"word": "that", "start": 62.973, "end": 63.321}, {"word": "cooking", "start": 63.361, "end": 63.969}, {"word": "brings", "start": 64.009, "end": 64.53}, {"word": "families", "start": 64.57, "end": 65.265}, {"word": "together", "start": 65.305, "end": 65.999}]}, {"text": "When everyone helps in the kitchen, it becomes a team activity.", "sent_start": 65.719, "sent_end": 70.336, "words": [{"word": "When", "start": 65.719, "end": 66.082}, {"word": "everyone", "start": 66.122, "end": 66.846}, {"word": "helps", "start": 66.886, "end": 67.338}, {"word": "in", "start": 67.378, "end": 67.559}, {"word": "the", "start": 67.599, "end": 67.871}, {"word": "kitchen", "start": 67.911, "end": 68.545}, {"word": "it", "start": 68.585, "end": 68.766}, {"word": "becomes", "start": 68.806, "end": 69.439}, {"word": "a", "start": 69.479, "end": 69.57}, {"word": "team", "start": 69.61, "end": 69.972}, {"word": "activity", "start": 70.012, "end": 70.736}]}, {"text": "Children can learn basic life skills while spending quality time with their parents.", "sent_start": 70.336, "sent_end": 76.092, "words": [{"word": "Children", "start": 70.336, "end": 70.985}, {"word": "can", "start": 71.025, "end": 71.268}, {"word": "learn", "start": 71.308, "end": 71.713}, {"word": "basic", "start": 71.753, "end": 72.158}, {"word": "life", "start": 72.198, "end": 72.523}, {"word": "skills", "start": 72.563, "end": 73.049}, {"word": "while", "start": 73.089, "end": 73.494}, {"word": "spending", "start": 73.534, "end": 74.183}, {"word": "quality", "start": 74.223, "end": 74.79}, {"word": "time", "start": 74.83, "end": 75.155}, {"word": "with", "start": 75.195, "end": 75.519}, {"word": "their", "start": 75.559, "end": 75.964}, {"word": "parents", "start": 76.004, "end": 76.572}]}, {"text": "Family recipes passed down from grandparents become a way to keep traditions alive.", "sent_start": 76.092, "sent_end": 82.222, "words": [{"word": "Family", "start": 76.092, "end": 76.617}, {"word": "recipes", "start": 76.657, "end": 77.27}, {"word": "passed", "start": 77.31, "end": 77.836}, {"word": "down", "start": 77.876, "end": 78.226}, {"word": "from", "start": 78.266, "end": 78.616}, {"word": "grandparents", "start": 78.656, "end": 79.707}, {"word": "become", "start": 79.747, "end": 80.273}, {"word": "a", "start": 80.313, "end": 80.4}, {"word": "way", "start": 80.44, "end": 80.703}, {"word": "to", "start": 80.743, "end": 80.918}, {"word": "keep", "start": 80.958, "end": 81.309}, {"word": "traditions", "start": 81.349, "end": 82.224}, {"word": "alive", "start": 82.264, "end": 82.702}]}, {"text": "You do not need to be an expert to enjoy cooking.", "sent_start": 82.222, "sent_end": 86.089, "words": [{"word": "You", "start": 82.222, "end": 82.527}, {"word": "do", "start": 82.567, "end": 82.771}, {"word": "not", "start": 82.811, "end": 83.116}, {"word": "need", "start": 83.156, "end": 83.563}, {"word": "to", "start": 83.603, "end": 83.807}, {"word": "be", "start": 83.847, "end": 84.05}, {"word": "an", "start": 84.09, "end": 84.294}, {"word": "expert", "start": 84.334, "end": 84.944}, {"word": "to", "start": 84.984, "end": 85.188}, {"word": "enjoy", "start": 85.228, "end": 85.737}, {"word": "cooking", "start": 85.777, "end": 86.489}]}, {"text": "Start with simple dishes like pasta, soups, or salads.", "sent_start": 86.089, "sent_end": 91.094, "words": [{"word": "Start", "start": 86.089, "end": 86.671}, {"word": "with", "start": 86.711, "end": 87.177}, {"word": "simple", "start": 87.217, "end": 87.915}, {"word": "dishes", "start": 87.955, "end": 88.653}, {"word": "like", "start": 88.693, "end": 89.159}, {"word": "pasta", "start": 89.199, "end": 89.781}, {"word": "soups", "start": 89.821, "end": 90.403}, {"word": "or", "start": 90.443, "end": 90.676}, {"word": "salads", "start": 90.716, "end": 91.414}]}, {"text": "As you gain confidence, you can try more complex recipes.", "sent_start": 91.094, "sent_end": 96.058, "words": [{"word": "As", "start": 91.094, "end": 91.31}, {"word": "you", "start": 91.35, "end": 91.674}, {"word": "gain", "start": 91.714, "end": 92.146}, {"word": "confidence", "start": 92.186, "end": 93.265}, {"word": "you", "start": 93.305, "end": 93.628}, {"word": "can", "start": 93.668, "end": 93.992}, {"word": "try", "start": 94.032, "end": 94.356}, {"word": "more", "start": 94.396, "end": 94.828}, {"word": "complex", "start": 94.868, "end": 95.623}, {"word": "recipes", "start": 95.663, "end": 96.418}]}, {"text": "The most important thing is to have fun and be patient with yourself.", "sent_start": 96.058, "sent_end": 100.994, "words": [{"word": "The", "start": 96.058, "end": 96.323}, {"word": "most", "start": 96.363, "end": 96.715}, {"word": "important", "start": 96.755, "end": 97.549}, {"word": "thing", "start": 97.589, "end": 98.029}, {"word": "is", "start": 98.069, "end": 98.246}, {"word": "to", "start": 98.286, "end": 98.462}, {"word": "have", "start": 98.502, "end": 98.855}, {"word": "fun", "start": 98.895, "end": 99.159}, {"word": "and", "start": 99.199, "end": 99.463}, {"word": "be", "start": 99.503, "end": 99.68}, {"word": "patient", "start": 99.72, "end": 100.337}, {"word": "with", "start": 100.377, "end": 100.729}, {"word": "yourself", "start": 100.769, "end": 101.474}]}, {"text": "Every great cook started as a beginner.", "sent_start": 100.994, "sent_end": 104.306, "words": [{"word": "Every", "start": 100.994, "end": 101.512}, {"word": "great", "start": 101.552, "end": 102.069}, {"word": "cook", "start": 102.109, "end": 102.523}, {"word": "started", "start": 102.563, "end": 103.287}, {"word": "as", "start": 103.327, "end": 103.534}, {"word": "a", "start": 103.574, "end": 103.678}, {"word": "beginner", "start": 103.718, "end": 104.546}]}], "afternoon": [{"text": "", "sent_start": 0, "sent_end": 0, "words": []}]}};
+const AUDIO={"morning_en": "data:audio/mpeg;base64,//NkxAAAAANIAAAAAExBTUVVVVV...", "morning_cn_teach": "data:audio/mpeg;base64,//NkxAAAAANIAAAAAExBTUVVVVX..."};
+// Audio will be loaded on demand
+const AUDIO_SRC={};
+let currentTab='morning';
+let viewMode='karaoke'; // karaoke | reading
+let vocabMode='flashcard'; // flashcard | list
+let currentVocabIdx=0;
+let masteredWords=new Set();
+let audioEl=null;
+let animFrame=null;
+
+function loadAudio(key){
+  if(AUDIO_SRC[key]) return Promise.resolve(AUDIO_SRC[key]);
+  return fetch(`audio/${DATA.date}/${key}.mp3`).then(r=>r.blob()).then(b=>{
+    AUDIO_SRC[key]=URL.createObjectURL(b);
+    return AUDIO_SRC[key];
+  });
+}
+
+function fmtDate(){return '2026年7月22日 周三'}
+function switchTab(t){
+  currentTab=t;
+  document.getElementById('tM').className='tab'+(t==='morning'?' on-m':'');
+  document.getElementById('tA').className='tab'+(t==='afternoon'?' on-a':'');
+  stopAudio();
+  render();
+}
+function changeDate(d){alert('当前只有 2026年7月22日 周三 的内容，明天会自动更新~')}
+
+function stopAudio(){
+  if(audioEl){audioEl.pause();audioEl=null}
+  if(animFrame){cancelAnimationFrame(animFrame);animFrame=null}
+}
+
+function setPlaying(v){
+  const a=document.getElementById('album');
+  if(a){v?a.classList.add('playing'):a.classList.remove('playing')}
+}
+
+// === RENDER ===
+function render(){
+  const d=DATA[currentTab];
+  const isM=currentTab==='morning';
+  const cls=isM?'morning':'afternoon';
+  const acls=isM?'ma':'aa';
+  const emoji=isM?'🌅':'💼';
+  
+  document.getElementById('curDate').textContent=fmtDate();
+  document.getElementById('main').innerHTML=`
+    <div class="fade-in">
+      <div class="sec ${cls}">
+        <div class="np">
+          <div class="album ${acls}" id="album">${emoji}</div>
+          <div class="tinfo">
+            <div class="lbl">${d.level} · ${fmtDate()}</div>
+            <div class="ttl">${d.title_en}</div>
+            <div class="ttlcn">${d.title_cn}</div>
+          </div>
+        </div>
+        <div class="arow">
+          <div class="ic">🇺🇸</div>
+          <div class="al">英文朗读</div>
+          <audio id="enAudio" controls preload="auto" onplay="onEnPlay()" onpause="setPlaying(false)" onended="onEnEnd()"></audio>
+        </div>
+        <div class="arow">
+          <div class="ic">🇨🇳</div>
+          <div class="al">中文讲解</div>
+          <audio id="cnAudio" controls preload="auto" onplay="setPlaying(true)" onpause="setPlaying(false)" onended="setPlaying(false)"></audio>
+        </div>
+      </div>
+      
+      <div class="modes" id="modesBar">
+        <button class="mode-btn active" id="modeKaraoke" onclick="setMode('karaoke')">🎤 跟读模式</button>
+        <button class="mode-btn" id="modeReading" onclick="setMode('reading')">📖 阅读模式</button>
+      </div>
+      
+      <div id="contentView"></div>
+      
+      <div style="margin-top:16px">
+        <div class="modes">
+          <button class="mode-btn active" id="modeFC" onclick="setVocabMode('flashcard')">🃏 单词卡片</button>
+          <button class="mode-btn" id="modeList" onclick="setVocabMode('list')">📋 词汇表</button>
+        </div>
+        <div id="vocabView"></div>
+      </div>
+      
+      <div style="margin-top:16px">
+        <div class="sec-title">💡 重点句子</div>
+        ${d.key_sentences.map(s=>`
+          <div class="s-card">
+            <div class="en">${s.en}</div>
+            <div class="cn">${s.cn}</div>
+            <div class="gr">📌 ${s.grammar}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+  
+  // Load audio sources
+  loadAudio(currentTab+'_en').then(src=>{document.getElementById('enAudio').src=src});
+  loadAudio(currentTab+'_cn_teach').then(src=>{document.getElementById('cnAudio').src=src});
+  
+  currentVocabIdx=0;
+  masteredWords=new Set();
+  renderContent();
+  renderVocab();
+}
+
+function setMode(m){
+  viewMode=m;
+  document.getElementById('modeKaraoke').className='mode-btn'+(m==='karaoke'?' active':'');
+  document.getElementById('modeReading').className='mode-btn'+(m==='reading'?' active':'');
+  renderContent();
+}
+
+function splitParas(text){return text.split(/\n\n+/).filter(p=>p.trim())}
+
+function renderContent(){
+  const d=DATA[currentTab];
+  const cv=document.getElementById('contentView');
+  if(!cv)return;
+  
+  const enParas=splitParas(d.content_en);
+  const cnParas=splitParas(d.content_cn);
+  const t=DATA.timing[currentTab];
+  
+  // Map timing sentences to paragraph indices
+  let sentIdx=0;
+  const sentParaMap=[];
+  enParas.forEach((para,pi)=>{
+    const paraSents=para.match(/[^.!?]+[.!?]+/g)||[para];
+    paraSents.forEach(()=>{sentParaMap.push(pi);sentIdx++});
+  });
+  
+  if(viewMode==='karaoke'){
+    let html='<div class="karaoke" id="karaokeBox">';
+    let lastPara=-1;
+    t.forEach((sent,si)=>{
+      const pi=sentParaMap[si]!==undefined?sentParaMap[si]:enParas.length-1;
+      if(pi!==lastPara){
+        if(lastPara>=0&&cnParas[lastPara]){
+          html+='<span class="sent-cn">'+cnParas[lastPara]+'</span>';
+        }
+        lastPara=pi;
+      }
+      html+='<span class="sent">';
+      sent.words.forEach((w,wi)=>{
+        html+=`<span class="w" data-t="${w.start}" data-e="${w.end}" data-s="${si}" data-wi="${wi}">${w.word}</span> `;
+      });
+      html+='</span>';
+    });
+    if(lastPara>=0&&cnParas[lastPara]){
+      html+='<span class="sent-cn">'+cnParas[lastPara]+'</span>';
+    }
+    html+='</div>';
+    cv.innerHTML=html;
+  } else {
+    let html='';
+    enParas.forEach((enP,i)=>{
+      html+='<div class="para-pair">';
+      html+='<div class="para-en">'+enP+'</div>';
+      if(cnParas[i]) html+='<div class="para-cn">'+cnParas[i]+'</div>';
+      html+='</div>';
+    });
+    cv.innerHTML=html;
+  }
+}
+
+// === KARAOKE SYNC ===
+function onEnPlay(){
+  setPlaying(true);
+  audioEl=document.getElementById('enAudio');
+  syncLoop();
+}
+function onEnEnd(){
+  setPlaying(false);
+  if(animFrame){cancelAnimationFrame(animFrame);animFrame=null}
+  // Reset all words
+  document.querySelectorAll('.karaoke .w').forEach(w=>{
+    w.classList.remove('active','read');
+  });
+}
+
+function syncLoop(){
+  if(!audioEl||audioEl.paused)return;
+  const t=audioEl.currentTime;
+  const words=document.querySelectorAll('.karaoke .w');
+  let activeIdx=-1;
+  
+  words.forEach((el,i)=>{
+    const start=parseFloat(el.dataset.t);
+    const end=parseFloat(el.dataset.e);
+    if(t>=start&&t<end){
+      el.classList.add('active');
+      el.classList.add('read');
+      activeIdx=i;
+    } else if(t>=end){
+      el.classList.remove('active');
+      el.classList.add('read');
+    } else {
+      el.classList.remove('active','read');
+    }
+  });
+  
+  // Auto scroll to active word
+  if(activeIdx>=0){
+    const activeEl=words[activeIdx];
+    const box=document.getElementById('karaokeBox');
+    if(box&&activeEl){
+      const elTop=activeEl.offsetTop-box.offsetTop;
+      const boxH=box.clientHeight;
+      if(elTop>boxH*0.6){
+        box.scrollTop=elTop-boxH*0.3;
+      }
+    }
+  }
+  
+  animFrame=requestAnimationFrame(syncLoop);
+}
+
+// === VOCAB FLASHCARD ===
+function setVocabMode(m){
+  vocabMode=m;
+  document.getElementById('modeFC').className='mode-btn'+(m==='flashcard'?' active':'');
+  document.getElementById('modeList').className='mode-btn'+(m==='list'?' active':'');
+  renderVocab();
+}
+
+function renderVocab(){
+  const d=DATA[currentTab];
+  const vv=d.vocabulary;
+  const container=document.getElementById('vocabView');
+  if(!container)return;
+  
+  if(vocabMode==='flashcard'){
+    const v=vv[currentVocabIdx];
+    const pct=((currentVocabIdx+1)/vv.length*100).toFixed(0);
+    const isMastered=masteredWords.has(v.word);
+    container.innerHTML=`
+      <div class="fc-container">
+        <div class="fc-progress">
+          <div class="bar"><div class="fill" style="width:${pct}%"></div></div>
+          <div class="cnt">${currentVocabIdx+1}/${vv.length}</div>
+        </div>
+        <div class="fc-card">
+          <button class="fc-speak-btn" onclick="speakWord('${v.word}')">🔊</button>
+          <div class="fc-word" onclick="speakWord('${v.word}')">${v.word}</div>
+          <div class="fc-phonetic">${v.phonetic}</div>
+          <div class="fc-meaning">${v.meaning}</div>
+          ${isMastered?'<div style="color:var(--ok);font-size:12px;margin-top:8px">✅ 已掌握</div>':''}
+        </div>
+        <div class="fc-actions">
+          <button class="fc-btn prev" onclick="vocabPrev()" ${currentVocabIdx===0?'disabled':''}>⬅ 上一个</button>
+          <button class="fc-btn skip" onclick="vocabSkip()">😅 不熟</button>
+          <button class="fc-btn know" onclick="vocabKnow()">✅ 掌握了</button>
+        </div>
+      </div>
+    `;
+  } else {
+    container.innerHTML=`
+      <div class="vocab-grid">
+        ${vv.map(v=>`
+          <div class="v-item ${masteredWords.has(v.word)?'mastered':''}" onclick="speakWord('${v.word}')">
+            <div>
+              <div class="vw">${v.word}</div>
+              <div class="vp">${v.phonetic}</div>
+            </div>
+            <div class="vm">${v.meaning}</div>
+          </div>
+        `).join('')}
+      </div>
+      <div style="text-align:center;margin-top:12px;color:var(--dim);font-size:12px">
+        已掌握 ${masteredWords.size}/${vv.length} 个单词
+      </div>
+    `;
+  }
+}
+
+function vocabNext(){
+  const vv=DATA[currentTab].vocabulary;
+  if(currentVocabIdx<vv.length-1){currentVocabIdx++;renderVocab()}
+}
+function vocabPrev(){
+  if(currentVocabIdx>0){currentVocabIdx--;renderVocab()}
+}
+function vocabSkip(){vocabNext()}
+function vocabKnow(){
+  const v=DATA[currentTab].vocabulary[currentVocabIdx];
+  masteredWords.add(v.word);
+  vocabNext();
+}
+
+function speakWord(w){
+  const u=new SpeechSynthesisUtterance(w);
+  u.lang='en-US';u.rate=0.8;
+  speechSynthesis.speak(u);
+}
+
+// Init
+render();
+</script>
+</body>
+</html>
