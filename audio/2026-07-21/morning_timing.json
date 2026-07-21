@@ -1,0 +1,1149 @@
+[
+  {
+    "text": "Reading is one of the most valuable habits a person can develop.",
+    "sent_start": 0.0,
+    "sent_end": 4.811,
+    "words": [
+      {
+        "word": "Reading",
+        "start": 0.0,
+        "end": 0.648
+      },
+      {
+        "word": "is",
+        "start": 0.688,
+        "end": 0.873
+      },
+      {
+        "word": "one",
+        "start": 0.913,
+        "end": 1.19
+      },
+      {
+        "word": "of",
+        "start": 1.23,
+        "end": 1.415
+      },
+      {
+        "word": "the",
+        "start": 1.455,
+        "end": 1.733
+      },
+      {
+        "word": "most",
+        "start": 1.773,
+        "end": 2.143
+      },
+      {
+        "word": "valuable",
+        "start": 2.183,
+        "end": 2.923
+      },
+      {
+        "word": "habits",
+        "start": 2.963,
+        "end": 3.518
+      },
+      {
+        "word": "a",
+        "start": 3.558,
+        "end": 3.651
+      },
+      {
+        "word": "person",
+        "start": 3.691,
+        "end": 4.246
+      },
+      {
+        "word": "can",
+        "start": 4.286,
+        "end": 4.563
+      },
+      {
+        "word": "develop",
+        "start": 4.603,
+        "end": 5.251
+      }
+    ]
+  },
+  {
+    "text": "Whether you prefer novels, newspapers, or online articles, reading helps you gain knowledge and improve your thinking skills.",
+    "sent_start": 4.811,
+    "sent_end": 13.581,
+    "words": [
+      {
+        "word": "Whether",
+        "start": 4.811,
+        "end": 5.401
+      },
+      {
+        "word": "you",
+        "start": 5.441,
+        "end": 5.694
+      },
+      {
+        "word": "prefer",
+        "start": 5.734,
+        "end": 6.24
+      },
+      {
+        "word": "novels",
+        "start": 6.28,
+        "end": 6.786
+      },
+      {
+        "word": "newspapers",
+        "start": 6.826,
+        "end": 7.669
+      },
+      {
+        "word": "or",
+        "start": 7.709,
+        "end": 7.878
+      },
+      {
+        "word": "online",
+        "start": 7.918,
+        "end": 8.424
+      },
+      {
+        "word": "articles",
+        "start": 8.464,
+        "end": 9.139
+      },
+      {
+        "word": "reading",
+        "start": 9.179,
+        "end": 9.769
+      },
+      {
+        "word": "helps",
+        "start": 9.809,
+        "end": 10.23
+      },
+      {
+        "word": "you",
+        "start": 10.27,
+        "end": 10.523
+      },
+      {
+        "word": "gain",
+        "start": 10.563,
+        "end": 10.901
+      },
+      {
+        "word": "knowledge",
+        "start": 10.941,
+        "end": 11.7
+      },
+      {
+        "word": "and",
+        "start": 11.74,
+        "end": 11.993
+      },
+      {
+        "word": "improve",
+        "start": 12.033,
+        "end": 12.623
+      },
+      {
+        "word": "your",
+        "start": 12.663,
+        "end": 13.0
+      },
+      {
+        "word": "thinking",
+        "start": 13.04,
+        "end": 13.715
+      },
+      {
+        "word": "skills",
+        "start": 13.755,
+        "end": 14.261
+      }
+    ]
+  },
+  {
+    "text": "When you read regularly, your vocabulary grows naturally.",
+    "sent_start": 13.581,
+    "sent_end": 18.35,
+    "words": [
+      {
+        "word": "When",
+        "start": 13.581,
+        "end": 13.978
+      },
+      {
+        "word": "you",
+        "start": 14.018,
+        "end": 14.316
+      },
+      {
+        "word": "read",
+        "start": 14.356,
+        "end": 14.754
+      },
+      {
+        "word": "regularly",
+        "start": 14.794,
+        "end": 15.688
+      },
+      {
+        "word": "your",
+        "start": 15.728,
+        "end": 16.125
+      },
+      {
+        "word": "vocabulary",
+        "start": 16.165,
+        "end": 17.159
+      },
+      {
+        "word": "grows",
+        "start": 17.199,
+        "end": 17.696
+      },
+      {
+        "word": "naturally",
+        "start": 17.736,
+        "end": 18.63
+      }
+    ]
+  },
+  {
+    "text": "You encounter new words in context, which makes them easier to remember than memorizing a list.",
+    "sent_start": 18.35,
+    "sent_end": 25.342,
+    "words": [
+      {
+        "word": "You",
+        "start": 18.35,
+        "end": 18.619
+      },
+      {
+        "word": "encounter",
+        "start": 18.659,
+        "end": 19.466
+      },
+      {
+        "word": "new",
+        "start": 19.506,
+        "end": 19.775
+      },
+      {
+        "word": "words",
+        "start": 19.815,
+        "end": 20.263
+      },
+      {
+        "word": "in",
+        "start": 20.303,
+        "end": 20.482
+      },
+      {
+        "word": "context",
+        "start": 20.522,
+        "end": 21.149
+      },
+      {
+        "word": "which",
+        "start": 21.189,
+        "end": 21.638
+      },
+      {
+        "word": "makes",
+        "start": 21.678,
+        "end": 22.126
+      },
+      {
+        "word": "them",
+        "start": 22.166,
+        "end": 22.524
+      },
+      {
+        "word": "easier",
+        "start": 22.564,
+        "end": 23.102
+      },
+      {
+        "word": "to",
+        "start": 23.142,
+        "end": 23.321
+      },
+      {
+        "word": "remember",
+        "start": 23.361,
+        "end": 24.079
+      },
+      {
+        "word": "than",
+        "start": 24.119,
+        "end": 24.477
+      },
+      {
+        "word": "memorizing",
+        "start": 24.517,
+        "end": 25.413
+      },
+      {
+        "word": "a",
+        "start": 25.453,
+        "end": 25.543
+      },
+      {
+        "word": "list",
+        "start": 25.583,
+        "end": 25.942
+      }
+    ]
+  },
+  {
+    "text": "Research shows that people who read for just twenty minutes a day learn thousands more words over a year than those who do not.",
+    "sent_start": 25.342,
+    "sent_end": 33.444,
+    "words": [
+      {
+        "word": "Research",
+        "start": 25.342,
+        "end": 25.971
+      },
+      {
+        "word": "shows",
+        "start": 26.011,
+        "end": 26.404
+      },
+      {
+        "word": "that",
+        "start": 26.444,
+        "end": 26.759
+      },
+      {
+        "word": "people",
+        "start": 26.799,
+        "end": 27.271
+      },
+      {
+        "word": "who",
+        "start": 27.311,
+        "end": 27.547
+      },
+      {
+        "word": "read",
+        "start": 27.587,
+        "end": 27.902
+      },
+      {
+        "word": "for",
+        "start": 27.942,
+        "end": 28.178
+      },
+      {
+        "word": "just",
+        "start": 28.218,
+        "end": 28.532
+      },
+      {
+        "word": "twenty",
+        "start": 28.572,
+        "end": 29.044
+      },
+      {
+        "word": "minutes",
+        "start": 29.084,
+        "end": 29.635
+      },
+      {
+        "word": "a",
+        "start": 29.675,
+        "end": 29.754
+      },
+      {
+        "word": "day",
+        "start": 29.794,
+        "end": 30.03
+      },
+      {
+        "word": "learn",
+        "start": 30.07,
+        "end": 30.463
+      },
+      {
+        "word": "thousands",
+        "start": 30.503,
+        "end": 31.211
+      },
+      {
+        "word": "more",
+        "start": 31.251,
+        "end": 31.566
+      },
+      {
+        "word": "words",
+        "start": 31.606,
+        "end": 31.999
+      },
+      {
+        "word": "over",
+        "start": 32.039,
+        "end": 32.354
+      },
+      {
+        "word": "a",
+        "start": 32.394,
+        "end": 32.472
+      },
+      {
+        "word": "year",
+        "start": 32.512,
+        "end": 32.827
+      },
+      {
+        "word": "than",
+        "start": 32.867,
+        "end": 33.182
+      },
+      {
+        "word": "those",
+        "start": 33.222,
+        "end": 33.615
+      },
+      {
+        "word": "who",
+        "start": 33.655,
+        "end": 33.891
+      },
+      {
+        "word": "do",
+        "start": 33.931,
+        "end": 34.088
+      },
+      {
+        "word": "not",
+        "start": 34.128,
+        "end": 34.364
+      }
+    ]
+  },
+  {
+    "text": "Reading also reduces stress.",
+    "sent_start": 33.444,
+    "sent_end": 36.506,
+    "words": [
+      {
+        "word": "Reading",
+        "start": 33.444,
+        "end": 34.337
+      },
+      {
+        "word": "also",
+        "start": 34.377,
+        "end": 34.887
+      },
+      {
+        "word": "reduces",
+        "start": 34.927,
+        "end": 35.82
+      },
+      {
+        "word": "stress",
+        "start": 35.86,
+        "end": 36.626
+      }
+    ]
+  },
+  {
+    "text": "A study found that reading for only six minutes can lower your heart rate and ease muscle tension.",
+    "sent_start": 36.506,
+    "sent_end": 43.178,
+    "words": [
+      {
+        "word": "A",
+        "start": 36.506,
+        "end": 36.589
+      },
+      {
+        "word": "study",
+        "start": 36.629,
+        "end": 37.046
+      },
+      {
+        "word": "found",
+        "start": 37.086,
+        "end": 37.503
+      },
+      {
+        "word": "that",
+        "start": 37.543,
+        "end": 37.877
+      },
+      {
+        "word": "reading",
+        "start": 37.917,
+        "end": 38.5
+      },
+      {
+        "word": "for",
+        "start": 38.54,
+        "end": 38.791
+      },
+      {
+        "word": "only",
+        "start": 38.831,
+        "end": 39.164
+      },
+      {
+        "word": "six",
+        "start": 39.204,
+        "end": 39.454
+      },
+      {
+        "word": "minutes",
+        "start": 39.494,
+        "end": 40.078
+      },
+      {
+        "word": "can",
+        "start": 40.118,
+        "end": 40.368
+      },
+      {
+        "word": "lower",
+        "start": 40.408,
+        "end": 40.825
+      },
+      {
+        "word": "your",
+        "start": 40.865,
+        "end": 41.199
+      },
+      {
+        "word": "heart",
+        "start": 41.239,
+        "end": 41.656
+      },
+      {
+        "word": "rate",
+        "start": 41.696,
+        "end": 42.03
+      },
+      {
+        "word": "and",
+        "start": 42.07,
+        "end": 42.32
+      },
+      {
+        "word": "ease",
+        "start": 42.36,
+        "end": 42.694
+      },
+      {
+        "word": "muscle",
+        "start": 42.734,
+        "end": 43.234
+      },
+      {
+        "word": "tension",
+        "start": 43.274,
+        "end": 43.858
+      }
+    ]
+  },
+  {
+    "text": "It is like a mini vacation for your mind.",
+    "sent_start": 43.178,
+    "sent_end": 46.586,
+    "words": [
+      {
+        "word": "It",
+        "start": 43.178,
+        "end": 43.391
+      },
+      {
+        "word": "is",
+        "start": 43.431,
+        "end": 43.644
+      },
+      {
+        "word": "like",
+        "start": 43.684,
+        "end": 44.11
+      },
+      {
+        "word": "a",
+        "start": 44.15,
+        "end": 44.256
+      },
+      {
+        "word": "mini",
+        "start": 44.296,
+        "end": 44.722
+      },
+      {
+        "word": "vacation",
+        "start": 44.762,
+        "end": 45.614
+      },
+      {
+        "word": "for",
+        "start": 45.654,
+        "end": 45.974
+      },
+      {
+        "word": "your",
+        "start": 46.014,
+        "end": 46.44
+      },
+      {
+        "word": "mind",
+        "start": 46.48,
+        "end": 46.906
+      }
+    ]
+  },
+  {
+    "text": "Many doctors recommend reading before bed instead of using a phone or watching television.",
+    "sent_start": 46.586,
+    "sent_end": 53.05,
+    "words": [
+      {
+        "word": "Many",
+        "start": 46.586,
+        "end": 46.926
+      },
+      {
+        "word": "doctors",
+        "start": 46.966,
+        "end": 47.562
+      },
+      {
+        "word": "recommend",
+        "start": 47.602,
+        "end": 48.367
+      },
+      {
+        "word": "reading",
+        "start": 48.407,
+        "end": 49.002
+      },
+      {
+        "word": "before",
+        "start": 49.042,
+        "end": 49.553
+      },
+      {
+        "word": "bed",
+        "start": 49.593,
+        "end": 49.848
+      },
+      {
+        "word": "instead",
+        "start": 49.888,
+        "end": 50.483
+      },
+      {
+        "word": "of",
+        "start": 50.523,
+        "end": 50.693
+      },
+      {
+        "word": "using",
+        "start": 50.733,
+        "end": 51.159
+      },
+      {
+        "word": "a",
+        "start": 51.199,
+        "end": 51.284
+      },
+      {
+        "word": "phone",
+        "start": 51.324,
+        "end": 51.749
+      },
+      {
+        "word": "or",
+        "start": 51.789,
+        "end": 51.959
+      },
+      {
+        "word": "watching",
+        "start": 51.999,
+        "end": 52.679
+      },
+      {
+        "word": "television",
+        "start": 52.719,
+        "end": 53.57
+      }
+    ]
+  },
+  {
+    "text": "Moreover, reading strengthens your ability to focus.",
+    "sent_start": 53.05,
+    "sent_end": 57.5,
+    "words": [
+      {
+        "word": "Moreover",
+        "start": 53.05,
+        "end": 53.859
+      },
+      {
+        "word": "reading",
+        "start": 53.899,
+        "end": 54.607
+      },
+      {
+        "word": "strengthens",
+        "start": 54.647,
+        "end": 55.76
+      },
+      {
+        "word": "your",
+        "start": 55.8,
+        "end": 56.204
+      },
+      {
+        "word": "ability",
+        "start": 56.244,
+        "end": 56.952
+      },
+      {
+        "word": "to",
+        "start": 56.992,
+        "end": 57.194
+      },
+      {
+        "word": "focus",
+        "start": 57.234,
+        "end": 57.74
+      }
+    ]
+  },
+  {
+    "text": "In a world full of distractions, sitting down with a book trains your brain to concentrate on one thing for a longer period.",
+    "sent_start": 57.5,
+    "sent_end": 65.756,
+    "words": [
+      {
+        "word": "In",
+        "start": 57.5,
+        "end": 57.665
+      },
+      {
+        "word": "a",
+        "start": 57.705,
+        "end": 57.788
+      },
+      {
+        "word": "world",
+        "start": 57.828,
+        "end": 58.24
+      },
+      {
+        "word": "full",
+        "start": 58.28,
+        "end": 58.611
+      },
+      {
+        "word": "of",
+        "start": 58.651,
+        "end": 58.816
+      },
+      {
+        "word": "distractions",
+        "start": 58.856,
+        "end": 59.846
+      },
+      {
+        "word": "sitting",
+        "start": 59.886,
+        "end": 60.464
+      },
+      {
+        "word": "down",
+        "start": 60.504,
+        "end": 60.835
+      },
+      {
+        "word": "with",
+        "start": 60.875,
+        "end": 61.205
+      },
+      {
+        "word": "a",
+        "start": 61.245,
+        "end": 61.327
+      },
+      {
+        "word": "book",
+        "start": 61.367,
+        "end": 61.698
+      },
+      {
+        "word": "trains",
+        "start": 61.738,
+        "end": 62.233
+      },
+      {
+        "word": "your",
+        "start": 62.273,
+        "end": 62.603
+      },
+      {
+        "word": "brain",
+        "start": 62.643,
+        "end": 63.056
+      },
+      {
+        "word": "to",
+        "start": 63.096,
+        "end": 63.261
+      },
+      {
+        "word": "concentrate",
+        "start": 63.301,
+        "end": 64.209
+      },
+      {
+        "word": "on",
+        "start": 64.249,
+        "end": 64.414
+      },
+      {
+        "word": "one",
+        "start": 64.454,
+        "end": 64.702
+      },
+      {
+        "word": "thing",
+        "start": 64.742,
+        "end": 65.155
+      },
+      {
+        "word": "for",
+        "start": 65.195,
+        "end": 65.442
+      },
+      {
+        "word": "a",
+        "start": 65.482,
+        "end": 65.565
+      },
+      {
+        "word": "longer",
+        "start": 65.605,
+        "end": 66.1
+      },
+      {
+        "word": "period",
+        "start": 66.14,
+        "end": 66.636
+      }
+    ]
+  },
+  {
+    "text": "This skill is useful in every area of life, from work to relationships.",
+    "sent_start": 65.756,
+    "sent_end": 71.497,
+    "words": [
+      {
+        "word": "This",
+        "start": 65.756,
+        "end": 66.158
+      },
+      {
+        "word": "skill",
+        "start": 66.198,
+        "end": 66.702
+      },
+      {
+        "word": "is",
+        "start": 66.742,
+        "end": 66.944
+      },
+      {
+        "word": "useful",
+        "start": 66.984,
+        "end": 67.588
+      },
+      {
+        "word": "in",
+        "start": 67.628,
+        "end": 67.829
+      },
+      {
+        "word": "every",
+        "start": 67.869,
+        "end": 68.373
+      },
+      {
+        "word": "area",
+        "start": 68.413,
+        "end": 68.816
+      },
+      {
+        "word": "of",
+        "start": 68.856,
+        "end": 69.057
+      },
+      {
+        "word": "life",
+        "start": 69.097,
+        "end": 69.5
+      },
+      {
+        "word": "from",
+        "start": 69.54,
+        "end": 69.943
+      },
+      {
+        "word": "work",
+        "start": 69.983,
+        "end": 70.386
+      },
+      {
+        "word": "to",
+        "start": 70.426,
+        "end": 70.628
+      },
+      {
+        "word": "relationships",
+        "start": 70.668,
+        "end": 71.977
+      }
+    ]
+  },
+  {
+    "text": "If you want to build a reading habit, start small.",
+    "sent_start": 71.497,
+    "sent_end": 75.433,
+    "words": [
+      {
+        "word": "If",
+        "start": 71.497,
+        "end": 71.699
+      },
+      {
+        "word": "you",
+        "start": 71.739,
+        "end": 72.042
+      },
+      {
+        "word": "want",
+        "start": 72.082,
+        "end": 72.486
+      },
+      {
+        "word": "to",
+        "start": 72.526,
+        "end": 72.727
+      },
+      {
+        "word": "build",
+        "start": 72.767,
+        "end": 73.272
+      },
+      {
+        "word": "a",
+        "start": 73.312,
+        "end": 73.413
+      },
+      {
+        "word": "reading",
+        "start": 73.453,
+        "end": 74.159
+      },
+      {
+        "word": "habit",
+        "start": 74.199,
+        "end": 74.704
+      },
+      {
+        "word": "start",
+        "start": 74.744,
+        "end": 75.249
+      },
+      {
+        "word": "small",
+        "start": 75.289,
+        "end": 75.793
+      }
+    ]
+  },
+  {
+    "text": "Choose books that interest you and set aside a specific time each day.",
+    "sent_start": 75.433,
+    "sent_end": 80.592,
+    "words": [
+      {
+        "word": "Choose",
+        "start": 75.433,
+        "end": 75.976
+      },
+      {
+        "word": "books",
+        "start": 76.016,
+        "end": 76.469
+      },
+      {
+        "word": "that",
+        "start": 76.509,
+        "end": 76.871
+      },
+      {
+        "word": "interest",
+        "start": 76.911,
+        "end": 77.635
+      },
+      {
+        "word": "you",
+        "start": 77.675,
+        "end": 77.946
+      },
+      {
+        "word": "and",
+        "start": 77.986,
+        "end": 78.258
+      },
+      {
+        "word": "set",
+        "start": 78.298,
+        "end": 78.569
+      },
+      {
+        "word": "aside",
+        "start": 78.609,
+        "end": 79.062
+      },
+      {
+        "word": "a",
+        "start": 79.102,
+        "end": 79.192
+      },
+      {
+        "word": "specific",
+        "start": 79.232,
+        "end": 79.956
+      },
+      {
+        "word": "time",
+        "start": 79.996,
+        "end": 80.358
+      },
+      {
+        "word": "each",
+        "start": 80.398,
+        "end": 80.76
+      },
+      {
+        "word": "day",
+        "start": 80.8,
+        "end": 81.072
+      }
+    ]
+  },
+  {
+    "text": "Even five pages before sleep can make a big difference over time.",
+    "sent_start": 80.592,
+    "sent_end": 85.514,
+    "words": [
+      {
+        "word": "Even",
+        "start": 80.592,
+        "end": 80.963
+      },
+      {
+        "word": "five",
+        "start": 81.003,
+        "end": 81.375
+      },
+      {
+        "word": "pages",
+        "start": 81.415,
+        "end": 81.879
+      },
+      {
+        "word": "before",
+        "start": 81.919,
+        "end": 82.476
+      },
+      {
+        "word": "sleep",
+        "start": 82.516,
+        "end": 82.981
+      },
+      {
+        "word": "can",
+        "start": 83.021,
+        "end": 83.299
+      },
+      {
+        "word": "make",
+        "start": 83.339,
+        "end": 83.711
+      },
+      {
+        "word": "a",
+        "start": 83.751,
+        "end": 83.844
+      },
+      {
+        "word": "big",
+        "start": 83.884,
+        "end": 84.162
+      },
+      {
+        "word": "difference",
+        "start": 84.202,
+        "end": 85.131
+      },
+      {
+        "word": "over",
+        "start": 85.171,
+        "end": 85.542
+      },
+      {
+        "word": "time",
+        "start": 85.582,
+        "end": 85.954
+      }
+    ]
+  },
+  {
+    "text": "The key is consistency, not speed.",
+    "sent_start": 85.514,
+    "sent_end": 89.103,
+    "words": [
+      {
+        "word": "The",
+        "start": 85.514,
+        "end": 85.913
+      },
+      {
+        "word": "key",
+        "start": 85.953,
+        "end": 86.351
+      },
+      {
+        "word": "is",
+        "start": 86.391,
+        "end": 86.657
+      },
+      {
+        "word": "consistency",
+        "start": 86.697,
+        "end": 88.159
+      },
+      {
+        "word": "not",
+        "start": 88.199,
+        "end": 88.598
+      },
+      {
+        "word": "speed",
+        "start": 88.638,
+        "end": 89.303
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026-07-20",
+    "morning": {
+      "title_en": "The Magic of Morning Routines",
+      "title_cn": "早晨例行活动的魔力",
+      "level": "基础篇",
+      "content_en": "Many successful people believe that having a good morning routine is the key to a productive day. When you wake up early, you have more time to prepare for the challenges ahead.\n\nA simple morning routine might include exercise, reading, and a healthy breakfast. Exercise helps you feel energized and focused. Reading a few pages of a book can inspire you and broaden your horizons. A nutritious breakfast gives your body the fuel it needs to work efficiently.\n\nScientists have found that our willpower is strongest in the morning. This means it is the best time to tackle difficult tasks. If you start your day with a clear plan, you are more likely to achieve your goals.\n\nHowever, building a new habit takes time. Experts suggest that it takes about 21 days to form a new routine. So, do not give up if you find it difficult at first. Keep practicing, and soon your morning routine will become a natural part of your life.",
+      "content_cn": "许多成功人士认为，良好的早晨例行活动是一天高效工作的关键。当你早起时，你有更多的时间为接下来的挑战做准备。\n\n一个简单的早晨例行活动可能包括锻炼、阅读和健康的早餐。锻炼帮助你感到精力充沛和专注。阅读几页书可以启发你并拓宽你的视野。营养丰富的早餐为你的身体提供高效工作所需的能量。\n\n科学家发现，我们的意志力在早上最强。这意味着这是处理困难任务的最佳时间。如果你以清晰的计划开始一天，你更有可能实现你的目标。\n\n然而，养成一个新习惯需要时间。专家建议，形成一个新的例行活动大约需要21天。所以，如果一开始你觉得困难，不要放弃。坚持练习，很快你的早晨例行活动就会成为你生活中自然的一部分。",
+      "vocabulary": [
+        {"word": "productive", "phonetic": "/prəˈdʌktɪv/", "meaning": "高效的，有成效的"},
+        {"word": "energized", "phonetic": "/ˈenərdʒaɪzd/", "meaning": "精力充沛的"},
+        {"word": "horizons", "phonetic": "/həˈraɪznz/", "meaning": "视野，眼界"},
+        {"word": "nutritious", "phonetic": "/nuˈtrɪʃəs/", "meaning": "营养丰富的"},
+        {"word": "willpower", "phonetic": "/ˈwɪlpaʊər/", "meaning": "意志力"},
+        {"word": "tackle", "phonetic": "/ˈtækl/", "meaning": "处理，应对"},
+        {"word": "routine", "phonetic": "/ruːˈtiːn/", "meaning": "例行活动，常规"},
+        {"word": "horizon", "phonetic": "/həˈraɪzn/", "meaning": "地平线，视野"}
+      ],
+      "key_sentences": [
+        {"en": "Many successful people believe that having a good morning routine is the key to a productive day.", "cn": "许多成功人士认为，良好的早晨例行活动是一天高效工作的关键。", "grammar": "believe that... 宾语从句；the key to... 的关键"},
+        {"en": "Scientists have found that our willpower is strongest in the morning.", "cn": "科学家发现，我们的意志力在早上最强。", "grammar": "have found that... 现在完成时 + 宾语从句"},
+        {"en": "Experts suggest that it takes about 21 days to form a new routine.", "cn": "专家建议，形成一个新的例行活动大约需要21天。", "grammar": "it takes... to do... 做某事花费...时间"}
+      ]
+    },
+    "afternoon": {
+      "title_en": "How Digital Twins Are Transforming the Energy Industry",
+      "title_cn": "数字孪生如何变革能源行业",
+      "level": "IT与工作篇",
+      "content_en": "Digital twin technology is rapidly changing how we manage energy systems. A digital twin is a virtual replica of a physical asset, such as a wind turbine, solar panel, or power plant. It uses real-time data to simulate and predict the behavior of its physical counterpart.\n\nIn the energy sector, digital twins help operators monitor equipment health, optimize performance, and reduce downtime. For example, a wind farm can use digital twins to predict when a turbine needs maintenance before a failure occurs. This approach, known as predictive maintenance, can save millions of dollars each year.\n\nMoreover, digital twins enable better decision-making through data visualization. Managers can view complex system data on interactive dashboards and quickly identify potential issues. This is especially valuable for renewable energy sources like solar and wind, where output depends on weather conditions.\n\nAs a product manager in the energy digitalization field, understanding digital twin technology is essential. The global digital twin market in energy is expected to grow from $3 billion in 2024 to over $15 billion by 2030. Companies that adopt this technology early will gain a significant competitive advantage.",
+      "content_cn": "数字孪生技术正在迅速改变我们管理能源系统的方式。数字孪生是物理资产的虚拟副本，如风力涡轮机、太阳能电池板或发电厂。它使用实时数据来模拟和预测其物理对应物的行为。\n\n在能源领域，数字孪生帮助运营人员监控设备健康状况、优化性能并减少停机时间。例如，风电场可以使用数字孪生来预测涡轮机何时需要在故障发生前进行维护。这种方法被称为预测性维护，每年可以节省数百万美元。\n\n此外，数字孪生通过数据可视化实现更好的决策。管理者可以在交互式仪表板上查看复杂的系统数据，并快速识别潜在问题。这对于太阳能和风能等可再生能源尤其有价值，因为这些能源的产出取决于天气条件。\n\n作为能源数字化领域的产品经理，理解数字孪生技术至关重要。全球能源数字孪生市场预计将从2024年的30亿美元增长到2030年的超过150亿美元。早期采用这项技术的公司将获得显著的竞争优势。",
+      "vocabulary": [
+        {"word": "digital twin", "phonetic": "/ˈdɪdʒɪtl twɪn/", "meaning": "数字孪生"},
+        {"word": "replica", "phonetic": "/ˈreplɪkə/", "meaning": "副本，复制品"},
+        {"word": "simulate", "phonetic": "/ˈsɪmjuleɪt/", "meaning": "模拟"},
+        {"word": "counterpart", "phonetic": "/ˈkaʊntərpɑːrt/", "meaning": "对应物，对应的人或物"},
+        {"word": "downtime", "phonetic": "/ˈdaʊntaɪm/", "meaning": "停机时间"},
+        {"word": "predictive maintenance", "phonetic": "/prɪˈdɪktɪv ˈmeɪntənəns/", "meaning": "预测性维护"},
+        {"word": "dashboard", "phonetic": "/ˈdæʃbɔːrd/", "meaning": "仪表板，仪表盘"},
+        {"word": "competitive advantage", "phonetic": "/kəmˈpetətɪv ədˈvæntɪdʒ/", "meaning": "竞争优势"},
+        {"word": "digitalization", "phonetic": "/ˌdɪdʒɪtələˈzeɪʃn/", "meaning": "数字化"},
+        {"word": "renewable energy", "phonetic": "/rɪˈnjuːəbl ˈenərdʒi/", "meaning": "可再生能源"}
+      ],
+      "key_sentences": [
+        {"en": "A digital twin is a virtual replica of a physical asset, such as a wind turbine, solar panel, or power plant.", "cn": "数字孪生是物理资产的虚拟副本，如风力涡轮机、太阳能电池板或发电厂。", "grammar": "a virtual replica of... ...的虚拟副本；such as... 例如"},
+        {"en": "This approach, known as predictive maintenance, can save millions of dollars each year.", "cn": "这种方法被称为预测性维护，每年可以节省数百万美元。", "grammar": "known as... 被称为...；过去分词作后置定语"},
+        {"en": "The global digital twin market in energy is expected to grow from $3 billion in 2024 to over $15 billion by 2030.", "cn": "全球能源数字孪生市场预计将从2024年的30亿美元增长到2030年的超过150亿美元。", "grammar": "is expected to... 预计将...；grow from... to... 从...增长到..."}
+      ]
+    }
+  }
+]

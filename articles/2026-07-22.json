@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-22",
+  "morning": {
+    "title_en": "The Joy of Cooking at Home",
+    "title_cn": "在家做饭的乐趣",
+    "level": "基础篇",
+    "content_en": "Cooking at home has become more popular in recent years. More people are discovering the pleasure of preparing meals in their own kitchen. It is not just about saving money — it is also about enjoying the process and sharing food with the people you love.\n\nWhen you cook at home, you have full control over what goes into your food. You can choose fresh vegetables, healthy oils, and less salt. This makes home-cooked meals generally healthier than restaurant food. Many doctors suggest that eating at home more often can help people maintain a balanced diet and manage their weight.\n\nCooking can also be a wonderful way to relax after a busy day. Chopping vegetables, stirring a pot, or baking bread can feel like a creative activity. The smells and sounds in the kitchen help you forget about work stress. Some people even find cooking to be a form of meditation.\n\nAnother benefit is that cooking brings families together. When everyone helps in the kitchen, it becomes a team activity. Children can learn basic life skills while spending quality time with their parents. Family recipes passed down from grandparents become a way to keep traditions alive.\n\nYou do not need to be an expert to enjoy cooking. Start with simple dishes like pasta, soups, or salads. As you gain confidence, you can try more complex recipes. The most important thing is to have fun and be patient with yourself. Every great cook started as a beginner.",
+    "content_cn": "在家做饭近年来变得越来越流行。越来越多的人发现了在自己厨房里准备饭菜的乐趣。这不仅仅是为了省钱——更是为了享受这个过程，与你爱的人一起分享美食。\n\n当你在家里做饭时，你可以完全控制食物的成分。你可以选择新鲜的蔬菜、健康的油和更少的盐。这使得家常饭菜通常比餐馆的食物更健康。许多医生建议经常在家吃饭可以帮助人们保持均衡的饮食和管理体重。\n\n做饭也是一种在忙碌一天后放松的绝佳方式。切蔬菜、搅动锅中的食物或烤面包，这些都可以成为一种创造性的活动。厨房里的各种气味和声音能帮你忘记工作压力。有些人甚至把做饭当作一种冥想方式。\n\n另一个好处是做饭能让家人团聚。当每个人都参与厨房的工作时，这变成了一项团队活动。孩子们可以学习基本的生活技能，同时与父母共度美好时光。从祖辈传下来的家传食谱成为延续传统的一种方式。\n\n你不需要成为专家就能享受做饭。从简单的菜开始，比如意大利面、汤或沙拉。随着你信心的增长，可以尝试更复杂的食谱。最重要的是享受乐趣，对自己有耐心。每位伟大的厨师都是从初学者开始的。",
+    "vocabulary": [
+      {
+        "word": "pleasure",
+        "phonetic": "/ˈpleʒər/",
+        "meaning": "乐趣，愉快"
+      },
+      {
+        "word": "kitchen",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "meaning": "厨房"
+      },
+      {
+        "word": "control",
+        "phonetic": "/kənˈtroʊl/",
+        "meaning": "控制，掌控"
+      },
+      {
+        "word": "maintain",
+        "phonetic": "/meɪnˈteɪn/",
+        "meaning": "保持，维持"
+      },
+      {
+        "word": "balanced",
+        "phonetic": "/ˈbælənst/",
+        "meaning": "均衡的，平衡的"
+      },
+      {
+        "word": "relax",
+        "phonetic": "/rɪˈlæks/",
+        "meaning": "放松"
+      },
+      {
+        "word": "creative",
+        "phonetic": "/kriˈeɪtɪv/",
+        "meaning": "有创造力的"
+      },
+      {
+        "word": "meditation",
+        "phonetic": "/ˌmedɪˈteɪʃn/",
+        "meaning": "冥想"
+      },
+      {
+        "word": "recipe",
+        "phonetic": "/ˈresəpi/",
+        "meaning": "食谱，菜谱"
+      },
+      {
+        "word": "tradition",
+        "phonetic": "/trəˈdɪʃn/",
+        "meaning": "传统"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "It is not just about saving money — it is also about enjoying the process.",
+        "cn": "这不仅仅是为了省钱——更是为了享受这个过程。",
+        "grammar": "\"not just...but also...\" 句型表示\"不仅……而且……\"，用于连接两个并列的内容，强调后者同样重要。"
+      },
+      {
+        "en": "Many doctors suggest that eating at home more often can help people maintain a balanced diet.",
+        "cn": "许多医生建议经常在家吃饭可以帮助人们保持均衡的饮食。",
+        "grammar": "\"suggest that + 从句\" 表示建议的内容。\"maintain a balanced diet\" 是常见搭配，意为\"保持均衡饮食\"。"
+      },
+      {
+        "en": "Family recipes passed down from grandparents become a way to keep traditions alive.",
+        "cn": "从祖辈传下来的家传食谱成为延续传统的一种方式。",
+        "grammar": "\"passed down from\" 是过去分词短语作后置定语，修饰 \"recipes\"。\"keep something alive\" 表示\"使某事物延续\"。"
+      }
+    ]
+  },
+  "afternoon": null
+}

@@ -1,0 +1,1372 @@
+[
+  {
+    "text": "Cooking at home has become more popular in recent years.",
+    "sent_start": 0.0,
+    "sent_end": 4.367,
+    "words": [
+      {
+        "word": "Cooking",
+        "start": 0.0,
+        "end": 0.664
+      },
+      {
+        "word": "at",
+        "start": 0.704,
+        "end": 0.894
+      },
+      {
+        "word": "home",
+        "start": 0.934,
+        "end": 1.314
+      },
+      {
+        "word": "has",
+        "start": 1.354,
+        "end": 1.639
+      },
+      {
+        "word": "become",
+        "start": 1.679,
+        "end": 2.248
+      },
+      {
+        "word": "more",
+        "start": 2.288,
+        "end": 2.668
+      },
+      {
+        "word": "popular",
+        "start": 2.708,
+        "end": 3.373
+      },
+      {
+        "word": "in",
+        "start": 3.413,
+        "end": 3.602
+      },
+      {
+        "word": "recent",
+        "start": 3.642,
+        "end": 4.212
+      },
+      {
+        "word": "years",
+        "start": 4.252,
+        "end": 4.727
+      }
+    ]
+  },
+  {
+    "text": "More people are discovering the pleasure of preparing meals in their own kitchen.",
+    "sent_start": 4.367,
+    "sent_end": 9.719,
+    "words": [
+      {
+        "word": "More",
+        "start": 4.367,
+        "end": 4.682
+      },
+      {
+        "word": "people",
+        "start": 4.722,
+        "end": 5.194
+      },
+      {
+        "word": "are",
+        "start": 5.234,
+        "end": 5.47
+      },
+      {
+        "word": "discovering",
+        "start": 5.51,
+        "end": 6.376
+      },
+      {
+        "word": "the",
+        "start": 6.416,
+        "end": 6.652
+      },
+      {
+        "word": "pleasure",
+        "start": 6.692,
+        "end": 7.322
+      },
+      {
+        "word": "of",
+        "start": 7.362,
+        "end": 7.519
+      },
+      {
+        "word": "preparing",
+        "start": 7.559,
+        "end": 8.268
+      },
+      {
+        "word": "meals",
+        "start": 8.308,
+        "end": 8.701
+      },
+      {
+        "word": "in",
+        "start": 8.741,
+        "end": 8.899
+      },
+      {
+        "word": "their",
+        "start": 8.939,
+        "end": 9.332
+      },
+      {
+        "word": "own",
+        "start": 9.372,
+        "end": 9.608
+      },
+      {
+        "word": "kitchen",
+        "start": 9.648,
+        "end": 10.199
+      }
+    ]
+  },
+  {
+    "text": "It is not just about saving money — it is also about enjoying the process and sharing food with the people you love.",
+    "sent_start": 9.719,
+    "sent_end": 17.531,
+    "words": [
+      {
+        "word": "It",
+        "start": 9.719,
+        "end": 9.889
+      },
+      {
+        "word": "is",
+        "start": 9.929,
+        "end": 10.099
+      },
+      {
+        "word": "not",
+        "start": 10.139,
+        "end": 10.394
+      },
+      {
+        "word": "just",
+        "start": 10.434,
+        "end": 10.773
+      },
+      {
+        "word": "about",
+        "start": 10.813,
+        "end": 11.238
+      },
+      {
+        "word": "saving",
+        "start": 11.278,
+        "end": 11.787
+      },
+      {
+        "word": "money",
+        "start": 11.827,
+        "end": 12.252
+      },
+      {
+        "word": "it",
+        "start": 12.292,
+        "end": 12.462
+      },
+      {
+        "word": "is",
+        "start": 12.502,
+        "end": 12.671
+      },
+      {
+        "word": "also",
+        "start": 12.711,
+        "end": 13.051
+      },
+      {
+        "word": "about",
+        "start": 13.091,
+        "end": 13.516
+      },
+      {
+        "word": "enjoying",
+        "start": 13.556,
+        "end": 14.235
+      },
+      {
+        "word": "the",
+        "start": 14.275,
+        "end": 14.53
+      },
+      {
+        "word": "process",
+        "start": 14.57,
+        "end": 15.164
+      },
+      {
+        "word": "and",
+        "start": 15.204,
+        "end": 15.459
+      },
+      {
+        "word": "sharing",
+        "start": 15.499,
+        "end": 16.093
+      },
+      {
+        "word": "food",
+        "start": 16.133,
+        "end": 16.472
+      },
+      {
+        "word": "with",
+        "start": 16.512,
+        "end": 16.852
+      },
+      {
+        "word": "the",
+        "start": 16.892,
+        "end": 17.147
+      },
+      {
+        "word": "people",
+        "start": 17.187,
+        "end": 17.696
+      },
+      {
+        "word": "you",
+        "start": 17.736,
+        "end": 17.991
+      },
+      {
+        "word": "love",
+        "start": 18.031,
+        "end": 18.371
+      }
+    ]
+  },
+  {
+    "text": "When you cook at home, you have full control over what goes into your food.",
+    "sent_start": 17.531,
+    "sent_end": 22.55,
+    "words": [
+      {
+        "word": "When",
+        "start": 17.531,
+        "end": 17.871
+      },
+      {
+        "word": "you",
+        "start": 17.911,
+        "end": 18.166
+      },
+      {
+        "word": "cook",
+        "start": 18.206,
+        "end": 18.546
+      },
+      {
+        "word": "at",
+        "start": 18.586,
+        "end": 18.757
+      },
+      {
+        "word": "home",
+        "start": 18.797,
+        "end": 19.137
+      },
+      {
+        "word": "you",
+        "start": 19.177,
+        "end": 19.432
+      },
+      {
+        "word": "have",
+        "start": 19.472,
+        "end": 19.812
+      },
+      {
+        "word": "full",
+        "start": 19.852,
+        "end": 20.193
+      },
+      {
+        "word": "control",
+        "start": 20.233,
+        "end": 20.828
+      },
+      {
+        "word": "over",
+        "start": 20.868,
+        "end": 21.208
+      },
+      {
+        "word": "what",
+        "start": 21.248,
+        "end": 21.589
+      },
+      {
+        "word": "goes",
+        "start": 21.629,
+        "end": 21.969
+      },
+      {
+        "word": "into",
+        "start": 22.009,
+        "end": 22.349
+      },
+      {
+        "word": "your",
+        "start": 22.389,
+        "end": 22.73
+      },
+      {
+        "word": "food",
+        "start": 22.77,
+        "end": 23.11
+      }
+    ]
+  },
+  {
+    "text": "You can choose fresh vegetables, healthy oils, and less salt.",
+    "sent_start": 22.55,
+    "sent_end": 27.528,
+    "words": [
+      {
+        "word": "You",
+        "start": 22.55,
+        "end": 22.855
+      },
+      {
+        "word": "can",
+        "start": 22.895,
+        "end": 23.2
+      },
+      {
+        "word": "choose",
+        "start": 23.24,
+        "end": 23.849
+      },
+      {
+        "word": "fresh",
+        "start": 23.889,
+        "end": 24.397
+      },
+      {
+        "word": "vegetables",
+        "start": 24.437,
+        "end": 25.453
+      },
+      {
+        "word": "healthy",
+        "start": 25.493,
+        "end": 26.204
+      },
+      {
+        "word": "oils",
+        "start": 26.244,
+        "end": 26.65
+      },
+      {
+        "word": "and",
+        "start": 26.69,
+        "end": 26.995
+      },
+      {
+        "word": "less",
+        "start": 27.035,
+        "end": 27.441
+      },
+      {
+        "word": "salt",
+        "start": 27.481,
+        "end": 27.888
+      }
+    ]
+  },
+  {
+    "text": "This makes home-cooked meals generally healthier than restaurant food.",
+    "sent_start": 27.528,
+    "sent_end": 32.422,
+    "words": [
+      {
+        "word": "This",
+        "start": 27.528,
+        "end": 27.854
+      },
+      {
+        "word": "makes",
+        "start": 27.894,
+        "end": 28.302
+      },
+      {
+        "word": "home",
+        "start": 28.342,
+        "end": 28.668
+      },
+      {
+        "word": "cooked",
+        "start": 28.708,
+        "end": 29.198
+      },
+      {
+        "word": "meals",
+        "start": 29.238,
+        "end": 29.646
+      },
+      {
+        "word": "generally",
+        "start": 29.686,
+        "end": 30.42
+      },
+      {
+        "word": "healthier",
+        "start": 30.46,
+        "end": 31.194
+      },
+      {
+        "word": "than",
+        "start": 31.234,
+        "end": 31.56
+      },
+      {
+        "word": "restaurant",
+        "start": 31.6,
+        "end": 32.416
+      },
+      {
+        "word": "food",
+        "start": 32.456,
+        "end": 32.782
+      }
+    ]
+  },
+  {
+    "text": "Many doctors suggest that eating at home more often can help people maintain a balanced diet and manage their weight.",
+    "sent_start": 32.422,
+    "sent_end": 40.233,
+    "words": [
+      {
+        "word": "Many",
+        "start": 32.422,
+        "end": 32.744
+      },
+      {
+        "word": "doctors",
+        "start": 32.784,
+        "end": 33.348
+      },
+      {
+        "word": "suggest",
+        "start": 33.388,
+        "end": 33.952
+      },
+      {
+        "word": "that",
+        "start": 33.992,
+        "end": 34.314
+      },
+      {
+        "word": "eating",
+        "start": 34.354,
+        "end": 34.837
+      },
+      {
+        "word": "at",
+        "start": 34.877,
+        "end": 35.038
+      },
+      {
+        "word": "home",
+        "start": 35.078,
+        "end": 35.4
+      },
+      {
+        "word": "more",
+        "start": 35.44,
+        "end": 35.762
+      },
+      {
+        "word": "often",
+        "start": 35.802,
+        "end": 36.205
+      },
+      {
+        "word": "can",
+        "start": 36.245,
+        "end": 36.486
+      },
+      {
+        "word": "help",
+        "start": 36.526,
+        "end": 36.849
+      },
+      {
+        "word": "people",
+        "start": 36.889,
+        "end": 37.372
+      },
+      {
+        "word": "maintain",
+        "start": 37.412,
+        "end": 38.056
+      },
+      {
+        "word": "a",
+        "start": 38.096,
+        "end": 38.176
+      },
+      {
+        "word": "balanced",
+        "start": 38.216,
+        "end": 38.861
+      },
+      {
+        "word": "diet",
+        "start": 38.901,
+        "end": 39.223
+      },
+      {
+        "word": "and",
+        "start": 39.263,
+        "end": 39.504
+      },
+      {
+        "word": "manage",
+        "start": 39.544,
+        "end": 40.028
+      },
+      {
+        "word": "their",
+        "start": 40.068,
+        "end": 40.47
+      },
+      {
+        "word": "weight",
+        "start": 40.51,
+        "end": 40.993
+      }
+    ]
+  },
+  {
+    "text": "Cooking can also be a wonderful way to relax after a busy day.",
+    "sent_start": 40.233,
+    "sent_end": 45.239,
+    "words": [
+      {
+        "word": "Cooking",
+        "start": 40.233,
+        "end": 40.948
+      },
+      {
+        "word": "can",
+        "start": 40.988,
+        "end": 41.295
+      },
+      {
+        "word": "also",
+        "start": 41.335,
+        "end": 41.743
+      },
+      {
+        "word": "be",
+        "start": 41.783,
+        "end": 41.988
+      },
+      {
+        "word": "a",
+        "start": 42.028,
+        "end": 42.13
+      },
+      {
+        "word": "wonderful",
+        "start": 42.17,
+        "end": 43.089
+      },
+      {
+        "word": "way",
+        "start": 43.129,
+        "end": 43.436
+      },
+      {
+        "word": "to",
+        "start": 43.476,
+        "end": 43.68
+      },
+      {
+        "word": "relax",
+        "start": 43.72,
+        "end": 44.231
+      },
+      {
+        "word": "after",
+        "start": 44.271,
+        "end": 44.782
+      },
+      {
+        "word": "a",
+        "start": 44.822,
+        "end": 44.924
+      },
+      {
+        "word": "busy",
+        "start": 44.964,
+        "end": 45.372
+      },
+      {
+        "word": "day",
+        "start": 45.412,
+        "end": 45.719
+      }
+    ]
+  },
+  {
+    "text": "Chopping vegetables, stirring a pot, or baking bread can feel like a creative activity.",
+    "sent_start": 45.239,
+    "sent_end": 51.967,
+    "words": [
+      {
+        "word": "Chopping",
+        "start": 45.239,
+        "end": 45.997
+      },
+      {
+        "word": "vegetables",
+        "start": 46.037,
+        "end": 46.985
+      },
+      {
+        "word": "stirring",
+        "start": 47.025,
+        "end": 47.783
+      },
+      {
+        "word": "a",
+        "start": 47.823,
+        "end": 47.917
+      },
+      {
+        "word": "pot",
+        "start": 47.957,
+        "end": 48.242
+      },
+      {
+        "word": "or",
+        "start": 48.282,
+        "end": 48.471
+      },
+      {
+        "word": "baking",
+        "start": 48.511,
+        "end": 49.08
+      },
+      {
+        "word": "bread",
+        "start": 49.12,
+        "end": 49.593
+      },
+      {
+        "word": "can",
+        "start": 49.633,
+        "end": 49.918
+      },
+      {
+        "word": "feel",
+        "start": 49.958,
+        "end": 50.337
+      },
+      {
+        "word": "like",
+        "start": 50.377,
+        "end": 50.756
+      },
+      {
+        "word": "a",
+        "start": 50.796,
+        "end": 50.891
+      },
+      {
+        "word": "creative",
+        "start": 50.931,
+        "end": 51.689
+      },
+      {
+        "word": "activity",
+        "start": 51.729,
+        "end": 52.487
+      }
+    ]
+  },
+  {
+    "text": "The smells and sounds in the kitchen help you forget about work stress.",
+    "sent_start": 51.967,
+    "sent_end": 56.889,
+    "words": [
+      {
+        "word": "The",
+        "start": 51.967,
+        "end": 52.221
+      },
+      {
+        "word": "smells",
+        "start": 52.261,
+        "end": 52.77
+      },
+      {
+        "word": "and",
+        "start": 52.81,
+        "end": 53.065
+      },
+      {
+        "word": "sounds",
+        "start": 53.105,
+        "end": 53.614
+      },
+      {
+        "word": "in",
+        "start": 53.654,
+        "end": 53.824
+      },
+      {
+        "word": "the",
+        "start": 53.864,
+        "end": 54.119
+      },
+      {
+        "word": "kitchen",
+        "start": 54.159,
+        "end": 54.753
+      },
+      {
+        "word": "help",
+        "start": 54.793,
+        "end": 55.132
+      },
+      {
+        "word": "you",
+        "start": 55.172,
+        "end": 55.427
+      },
+      {
+        "word": "forget",
+        "start": 55.467,
+        "end": 55.976
+      },
+      {
+        "word": "about",
+        "start": 56.016,
+        "end": 56.44
+      },
+      {
+        "word": "work",
+        "start": 56.48,
+        "end": 56.82
+      },
+      {
+        "word": "stress",
+        "start": 56.86,
+        "end": 57.369
+      }
+    ]
+  },
+  {
+    "text": "Some people even find cooking to be a form of meditation.",
+    "sent_start": 56.889,
+    "sent_end": 61.464,
+    "words": [
+      {
+        "word": "Some",
+        "start": 56.889,
+        "end": 57.287
+      },
+      {
+        "word": "people",
+        "start": 57.327,
+        "end": 57.923
+      },
+      {
+        "word": "even",
+        "start": 57.963,
+        "end": 58.361
+      },
+      {
+        "word": "find",
+        "start": 58.401,
+        "end": 58.799
+      },
+      {
+        "word": "cooking",
+        "start": 58.839,
+        "end": 59.535
+      },
+      {
+        "word": "to",
+        "start": 59.575,
+        "end": 59.774
+      },
+      {
+        "word": "be",
+        "start": 59.814,
+        "end": 60.013
+      },
+      {
+        "word": "a",
+        "start": 60.053,
+        "end": 60.153
+      },
+      {
+        "word": "form",
+        "start": 60.193,
+        "end": 60.59
+      },
+      {
+        "word": "of",
+        "start": 60.63,
+        "end": 60.829
+      },
+      {
+        "word": "meditation",
+        "start": 60.869,
+        "end": 61.864
+      }
+    ]
+  },
+  {
+    "text": "Another benefit is that cooking brings families together.",
+    "sent_start": 61.464,
+    "sent_end": 65.719,
+    "words": [
+      {
+        "word": "Another",
+        "start": 61.464,
+        "end": 62.072
+      },
+      {
+        "word": "benefit",
+        "start": 62.112,
+        "end": 62.72
+      },
+      {
+        "word": "is",
+        "start": 62.76,
+        "end": 62.933
+      },
+      {
+        "word": "that",
+        "start": 62.973,
+        "end": 63.321
+      },
+      {
+        "word": "cooking",
+        "start": 63.361,
+        "end": 63.969
+      },
+      {
+        "word": "brings",
+        "start": 64.009,
+        "end": 64.53
+      },
+      {
+        "word": "families",
+        "start": 64.57,
+        "end": 65.265
+      },
+      {
+        "word": "together",
+        "start": 65.305,
+        "end": 65.999
+      }
+    ]
+  },
+  {
+    "text": "When everyone helps in the kitchen, it becomes a team activity.",
+    "sent_start": 65.719,
+    "sent_end": 70.336,
+    "words": [
+      {
+        "word": "When",
+        "start": 65.719,
+        "end": 66.082
+      },
+      {
+        "word": "everyone",
+        "start": 66.122,
+        "end": 66.846
+      },
+      {
+        "word": "helps",
+        "start": 66.886,
+        "end": 67.338
+      },
+      {
+        "word": "in",
+        "start": 67.378,
+        "end": 67.559
+      },
+      {
+        "word": "the",
+        "start": 67.599,
+        "end": 67.871
+      },
+      {
+        "word": "kitchen",
+        "start": 67.911,
+        "end": 68.545
+      },
+      {
+        "word": "it",
+        "start": 68.585,
+        "end": 68.766
+      },
+      {
+        "word": "becomes",
+        "start": 68.806,
+        "end": 69.439
+      },
+      {
+        "word": "a",
+        "start": 69.479,
+        "end": 69.57
+      },
+      {
+        "word": "team",
+        "start": 69.61,
+        "end": 69.972
+      },
+      {
+        "word": "activity",
+        "start": 70.012,
+        "end": 70.736
+      }
+    ]
+  },
+  {
+    "text": "Children can learn basic life skills while spending quality time with their parents.",
+    "sent_start": 70.336,
+    "sent_end": 76.092,
+    "words": [
+      {
+        "word": "Children",
+        "start": 70.336,
+        "end": 70.985
+      },
+      {
+        "word": "can",
+        "start": 71.025,
+        "end": 71.268
+      },
+      {
+        "word": "learn",
+        "start": 71.308,
+        "end": 71.713
+      },
+      {
+        "word": "basic",
+        "start": 71.753,
+        "end": 72.158
+      },
+      {
+        "word": "life",
+        "start": 72.198,
+        "end": 72.523
+      },
+      {
+        "word": "skills",
+        "start": 72.563,
+        "end": 73.049
+      },
+      {
+        "word": "while",
+        "start": 73.089,
+        "end": 73.494
+      },
+      {
+        "word": "spending",
+        "start": 73.534,
+        "end": 74.183
+      },
+      {
+        "word": "quality",
+        "start": 74.223,
+        "end": 74.79
+      },
+      {
+        "word": "time",
+        "start": 74.83,
+        "end": 75.155
+      },
+      {
+        "word": "with",
+        "start": 75.195,
+        "end": 75.519
+      },
+      {
+        "word": "their",
+        "start": 75.559,
+        "end": 75.964
+      },
+      {
+        "word": "parents",
+        "start": 76.004,
+        "end": 76.572
+      }
+    ]
+  },
+  {
+    "text": "Family recipes passed down from grandparents become a way to keep traditions alive.",
+    "sent_start": 76.092,
+    "sent_end": 82.222,
+    "words": [
+      {
+        "word": "Family",
+        "start": 76.092,
+        "end": 76.617
+      },
+      {
+        "word": "recipes",
+        "start": 76.657,
+        "end": 77.27
+      },
+      {
+        "word": "passed",
+        "start": 77.31,
+        "end": 77.836
+      },
+      {
+        "word": "down",
+        "start": 77.876,
+        "end": 78.226
+      },
+      {
+        "word": "from",
+        "start": 78.266,
+        "end": 78.616
+      },
+      {
+        "word": "grandparents",
+        "start": 78.656,
+        "end": 79.707
+      },
+      {
+        "word": "become",
+        "start": 79.747,
+        "end": 80.273
+      },
+      {
+        "word": "a",
+        "start": 80.313,
+        "end": 80.4
+      },
+      {
+        "word": "way",
+        "start": 80.44,
+        "end": 80.703
+      },
+      {
+        "word": "to",
+        "start": 80.743,
+        "end": 80.918
+      },
+      {
+        "word": "keep",
+        "start": 80.958,
+        "end": 81.309
+      },
+      {
+        "word": "traditions",
+        "start": 81.349,
+        "end": 82.224
+      },
+      {
+        "word": "alive",
+        "start": 82.264,
+        "end": 82.702
+      }
+    ]
+  },
+  {
+    "text": "You do not need to be an expert to enjoy cooking.",
+    "sent_start": 82.222,
+    "sent_end": 86.089,
+    "words": [
+      {
+        "word": "You",
+        "start": 82.222,
+        "end": 82.527
+      },
+      {
+        "word": "do",
+        "start": 82.567,
+        "end": 82.771
+      },
+      {
+        "word": "not",
+        "start": 82.811,
+        "end": 83.116
+      },
+      {
+        "word": "need",
+        "start": 83.156,
+        "end": 83.563
+      },
+      {
+        "word": "to",
+        "start": 83.603,
+        "end": 83.807
+      },
+      {
+        "word": "be",
+        "start": 83.847,
+        "end": 84.05
+      },
+      {
+        "word": "an",
+        "start": 84.09,
+        "end": 84.294
+      },
+      {
+        "word": "expert",
+        "start": 84.334,
+        "end": 84.944
+      },
+      {
+        "word": "to",
+        "start": 84.984,
+        "end": 85.188
+      },
+      {
+        "word": "enjoy",
+        "start": 85.228,
+        "end": 85.737
+      },
+      {
+        "word": "cooking",
+        "start": 85.777,
+        "end": 86.489
+      }
+    ]
+  },
+  {
+    "text": "Start with simple dishes like pasta, soups, or salads.",
+    "sent_start": 86.089,
+    "sent_end": 91.094,
+    "words": [
+      {
+        "word": "Start",
+        "start": 86.089,
+        "end": 86.671
+      },
+      {
+        "word": "with",
+        "start": 86.711,
+        "end": 87.177
+      },
+      {
+        "word": "simple",
+        "start": 87.217,
+        "end": 87.915
+      },
+      {
+        "word": "dishes",
+        "start": 87.955,
+        "end": 88.653
+      },
+      {
+        "word": "like",
+        "start": 88.693,
+        "end": 89.159
+      },
+      {
+        "word": "pasta",
+        "start": 89.199,
+        "end": 89.781
+      },
+      {
+        "word": "soups",
+        "start": 89.821,
+        "end": 90.403
+      },
+      {
+        "word": "or",
+        "start": 90.443,
+        "end": 90.676
+      },
+      {
+        "word": "salads",
+        "start": 90.716,
+        "end": 91.414
+      }
+    ]
+  },
+  {
+    "text": "As you gain confidence, you can try more complex recipes.",
+    "sent_start": 91.094,
+    "sent_end": 96.058,
+    "words": [
+      {
+        "word": "As",
+        "start": 91.094,
+        "end": 91.31
+      },
+      {
+        "word": "you",
+        "start": 91.35,
+        "end": 91.674
+      },
+      {
+        "word": "gain",
+        "start": 91.714,
+        "end": 92.146
+      },
+      {
+        "word": "confidence",
+        "start": 92.186,
+        "end": 93.265
+      },
+      {
+        "word": "you",
+        "start": 93.305,
+        "end": 93.628
+      },
+      {
+        "word": "can",
+        "start": 93.668,
+        "end": 93.992
+      },
+      {
+        "word": "try",
+        "start": 94.032,
+        "end": 94.356
+      },
+      {
+        "word": "more",
+        "start": 94.396,
+        "end": 94.828
+      },
+      {
+        "word": "complex",
+        "start": 94.868,
+        "end": 95.623
+      },
+      {
+        "word": "recipes",
+        "start": 95.663,
+        "end": 96.418
+      }
+    ]
+  },
+  {
+    "text": "The most important thing is to have fun and be patient with yourself.",
+    "sent_start": 96.058,
+    "sent_end": 100.994,
+    "words": [
+      {
+        "word": "The",
+        "start": 96.058,
+        "end": 96.323
+      },
+      {
+        "word": "most",
+        "start": 96.363,
+        "end": 96.715
+      },
+      {
+        "word": "important",
+        "start": 96.755,
+        "end": 97.549
+      },
+      {
+        "word": "thing",
+        "start": 97.589,
+        "end": 98.029
+      },
+      {
+        "word": "is",
+        "start": 98.069,
+        "end": 98.246
+      },
+      {
+        "word": "to",
+        "start": 98.286,
+        "end": 98.462
+      },
+      {
+        "word": "have",
+        "start": 98.502,
+        "end": 98.855
+      },
+      {
+        "word": "fun",
+        "start": 98.895,
+        "end": 99.159
+      },
+      {
+        "word": "and",
+        "start": 99.199,
+        "end": 99.463
+      },
+      {
+        "word": "be",
+        "start": 99.503,
+        "end": 99.68
+      },
+      {
+        "word": "patient",
+        "start": 99.72,
+        "end": 100.337
+      },
+      {
+        "word": "with",
+        "start": 100.377,
+        "end": 100.729
+      },
+      {
+        "word": "yourself",
+        "start": 100.769,
+        "end": 101.474
+      }
+    ]
+  },
+  {
+    "text": "Every great cook started as a beginner.",
+    "sent_start": 100.994,
+    "sent_end": 104.306,
+    "words": [
+      {
+        "word": "Every",
+        "start": 100.994,
+        "end": 101.512
+      },
+      {
+        "word": "great",
+        "start": 101.552,
+        "end": 102.069
+      },
+      {
+        "word": "cook",
+        "start": 102.109,
+        "end": 102.523
+      },
+      {
+        "word": "started",
+        "start": 102.563,
+        "end": 103.287
+      },
+      {
+        "word": "as",
+        "start": 103.327,
+        "end": 103.534
+      },
+      {
+        "word": "a",
+        "start": 103.574,
+        "end": 103.678
+      },
+      {
+        "word": "beginner",
+        "start": 103.718,
+        "end": 104.546
+      }
+    ]
+  }
+]

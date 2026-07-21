@@ -1,0 +1,908 @@
+[
+  {
+    "text": "Many successful people believe that having a good morning routine is the key to a productive day.",
+    "sent_start": 0.0,
+    "sent_end": 6.561,
+    "words": [
+      {
+        "word": "Many",
+        "start": 0.0,
+        "end": 0.328
+      },
+      {
+        "word": "successful",
+        "start": 0.368,
+        "end": 1.188
+      },
+      {
+        "word": "people",
+        "start": 1.228,
+        "end": 1.72
+      },
+      {
+        "word": "believe",
+        "start": 1.76,
+        "end": 2.334
+      },
+      {
+        "word": "that",
+        "start": 2.374,
+        "end": 2.702
+      },
+      {
+        "word": "having",
+        "start": 2.742,
+        "end": 3.235
+      },
+      {
+        "word": "a",
+        "start": 3.275,
+        "end": 3.357
+      },
+      {
+        "word": "good",
+        "start": 3.397,
+        "end": 3.725
+      },
+      {
+        "word": "morning",
+        "start": 3.765,
+        "end": 4.339
+      },
+      {
+        "word": "routine",
+        "start": 4.379,
+        "end": 4.953
+      },
+      {
+        "word": "is",
+        "start": 4.993,
+        "end": 5.157
+      },
+      {
+        "word": "the",
+        "start": 5.197,
+        "end": 5.443
+      },
+      {
+        "word": "key",
+        "start": 5.483,
+        "end": 5.729
+      },
+      {
+        "word": "to",
+        "start": 5.769,
+        "end": 5.933
+      },
+      {
+        "word": "a",
+        "start": 5.973,
+        "end": 6.055
+      },
+      {
+        "word": "productive",
+        "start": 6.095,
+        "end": 6.915
+      },
+      {
+        "word": "day",
+        "start": 6.955,
+        "end": 7.201
+      }
+    ]
+  },
+  {
+    "text": "When you wake up early, you have more time to prepare for the challenges ahead.",
+    "sent_start": 6.561,
+    "sent_end": 12.122,
+    "words": [
+      {
+        "word": "When",
+        "start": 6.561,
+        "end": 6.914
+      },
+      {
+        "word": "you",
+        "start": 6.954,
+        "end": 7.219
+      },
+      {
+        "word": "wake",
+        "start": 7.259,
+        "end": 7.612
+      },
+      {
+        "word": "up",
+        "start": 7.652,
+        "end": 7.829
+      },
+      {
+        "word": "early",
+        "start": 7.869,
+        "end": 8.31
+      },
+      {
+        "word": "you",
+        "start": 8.35,
+        "end": 8.615
+      },
+      {
+        "word": "have",
+        "start": 8.655,
+        "end": 9.008
+      },
+      {
+        "word": "more",
+        "start": 9.048,
+        "end": 9.401
+      },
+      {
+        "word": "time",
+        "start": 9.441,
+        "end": 9.794
+      },
+      {
+        "word": "to",
+        "start": 9.834,
+        "end": 10.011
+      },
+      {
+        "word": "prepare",
+        "start": 10.051,
+        "end": 10.669
+      },
+      {
+        "word": "for",
+        "start": 10.709,
+        "end": 10.973
+      },
+      {
+        "word": "the",
+        "start": 11.013,
+        "end": 11.278
+      },
+      {
+        "word": "challenges",
+        "start": 11.318,
+        "end": 12.201
+      },
+      {
+        "word": "ahead",
+        "start": 12.241,
+        "end": 12.682
+      }
+    ]
+  },
+  {
+    "text": "A simple morning routine might include exercise, reading, and a healthy breakfast.",
+    "sent_start": 12.122,
+    "sent_end": 18.239,
+    "words": [
+      {
+        "word": "A",
+        "start": 12.122,
+        "end": 12.212
+      },
+      {
+        "word": "simple",
+        "start": 12.252,
+        "end": 12.792
+      },
+      {
+        "word": "morning",
+        "start": 12.832,
+        "end": 13.462
+      },
+      {
+        "word": "routine",
+        "start": 13.502,
+        "end": 14.131
+      },
+      {
+        "word": "might",
+        "start": 14.171,
+        "end": 14.621
+      },
+      {
+        "word": "include",
+        "start": 14.661,
+        "end": 15.291
+      },
+      {
+        "word": "exercise",
+        "start": 15.331,
+        "end": 16.05
+      },
+      {
+        "word": "reading",
+        "start": 16.09,
+        "end": 16.72
+      },
+      {
+        "word": "and",
+        "start": 16.76,
+        "end": 17.03
+      },
+      {
+        "word": "a",
+        "start": 17.07,
+        "end": 17.16
+      },
+      {
+        "word": "healthy",
+        "start": 17.2,
+        "end": 17.829
+      },
+      {
+        "word": "breakfast",
+        "start": 17.869,
+        "end": 18.679
+      }
+    ]
+  },
+  {
+    "text": "Exercise helps you feel energized and focused.",
+    "sent_start": 18.239,
+    "sent_end": 22.314,
+    "words": [
+      {
+        "word": "Exercise",
+        "start": 18.239,
+        "end": 19.075
+      },
+      {
+        "word": "helps",
+        "start": 19.115,
+        "end": 19.637
+      },
+      {
+        "word": "you",
+        "start": 19.677,
+        "end": 19.991
+      },
+      {
+        "word": "feel",
+        "start": 20.031,
+        "end": 20.449
+      },
+      {
+        "word": "energized",
+        "start": 20.489,
+        "end": 21.429
+      },
+      {
+        "word": "and",
+        "start": 21.469,
+        "end": 21.782
+      },
+      {
+        "word": "focused",
+        "start": 21.822,
+        "end": 22.554
+      }
+    ]
+  },
+  {
+    "text": "Reading a few pages of a book can inspire you and broaden your horizons.",
+    "sent_start": 22.314,
+    "sent_end": 27.778,
+    "words": [
+      {
+        "word": "Reading",
+        "start": 22.314,
+        "end": 22.973
+      },
+      {
+        "word": "a",
+        "start": 23.013,
+        "end": 23.108
+      },
+      {
+        "word": "few",
+        "start": 23.148,
+        "end": 23.43
+      },
+      {
+        "word": "pages",
+        "start": 23.47,
+        "end": 23.941
+      },
+      {
+        "word": "of",
+        "start": 23.981,
+        "end": 24.17
+      },
+      {
+        "word": "a",
+        "start": 24.21,
+        "end": 24.304
+      },
+      {
+        "word": "book",
+        "start": 24.344,
+        "end": 24.721
+      },
+      {
+        "word": "can",
+        "start": 24.761,
+        "end": 25.043
+      },
+      {
+        "word": "inspire",
+        "start": 25.083,
+        "end": 25.743
+      },
+      {
+        "word": "you",
+        "start": 25.783,
+        "end": 26.065
+      },
+      {
+        "word": "and",
+        "start": 26.105,
+        "end": 26.388
+      },
+      {
+        "word": "broaden",
+        "start": 26.428,
+        "end": 27.087
+      },
+      {
+        "word": "your",
+        "start": 27.127,
+        "end": 27.504
+      },
+      {
+        "word": "horizons",
+        "start": 27.544,
+        "end": 28.298
+      }
+    ]
+  },
+  {
+    "text": "A nutritious breakfast gives your body the fuel it needs to work efficiently.",
+    "sent_start": 27.778,
+    "sent_end": 33.117,
+    "words": [
+      {
+        "word": "A",
+        "start": 27.778,
+        "end": 27.861
+      },
+      {
+        "word": "nutritious",
+        "start": 27.901,
+        "end": 28.735
+      },
+      {
+        "word": "breakfast",
+        "start": 28.775,
+        "end": 29.526
+      },
+      {
+        "word": "gives",
+        "start": 29.566,
+        "end": 29.983
+      },
+      {
+        "word": "your",
+        "start": 30.023,
+        "end": 30.357
+      },
+      {
+        "word": "body",
+        "start": 30.397,
+        "end": 30.731
+      },
+      {
+        "word": "the",
+        "start": 30.771,
+        "end": 31.021
+      },
+      {
+        "word": "fuel",
+        "start": 31.061,
+        "end": 31.395
+      },
+      {
+        "word": "it",
+        "start": 31.435,
+        "end": 31.601
+      },
+      {
+        "word": "needs",
+        "start": 31.641,
+        "end": 32.059
+      },
+      {
+        "word": "to",
+        "start": 32.099,
+        "end": 32.265
+      },
+      {
+        "word": "work",
+        "start": 32.305,
+        "end": 32.639
+      },
+      {
+        "word": "efficiently",
+        "start": 32.679,
+        "end": 33.597
+      }
+    ]
+  },
+  {
+    "text": "Scientists have found that our willpower is strongest in the morning.",
+    "sent_start": 33.117,
+    "sent_end": 37.831,
+    "words": [
+      {
+        "word": "Scientists",
+        "start": 33.117,
+        "end": 33.929
+      },
+      {
+        "word": "have",
+        "start": 33.969,
+        "end": 34.295
+      },
+      {
+        "word": "found",
+        "start": 34.335,
+        "end": 34.741
+      },
+      {
+        "word": "that",
+        "start": 34.781,
+        "end": 35.106
+      },
+      {
+        "word": "our",
+        "start": 35.146,
+        "end": 35.39
+      },
+      {
+        "word": "willpower",
+        "start": 35.43,
+        "end": 36.161
+      },
+      {
+        "word": "is",
+        "start": 36.201,
+        "end": 36.364
+      },
+      {
+        "word": "strongest",
+        "start": 36.404,
+        "end": 37.135
+      },
+      {
+        "word": "in",
+        "start": 37.175,
+        "end": 37.338
+      },
+      {
+        "word": "the",
+        "start": 37.378,
+        "end": 37.622
+      },
+      {
+        "word": "morning",
+        "start": 37.662,
+        "end": 38.231
+      }
+    ]
+  },
+  {
+    "text": "This means it is the best time to tackle difficult tasks.",
+    "sent_start": 37.831,
+    "sent_end": 42.281,
+    "words": [
+      {
+        "word": "This",
+        "start": 37.831,
+        "end": 38.218
+      },
+      {
+        "word": "means",
+        "start": 38.258,
+        "end": 38.741
+      },
+      {
+        "word": "it",
+        "start": 38.781,
+        "end": 38.975
+      },
+      {
+        "word": "is",
+        "start": 39.015,
+        "end": 39.208
+      },
+      {
+        "word": "the",
+        "start": 39.248,
+        "end": 39.538
+      },
+      {
+        "word": "best",
+        "start": 39.578,
+        "end": 39.965
+      },
+      {
+        "word": "time",
+        "start": 40.005,
+        "end": 40.392
+      },
+      {
+        "word": "to",
+        "start": 40.432,
+        "end": 40.626
+      },
+      {
+        "word": "tackle",
+        "start": 40.666,
+        "end": 41.246
+      },
+      {
+        "word": "difficult",
+        "start": 41.286,
+        "end": 42.157
+      },
+      {
+        "word": "tasks",
+        "start": 42.197,
+        "end": 42.681
+      }
+    ]
+  },
+  {
+    "text": "If you start your day with a clear plan, you are more likely to achieve your goals.",
+    "sent_start": 42.281,
+    "sent_end": 47.897,
+    "words": [
+      {
+        "word": "If",
+        "start": 42.281,
+        "end": 42.453
+      },
+      {
+        "word": "you",
+        "start": 42.493,
+        "end": 42.753
+      },
+      {
+        "word": "start",
+        "start": 42.793,
+        "end": 43.225
+      },
+      {
+        "word": "your",
+        "start": 43.265,
+        "end": 43.61
+      },
+      {
+        "word": "day",
+        "start": 43.65,
+        "end": 43.91
+      },
+      {
+        "word": "with",
+        "start": 43.95,
+        "end": 44.295
+      },
+      {
+        "word": "a",
+        "start": 44.335,
+        "end": 44.422
+      },
+      {
+        "word": "clear",
+        "start": 44.462,
+        "end": 44.894
+      },
+      {
+        "word": "plan",
+        "start": 44.934,
+        "end": 45.279
+      },
+      {
+        "word": "you",
+        "start": 45.319,
+        "end": 45.579
+      },
+      {
+        "word": "are",
+        "start": 45.619,
+        "end": 45.878
+      },
+      {
+        "word": "more",
+        "start": 45.918,
+        "end": 46.263
+      },
+      {
+        "word": "likely",
+        "start": 46.303,
+        "end": 46.822
+      },
+      {
+        "word": "to",
+        "start": 46.862,
+        "end": 47.035
+      },
+      {
+        "word": "achieve",
+        "start": 47.075,
+        "end": 47.68
+      },
+      {
+        "word": "your",
+        "start": 47.72,
+        "end": 48.065
+      },
+      {
+        "word": "goals",
+        "start": 48.105,
+        "end": 48.537
+      }
+    ]
+  },
+  {
+    "text": "However, building a new habit takes time.",
+    "sent_start": 47.897,
+    "sent_end": 51.597,
+    "words": [
+      {
+        "word": "However",
+        "start": 47.897,
+        "end": 48.682
+      },
+      {
+        "word": "building",
+        "start": 48.722,
+        "end": 49.619
+      },
+      {
+        "word": "a",
+        "start": 49.659,
+        "end": 49.771
+      },
+      {
+        "word": "new",
+        "start": 49.811,
+        "end": 50.148
+      },
+      {
+        "word": "habit",
+        "start": 50.188,
+        "end": 50.748
+      },
+      {
+        "word": "takes",
+        "start": 50.788,
+        "end": 51.349
+      },
+      {
+        "word": "time",
+        "start": 51.389,
+        "end": 51.837
+      }
+    ]
+  },
+  {
+    "text": "Experts suggest that it takes about 21 days to form a new routine.",
+    "sent_start": 51.597,
+    "sent_end": 57.297,
+    "words": [
+      {
+        "word": "Experts",
+        "start": 51.597,
+        "end": 52.38
+      },
+      {
+        "word": "suggest",
+        "start": 52.42,
+        "end": 53.202
+      },
+      {
+        "word": "that",
+        "start": 53.242,
+        "end": 53.689
+      },
+      {
+        "word": "it",
+        "start": 53.729,
+        "end": 53.953
+      },
+      {
+        "word": "takes",
+        "start": 53.993,
+        "end": 54.551
+      },
+      {
+        "word": "about",
+        "start": 54.591,
+        "end": 55.15
+      },
+      {
+        "word": "days",
+        "start": 55.19,
+        "end": 55.637
+      },
+      {
+        "word": "to",
+        "start": 55.677,
+        "end": 55.901
+      },
+      {
+        "word": "form",
+        "start": 55.941,
+        "end": 56.388
+      },
+      {
+        "word": "a",
+        "start": 56.428,
+        "end": 56.54
+      },
+      {
+        "word": "new",
+        "start": 56.58,
+        "end": 56.915
+      },
+      {
+        "word": "routine",
+        "start": 56.955,
+        "end": 57.737
+      }
+    ]
+  },
+  {
+    "text": "So, do not give up if you find it difficult at first.",
+    "sent_start": 57.297,
+    "sent_end": 61.706,
+    "words": [
+      {
+        "word": "So",
+        "start": 57.297,
+        "end": 57.518
+      },
+      {
+        "word": "do",
+        "start": 57.558,
+        "end": 57.778
+      },
+      {
+        "word": "not",
+        "start": 57.818,
+        "end": 58.149
+      },
+      {
+        "word": "give",
+        "start": 58.189,
+        "end": 58.63
+      },
+      {
+        "word": "up",
+        "start": 58.67,
+        "end": 58.89
+      },
+      {
+        "word": "if",
+        "start": 58.93,
+        "end": 59.15
+      },
+      {
+        "word": "you",
+        "start": 59.19,
+        "end": 59.521
+      },
+      {
+        "word": "find",
+        "start": 59.561,
+        "end": 60.002
+      },
+      {
+        "word": "it",
+        "start": 60.042,
+        "end": 60.262
+      },
+      {
+        "word": "difficult",
+        "start": 60.302,
+        "end": 61.294
+      },
+      {
+        "word": "at",
+        "start": 61.334,
+        "end": 61.555
+      },
+      {
+        "word": "first",
+        "start": 61.595,
+        "end": 62.146
+      }
+    ]
+  },
+  {
+    "text": "Keep practicing, and soon your morning routine will become a natural part of your life.",
+    "sent_start": 61.706,
+    "sent_end": 67.6,
+    "words": [
+      {
+        "word": "Keep",
+        "start": 61.706,
+        "end": 62.038
+      },
+      {
+        "word": "practicing",
+        "start": 62.078,
+        "end": 62.908
+      },
+      {
+        "word": "and",
+        "start": 62.948,
+        "end": 63.197
+      },
+      {
+        "word": "soon",
+        "start": 63.237,
+        "end": 63.569
+      },
+      {
+        "word": "your",
+        "start": 63.609,
+        "end": 63.941
+      },
+      {
+        "word": "morning",
+        "start": 63.981,
+        "end": 64.562
+      },
+      {
+        "word": "routine",
+        "start": 64.602,
+        "end": 65.183
+      },
+      {
+        "word": "will",
+        "start": 65.223,
+        "end": 65.555
+      },
+      {
+        "word": "become",
+        "start": 65.595,
+        "end": 66.094
+      },
+      {
+        "word": "a",
+        "start": 66.134,
+        "end": 66.217
+      },
+      {
+        "word": "natural",
+        "start": 66.257,
+        "end": 66.838
+      },
+      {
+        "word": "part",
+        "start": 66.878,
+        "end": 67.21
+      },
+      {
+        "word": "of",
+        "start": 67.25,
+        "end": 67.416
+      },
+      {
+        "word": "your",
+        "start": 67.456,
+        "end": 67.788
+      },
+      {
+        "word": "life",
+        "start": 67.828,
+        "end": 68.16
+      }
+    ]
+  }
+]

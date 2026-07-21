@@ -1,0 +1,1355 @@
+[
+  {
+    "text": "Edge computing is changing the way energy companies manage their power systems.",
+    "sent_start": 0.0,
+    "sent_end": 5.728,
+    "words": [
+      {
+        "word": "Edge",
+        "start": 0.0,
+        "end": 0.342
+      },
+      {
+        "word": "computing",
+        "start": 0.382,
+        "end": 1.151
+      },
+      {
+        "word": "is",
+        "start": 1.191,
+        "end": 1.362
+      },
+      {
+        "word": "changing",
+        "start": 1.402,
+        "end": 2.086
+      },
+      {
+        "word": "the",
+        "start": 2.126,
+        "end": 2.383
+      },
+      {
+        "word": "way",
+        "start": 2.423,
+        "end": 2.679
+      },
+      {
+        "word": "energy",
+        "start": 2.719,
+        "end": 3.232
+      },
+      {
+        "word": "companies",
+        "start": 3.272,
+        "end": 4.042
+      },
+      {
+        "word": "manage",
+        "start": 4.082,
+        "end": 4.594
+      },
+      {
+        "word": "their",
+        "start": 4.634,
+        "end": 5.062
+      },
+      {
+        "word": "power",
+        "start": 5.102,
+        "end": 5.529
+      },
+      {
+        "word": "systems",
+        "start": 5.569,
+        "end": 6.168
+      }
+    ]
+  },
+  {
+    "text": "Instead of sending all data to a central cloud server, edge computing processes information close to where it is collected, such as at solar farms, wind parks, or battery storage stations.",
+    "sent_start": 5.728,
+    "sent_end": 18.956,
+    "words": [
+      {
+        "word": "Instead",
+        "start": 5.728,
+        "end": 6.333
+      },
+      {
+        "word": "of",
+        "start": 6.373,
+        "end": 6.546
+      },
+      {
+        "word": "sending",
+        "start": 6.586,
+        "end": 7.191
+      },
+      {
+        "word": "all",
+        "start": 7.231,
+        "end": 7.49
+      },
+      {
+        "word": "data",
+        "start": 7.53,
+        "end": 7.876
+      },
+      {
+        "word": "to",
+        "start": 7.916,
+        "end": 8.089
+      },
+      {
+        "word": "a",
+        "start": 8.129,
+        "end": 8.216
+      },
+      {
+        "word": "central",
+        "start": 8.256,
+        "end": 8.861
+      },
+      {
+        "word": "cloud",
+        "start": 8.901,
+        "end": 9.333
+      },
+      {
+        "word": "server",
+        "start": 9.373,
+        "end": 9.892
+      },
+      {
+        "word": "edge",
+        "start": 9.932,
+        "end": 10.278
+      },
+      {
+        "word": "computing",
+        "start": 10.318,
+        "end": 11.096
+      },
+      {
+        "word": "processes",
+        "start": 11.136,
+        "end": 11.914
+      },
+      {
+        "word": "information",
+        "start": 11.954,
+        "end": 12.905
+      },
+      {
+        "word": "close",
+        "start": 12.945,
+        "end": 13.377
+      },
+      {
+        "word": "to",
+        "start": 13.417,
+        "end": 13.59
+      },
+      {
+        "word": "where",
+        "start": 13.63,
+        "end": 14.062
+      },
+      {
+        "word": "it",
+        "start": 14.102,
+        "end": 14.275
+      },
+      {
+        "word": "is",
+        "start": 14.315,
+        "end": 14.488
+      },
+      {
+        "word": "collected",
+        "start": 14.528,
+        "end": 15.306
+      },
+      {
+        "word": "such",
+        "start": 15.346,
+        "end": 15.692
+      },
+      {
+        "word": "as",
+        "start": 15.732,
+        "end": 15.905
+      },
+      {
+        "word": "at",
+        "start": 15.945,
+        "end": 16.118
+      },
+      {
+        "word": "solar",
+        "start": 16.158,
+        "end": 16.59
+      },
+      {
+        "word": "farms",
+        "start": 16.63,
+        "end": 17.063
+      },
+      {
+        "word": "wind",
+        "start": 17.103,
+        "end": 17.448
+      },
+      {
+        "word": "parks",
+        "start": 17.488,
+        "end": 17.921
+      },
+      {
+        "word": "or",
+        "start": 17.961,
+        "end": 18.134
+      },
+      {
+        "word": "battery",
+        "start": 18.174,
+        "end": 18.779
+      },
+      {
+        "word": "storage",
+        "start": 18.819,
+        "end": 19.424
+      },
+      {
+        "word": "stations",
+        "start": 19.464,
+        "end": 20.156
+      }
+    ]
+  },
+  {
+    "text": "In a typical smart energy project, thousands of sensors collect data about voltage, temperature, and power output.",
+    "sent_start": 18.956,
+    "sent_end": 27.697,
+    "words": [
+      {
+        "word": "In",
+        "start": 18.956,
+        "end": 19.142
+      },
+      {
+        "word": "a",
+        "start": 19.182,
+        "end": 19.275
+      },
+      {
+        "word": "typical",
+        "start": 19.315,
+        "end": 19.966
+      },
+      {
+        "word": "smart",
+        "start": 20.006,
+        "end": 20.471
+      },
+      {
+        "word": "energy",
+        "start": 20.511,
+        "end": 21.068
+      },
+      {
+        "word": "project",
+        "start": 21.108,
+        "end": 21.759
+      },
+      {
+        "word": "thousands",
+        "start": 21.799,
+        "end": 22.636
+      },
+      {
+        "word": "of",
+        "start": 22.676,
+        "end": 22.862
+      },
+      {
+        "word": "sensors",
+        "start": 22.902,
+        "end": 23.553
+      },
+      {
+        "word": "collect",
+        "start": 23.593,
+        "end": 24.244
+      },
+      {
+        "word": "data",
+        "start": 24.284,
+        "end": 24.656
+      },
+      {
+        "word": "about",
+        "start": 24.696,
+        "end": 25.161
+      },
+      {
+        "word": "voltage",
+        "start": 25.201,
+        "end": 25.852
+      },
+      {
+        "word": "temperature",
+        "start": 25.892,
+        "end": 26.915
+      },
+      {
+        "word": "and",
+        "start": 26.955,
+        "end": 27.234
+      },
+      {
+        "word": "power",
+        "start": 27.274,
+        "end": 27.739
+      },
+      {
+        "word": "output",
+        "start": 27.779,
+        "end": 28.337
+      }
+    ]
+  },
+  {
+    "text": "If every piece of data must travel to a remote cloud center, the network can become slow and unreliable.",
+    "sent_start": 27.697,
+    "sent_end": 35.494,
+    "words": [
+      {
+        "word": "If",
+        "start": 27.697,
+        "end": 27.883
+      },
+      {
+        "word": "every",
+        "start": 27.923,
+        "end": 28.387
+      },
+      {
+        "word": "piece",
+        "start": 28.427,
+        "end": 28.891
+      },
+      {
+        "word": "of",
+        "start": 28.931,
+        "end": 29.117
+      },
+      {
+        "word": "data",
+        "start": 29.157,
+        "end": 29.528
+      },
+      {
+        "word": "must",
+        "start": 29.568,
+        "end": 29.939
+      },
+      {
+        "word": "travel",
+        "start": 29.979,
+        "end": 30.536
+      },
+      {
+        "word": "to",
+        "start": 30.576,
+        "end": 30.762
+      },
+      {
+        "word": "a",
+        "start": 30.802,
+        "end": 30.895
+      },
+      {
+        "word": "remote",
+        "start": 30.935,
+        "end": 31.492
+      },
+      {
+        "word": "cloud",
+        "start": 31.532,
+        "end": 31.996
+      },
+      {
+        "word": "center",
+        "start": 32.036,
+        "end": 32.593
+      },
+      {
+        "word": "the",
+        "start": 32.633,
+        "end": 32.911
+      },
+      {
+        "word": "network",
+        "start": 32.951,
+        "end": 33.601
+      },
+      {
+        "word": "can",
+        "start": 33.641,
+        "end": 33.919
+      },
+      {
+        "word": "become",
+        "start": 33.959,
+        "end": 34.516
+      },
+      {
+        "word": "slow",
+        "start": 34.556,
+        "end": 34.928
+      },
+      {
+        "word": "and",
+        "start": 34.968,
+        "end": 35.246
+      },
+      {
+        "word": "unreliable",
+        "start": 35.286,
+        "end": 36.214
+      }
+    ]
+  },
+  {
+    "text": "Edge devices solve this problem by handling urgent tasks locally, like detecting equipment faults or adjusting power flow in real time.",
+    "sent_start": 35.494,
+    "sent_end": 45.125,
+    "words": [
+      {
+        "word": "Edge",
+        "start": 35.494,
+        "end": 35.835
+      },
+      {
+        "word": "devices",
+        "start": 35.875,
+        "end": 36.472
+      },
+      {
+        "word": "solve",
+        "start": 36.512,
+        "end": 36.938
+      },
+      {
+        "word": "this",
+        "start": 36.978,
+        "end": 37.319
+      },
+      {
+        "word": "problem",
+        "start": 37.359,
+        "end": 37.956
+      },
+      {
+        "word": "by",
+        "start": 37.996,
+        "end": 38.166
+      },
+      {
+        "word": "handling",
+        "start": 38.206,
+        "end": 38.888
+      },
+      {
+        "word": "urgent",
+        "start": 38.928,
+        "end": 39.439
+      },
+      {
+        "word": "tasks",
+        "start": 39.479,
+        "end": 39.905
+      },
+      {
+        "word": "locally",
+        "start": 39.945,
+        "end": 40.542
+      },
+      {
+        "word": "like",
+        "start": 40.582,
+        "end": 40.923
+      },
+      {
+        "word": "detecting",
+        "start": 40.963,
+        "end": 41.73
+      },
+      {
+        "word": "equipment",
+        "start": 41.77,
+        "end": 42.537
+      },
+      {
+        "word": "faults",
+        "start": 42.577,
+        "end": 43.088
+      },
+      {
+        "word": "or",
+        "start": 43.128,
+        "end": 43.299
+      },
+      {
+        "word": "adjusting",
+        "start": 43.339,
+        "end": 44.106
+      },
+      {
+        "word": "power",
+        "start": 44.146,
+        "end": 44.572
+      },
+      {
+        "word": "flow",
+        "start": 44.612,
+        "end": 44.953
+      },
+      {
+        "word": "in",
+        "start": 44.993,
+        "end": 45.163
+      },
+      {
+        "word": "real",
+        "start": 45.203,
+        "end": 45.544
+      },
+      {
+        "word": "time",
+        "start": 45.584,
+        "end": 45.925
+      }
+    ]
+  },
+  {
+    "text": "For product managers designing B-end energy platforms, edge computing offers three clear benefits.",
+    "sent_start": 45.125,
+    "sent_end": 52.714,
+    "words": [
+      {
+        "word": "For",
+        "start": 45.125,
+        "end": 45.399
+      },
+      {
+        "word": "product",
+        "start": 45.439,
+        "end": 46.079
+      },
+      {
+        "word": "managers",
+        "start": 46.119,
+        "end": 46.851
+      },
+      {
+        "word": "designing",
+        "start": 46.891,
+        "end": 47.714
+      },
+      {
+        "word": "B",
+        "start": 47.754,
+        "end": 47.845
+      },
+      {
+        "word": "end",
+        "start": 47.885,
+        "end": 48.159
+      },
+      {
+        "word": "energy",
+        "start": 48.199,
+        "end": 48.748
+      },
+      {
+        "word": "platforms",
+        "start": 48.788,
+        "end": 49.611
+      },
+      {
+        "word": "edge",
+        "start": 49.651,
+        "end": 50.017
+      },
+      {
+        "word": "computing",
+        "start": 50.057,
+        "end": 50.88
+      },
+      {
+        "word": "offers",
+        "start": 50.92,
+        "end": 51.468
+      },
+      {
+        "word": "three",
+        "start": 51.508,
+        "end": 51.965
+      },
+      {
+        "word": "clear",
+        "start": 52.005,
+        "end": 52.462
+      },
+      {
+        "word": "benefits",
+        "start": 52.502,
+        "end": 53.234
+      }
+    ]
+  },
+  {
+    "text": "First, it reduces latency, which means faster responses when a safety issue occurs.",
+    "sent_start": 52.714,
+    "sent_end": 59.469,
+    "words": [
+      {
+        "word": "First",
+        "start": 52.714,
+        "end": 53.211
+      },
+      {
+        "word": "it",
+        "start": 53.251,
+        "end": 53.449
+      },
+      {
+        "word": "reduces",
+        "start": 53.489,
+        "end": 54.185
+      },
+      {
+        "word": "latency",
+        "start": 54.225,
+        "end": 54.92
+      },
+      {
+        "word": "which",
+        "start": 54.96,
+        "end": 55.457
+      },
+      {
+        "word": "means",
+        "start": 55.497,
+        "end": 55.994
+      },
+      {
+        "word": "faster",
+        "start": 56.034,
+        "end": 56.63
+      },
+      {
+        "word": "responses",
+        "start": 56.67,
+        "end": 57.564
+      },
+      {
+        "word": "when",
+        "start": 57.604,
+        "end": 58.001
+      },
+      {
+        "word": "a",
+        "start": 58.041,
+        "end": 58.141
+      },
+      {
+        "word": "safety",
+        "start": 58.181,
+        "end": 58.777
+      },
+      {
+        "word": "issue",
+        "start": 58.817,
+        "end": 59.313
+      },
+      {
+        "word": "occurs",
+        "start": 59.353,
+        "end": 59.949
+      }
+    ]
+  },
+  {
+    "text": "Second, it lowers bandwidth costs because only important summary data is sent to the cloud.",
+    "sent_start": 59.469,
+    "sent_end": 66.253,
+    "words": [
+      {
+        "word": "Second",
+        "start": 59.469,
+        "end": 60.012
+      },
+      {
+        "word": "it",
+        "start": 60.052,
+        "end": 60.233
+      },
+      {
+        "word": "lowers",
+        "start": 60.273,
+        "end": 60.816
+      },
+      {
+        "word": "bandwidth",
+        "start": 60.856,
+        "end": 61.67
+      },
+      {
+        "word": "costs",
+        "start": 61.71,
+        "end": 62.162
+      },
+      {
+        "word": "because",
+        "start": 62.202,
+        "end": 62.835
+      },
+      {
+        "word": "only",
+        "start": 62.875,
+        "end": 63.237
+      },
+      {
+        "word": "important",
+        "start": 63.277,
+        "end": 64.091
+      },
+      {
+        "word": "summary",
+        "start": 64.131,
+        "end": 64.764
+      },
+      {
+        "word": "data",
+        "start": 64.804,
+        "end": 65.166
+      },
+      {
+        "word": "is",
+        "start": 65.206,
+        "end": 65.387
+      },
+      {
+        "word": "sent",
+        "start": 65.427,
+        "end": 65.788
+      },
+      {
+        "word": "to",
+        "start": 65.828,
+        "end": 66.009
+      },
+      {
+        "word": "the",
+        "start": 66.049,
+        "end": 66.321
+      },
+      {
+        "word": "cloud",
+        "start": 66.361,
+        "end": 66.813
+      }
+    ]
+  },
+  {
+    "text": "Third, it improves system reliability since local devices can keep working even when the network connection drops.",
+    "sent_start": 66.253,
+    "sent_end": 74.425,
+    "words": [
+      {
+        "word": "Third",
+        "start": 66.253,
+        "end": 66.678
+      },
+      {
+        "word": "it",
+        "start": 66.718,
+        "end": 66.889
+      },
+      {
+        "word": "improves",
+        "start": 66.929,
+        "end": 67.61
+      },
+      {
+        "word": "system",
+        "start": 67.65,
+        "end": 68.16
+      },
+      {
+        "word": "reliability",
+        "start": 68.2,
+        "end": 69.137
+      },
+      {
+        "word": "since",
+        "start": 69.177,
+        "end": 69.602
+      },
+      {
+        "word": "local",
+        "start": 69.642,
+        "end": 70.068
+      },
+      {
+        "word": "devices",
+        "start": 70.108,
+        "end": 70.704
+      },
+      {
+        "word": "can",
+        "start": 70.744,
+        "end": 70.999
+      },
+      {
+        "word": "keep",
+        "start": 71.039,
+        "end": 71.38
+      },
+      {
+        "word": "working",
+        "start": 71.42,
+        "end": 72.016
+      },
+      {
+        "word": "even",
+        "start": 72.056,
+        "end": 72.396
+      },
+      {
+        "word": "when",
+        "start": 72.436,
+        "end": 72.777
+      },
+      {
+        "word": "the",
+        "start": 72.817,
+        "end": 73.072
+      },
+      {
+        "word": "network",
+        "start": 73.112,
+        "end": 73.708
+      },
+      {
+        "word": "connection",
+        "start": 73.748,
+        "end": 74.599
+      },
+      {
+        "word": "drops",
+        "start": 74.639,
+        "end": 75.065
+      }
+    ]
+  },
+  {
+    "text": "A good example is battery energy storage systems.",
+    "sent_start": 74.425,
+    "sent_end": 78.75,
+    "words": [
+      {
+        "word": "A",
+        "start": 74.425,
+        "end": 74.53
+      },
+      {
+        "word": "good",
+        "start": 74.57,
+        "end": 74.992
+      },
+      {
+        "word": "example",
+        "start": 75.032,
+        "end": 75.771
+      },
+      {
+        "word": "is",
+        "start": 75.811,
+        "end": 76.022
+      },
+      {
+        "word": "battery",
+        "start": 76.062,
+        "end": 76.8
+      },
+      {
+        "word": "energy",
+        "start": 76.84,
+        "end": 77.473
+      },
+      {
+        "word": "storage",
+        "start": 77.513,
+        "end": 78.252
+      },
+      {
+        "word": "systems",
+        "start": 78.292,
+        "end": 79.03
+      }
+    ]
+  },
+  {
+    "text": "These systems need to make split-second decisions about when to charge or discharge.",
+    "sent_start": 78.75,
+    "sent_end": 84.714,
+    "words": [
+      {
+        "word": "These",
+        "start": 78.75,
+        "end": 79.176
+      },
+      {
+        "word": "systems",
+        "start": 79.216,
+        "end": 79.812
+      },
+      {
+        "word": "need",
+        "start": 79.852,
+        "end": 80.193
+      },
+      {
+        "word": "to",
+        "start": 80.233,
+        "end": 80.404
+      },
+      {
+        "word": "make",
+        "start": 80.444,
+        "end": 80.784
+      },
+      {
+        "word": "split",
+        "start": 80.824,
+        "end": 81.25
+      },
+      {
+        "word": "second",
+        "start": 81.29,
+        "end": 81.802
+      },
+      {
+        "word": "decisions",
+        "start": 81.842,
+        "end": 82.608
+      },
+      {
+        "word": "about",
+        "start": 82.648,
+        "end": 83.074
+      },
+      {
+        "word": "when",
+        "start": 83.114,
+        "end": 83.455
+      },
+      {
+        "word": "to",
+        "start": 83.495,
+        "end": 83.666
+      },
+      {
+        "word": "charge",
+        "start": 83.706,
+        "end": 84.217
+      },
+      {
+        "word": "or",
+        "start": 84.257,
+        "end": 84.427
+      },
+      {
+        "word": "discharge",
+        "start": 84.467,
+        "end": 85.234
+      }
+    ]
+  },
+  {
+    "text": "An edge controller at the station can analyze battery health data and respond within milliseconds, while non-critical reports are uploaded to the cloud later for long-term analysis.",
+    "sent_start": 84.714,
+    "sent_end": 96.747,
+    "words": [
+      {
+        "word": "An",
+        "start": 84.714,
+        "end": 84.873
+      },
+      {
+        "word": "edge",
+        "start": 84.913,
+        "end": 85.232
+      },
+      {
+        "word": "controller",
+        "start": 85.272,
+        "end": 86.069
+      },
+      {
+        "word": "at",
+        "start": 86.109,
+        "end": 86.268
+      },
+      {
+        "word": "the",
+        "start": 86.308,
+        "end": 86.547
+      },
+      {
+        "word": "station",
+        "start": 86.587,
+        "end": 87.145
+      },
+      {
+        "word": "can",
+        "start": 87.185,
+        "end": 87.424
+      },
+      {
+        "word": "analyze",
+        "start": 87.464,
+        "end": 88.022
+      },
+      {
+        "word": "battery",
+        "start": 88.062,
+        "end": 88.62
+      },
+      {
+        "word": "health",
+        "start": 88.66,
+        "end": 89.138
+      },
+      {
+        "word": "data",
+        "start": 89.178,
+        "end": 89.497
+      },
+      {
+        "word": "and",
+        "start": 89.537,
+        "end": 89.776
+      },
+      {
+        "word": "respond",
+        "start": 89.816,
+        "end": 90.374
+      },
+      {
+        "word": "within",
+        "start": 90.414,
+        "end": 90.892
+      },
+      {
+        "word": "milliseconds",
+        "start": 90.932,
+        "end": 91.888
+      },
+      {
+        "word": "while",
+        "start": 91.928,
+        "end": 92.327
+      },
+      {
+        "word": "non",
+        "start": 92.367,
+        "end": 92.606
+      },
+      {
+        "word": "critical",
+        "start": 92.646,
+        "end": 93.283
+      },
+      {
+        "word": "reports",
+        "start": 93.323,
+        "end": 93.881
+      },
+      {
+        "word": "are",
+        "start": 93.921,
+        "end": 94.16
+      },
+      {
+        "word": "uploaded",
+        "start": 94.2,
+        "end": 94.838
+      },
+      {
+        "word": "to",
+        "start": 94.878,
+        "end": 95.037
+      },
+      {
+        "word": "the",
+        "start": 95.077,
+        "end": 95.316
+      },
+      {
+        "word": "cloud",
+        "start": 95.356,
+        "end": 95.755
+      },
+      {
+        "word": "later",
+        "start": 95.795,
+        "end": 96.193
+      },
+      {
+        "word": "for",
+        "start": 96.233,
+        "end": 96.472
+      },
+      {
+        "word": "long",
+        "start": 96.512,
+        "end": 96.831
+      },
+      {
+        "word": "term",
+        "start": 96.871,
+        "end": 97.19
+      },
+      {
+        "word": "analysis",
+        "start": 97.23,
+        "end": 97.867
+      }
+    ]
+  },
+  {
+    "text": "As the energy industry moves toward more distributed and intelligent systems, understanding edge computing is becoming essential for B-end product managers.",
+    "sent_start": 96.747,
+    "sent_end": 107.697,
+    "words": [
+      {
+        "word": "As",
+        "start": 96.747,
+        "end": 96.912
+      },
+      {
+        "word": "the",
+        "start": 96.952,
+        "end": 97.199
+      },
+      {
+        "word": "energy",
+        "start": 97.239,
+        "end": 97.733
+      },
+      {
+        "word": "industry",
+        "start": 97.773,
+        "end": 98.432
+      },
+      {
+        "word": "moves",
+        "start": 98.472,
+        "end": 98.883
+      },
+      {
+        "word": "toward",
+        "start": 98.923,
+        "end": 99.417
+      },
+      {
+        "word": "more",
+        "start": 99.457,
+        "end": 99.786
+      },
+      {
+        "word": "distributed",
+        "start": 99.826,
+        "end": 100.732
+      },
+      {
+        "word": "and",
+        "start": 100.772,
+        "end": 101.019
+      },
+      {
+        "word": "intelligent",
+        "start": 101.059,
+        "end": 101.965
+      },
+      {
+        "word": "systems",
+        "start": 102.005,
+        "end": 102.581
+      },
+      {
+        "word": "understanding",
+        "start": 102.621,
+        "end": 103.691
+      },
+      {
+        "word": "edge",
+        "start": 103.731,
+        "end": 104.061
+      },
+      {
+        "word": "computing",
+        "start": 104.101,
+        "end": 104.842
+      },
+      {
+        "word": "is",
+        "start": 104.882,
+        "end": 105.046
+      },
+      {
+        "word": "becoming",
+        "start": 105.086,
+        "end": 105.745
+      },
+      {
+        "word": "essential",
+        "start": 105.785,
+        "end": 106.526
+      },
+      {
+        "word": "for",
+        "start": 106.566,
+        "end": 106.813
+      },
+      {
+        "word": "B",
+        "start": 106.853,
+        "end": 106.935
+      },
+      {
+        "word": "end",
+        "start": 106.975,
+        "end": 107.222
+      },
+      {
+        "word": "product",
+        "start": 107.262,
+        "end": 107.839
+      },
+      {
+        "word": "managers",
+        "start": 107.879,
+        "end": 108.537
+      }
+    ]
+  },
+  {
+    "text": "It is not just a technical trend but a practical tool for building more reliable and efficient energy platforms.",
+    "sent_start": 107.697,
+    "sent_end": 115.369,
+    "words": [
+      {
+        "word": "It",
+        "start": 107.697,
+        "end": 107.862
+      },
+      {
+        "word": "is",
+        "start": 107.902,
+        "end": 108.067
+      },
+      {
+        "word": "not",
+        "start": 108.107,
+        "end": 108.355
+      },
+      {
+        "word": "just",
+        "start": 108.395,
+        "end": 108.725
+      },
+      {
+        "word": "a",
+        "start": 108.765,
+        "end": 108.847
+      },
+      {
+        "word": "technical",
+        "start": 108.887,
+        "end": 109.63
+      },
+      {
+        "word": "trend",
+        "start": 109.67,
+        "end": 110.082
+      },
+      {
+        "word": "but",
+        "start": 110.122,
+        "end": 110.37
+      },
+      {
+        "word": "a",
+        "start": 110.41,
+        "end": 110.492
+      },
+      {
+        "word": "practical",
+        "start": 110.532,
+        "end": 111.275
+      },
+      {
+        "word": "tool",
+        "start": 111.315,
+        "end": 111.645
+      },
+      {
+        "word": "for",
+        "start": 111.685,
+        "end": 111.932
+      },
+      {
+        "word": "building",
+        "start": 111.972,
+        "end": 112.632
+      },
+      {
+        "word": "more",
+        "start": 112.672,
+        "end": 113.002
+      },
+      {
+        "word": "reliable",
+        "start": 113.042,
+        "end": 113.702
+      },
+      {
+        "word": "and",
+        "start": 113.742,
+        "end": 113.99
+      },
+      {
+        "word": "efficient",
+        "start": 114.03,
+        "end": 114.772
+      },
+      {
+        "word": "energy",
+        "start": 114.812,
+        "end": 115.307
+      },
+      {
+        "word": "platforms",
+        "start": 115.347,
+        "end": 116.089
+      }
+    ]
+  }
+]

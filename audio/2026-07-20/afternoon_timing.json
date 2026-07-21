@@ -1,0 +1,1001 @@
+[
+  {
+    "text": "Digital twin technology is rapidly changing how we manage energy systems.",
+    "sent_start": 0.0,
+    "sent_end": 6.006,
+    "words": [
+      {
+        "word": "Digital",
+        "start": 0.0,
+        "end": 0.678
+      },
+      {
+        "word": "twin",
+        "start": 0.718,
+        "end": 1.106
+      },
+      {
+        "word": "technology",
+        "start": 1.146,
+        "end": 2.114
+      },
+      {
+        "word": "is",
+        "start": 2.154,
+        "end": 2.348
+      },
+      {
+        "word": "rapidly",
+        "start": 2.388,
+        "end": 3.066
+      },
+      {
+        "word": "changing",
+        "start": 3.106,
+        "end": 3.881
+      },
+      {
+        "word": "how",
+        "start": 3.921,
+        "end": 4.211
+      },
+      {
+        "word": "we",
+        "start": 4.251,
+        "end": 4.445
+      },
+      {
+        "word": "manage",
+        "start": 4.485,
+        "end": 5.066
+      },
+      {
+        "word": "energy",
+        "start": 5.106,
+        "end": 5.688
+      },
+      {
+        "word": "systems",
+        "start": 5.728,
+        "end": 6.406
+      }
+    ]
+  },
+  {
+    "text": "A digital twin is a virtual replica of a physical asset, such as a wind turbine, solar panel, or power plant.",
+    "sent_start": 6.006,
+    "sent_end": 14.622,
+    "words": [
+      {
+        "word": "A",
+        "start": 6.006,
+        "end": 6.107
+      },
+      {
+        "word": "digital",
+        "start": 6.147,
+        "end": 6.857
+      },
+      {
+        "word": "twin",
+        "start": 6.897,
+        "end": 7.302
+      },
+      {
+        "word": "is",
+        "start": 7.342,
+        "end": 7.545
+      },
+      {
+        "word": "a",
+        "start": 7.585,
+        "end": 7.686
+      },
+      {
+        "word": "virtual",
+        "start": 7.726,
+        "end": 8.436
+      },
+      {
+        "word": "replica",
+        "start": 8.476,
+        "end": 9.185
+      },
+      {
+        "word": "of",
+        "start": 9.225,
+        "end": 9.428
+      },
+      {
+        "word": "a",
+        "start": 9.468,
+        "end": 9.569
+      },
+      {
+        "word": "physical",
+        "start": 9.609,
+        "end": 10.42
+      },
+      {
+        "word": "asset",
+        "start": 10.46,
+        "end": 10.967
+      },
+      {
+        "word": "such",
+        "start": 11.007,
+        "end": 11.413
+      },
+      {
+        "word": "as",
+        "start": 11.453,
+        "end": 11.656
+      },
+      {
+        "word": "a",
+        "start": 11.696,
+        "end": 11.797
+      },
+      {
+        "word": "wind",
+        "start": 11.837,
+        "end": 12.242
+      },
+      {
+        "word": "turbine",
+        "start": 12.282,
+        "end": 12.992
+      },
+      {
+        "word": "solar",
+        "start": 13.032,
+        "end": 13.539
+      },
+      {
+        "word": "panel",
+        "start": 13.579,
+        "end": 14.086
+      },
+      {
+        "word": "or",
+        "start": 14.126,
+        "end": 14.328
+      },
+      {
+        "word": "power",
+        "start": 14.368,
+        "end": 14.875
+      },
+      {
+        "word": "plant",
+        "start": 14.915,
+        "end": 15.422
+      }
+    ]
+  },
+  {
+    "text": "It uses real-time data to simulate and predict the behavior of its physical counterpart.",
+    "sent_start": 14.622,
+    "sent_end": 20.961,
+    "words": [
+      {
+        "word": "It",
+        "start": 14.622,
+        "end": 14.796
+      },
+      {
+        "word": "uses",
+        "start": 14.836,
+        "end": 15.183
+      },
+      {
+        "word": "real",
+        "start": 15.223,
+        "end": 15.571
+      },
+      {
+        "word": "time",
+        "start": 15.611,
+        "end": 15.958
+      },
+      {
+        "word": "data",
+        "start": 15.998,
+        "end": 16.345
+      },
+      {
+        "word": "to",
+        "start": 16.385,
+        "end": 16.559
+      },
+      {
+        "word": "simulate",
+        "start": 16.599,
+        "end": 17.294
+      },
+      {
+        "word": "and",
+        "start": 17.334,
+        "end": 17.594
+      },
+      {
+        "word": "predict",
+        "start": 17.634,
+        "end": 18.242
+      },
+      {
+        "word": "the",
+        "start": 18.282,
+        "end": 18.542
+      },
+      {
+        "word": "behavior",
+        "start": 18.582,
+        "end": 19.277
+      },
+      {
+        "word": "of",
+        "start": 19.317,
+        "end": 19.491
+      },
+      {
+        "word": "its",
+        "start": 19.531,
+        "end": 19.791
+      },
+      {
+        "word": "physical",
+        "start": 19.831,
+        "end": 20.526
+      },
+      {
+        "word": "counterpart",
+        "start": 20.566,
+        "end": 21.521
+      }
+    ]
+  },
+  {
+    "text": "In the energy sector, digital twins help operators monitor equipment health, optimize performance, and reduce downtime.",
+    "sent_start": 20.961,
+    "sent_end": 29.981,
+    "words": [
+      {
+        "word": "In",
+        "start": 20.961,
+        "end": 21.142
+      },
+      {
+        "word": "the",
+        "start": 21.182,
+        "end": 21.452
+      },
+      {
+        "word": "energy",
+        "start": 21.492,
+        "end": 22.033
+      },
+      {
+        "word": "sector",
+        "start": 22.073,
+        "end": 22.614
+      },
+      {
+        "word": "digital",
+        "start": 22.654,
+        "end": 23.286
+      },
+      {
+        "word": "twins",
+        "start": 23.326,
+        "end": 23.777
+      },
+      {
+        "word": "help",
+        "start": 23.817,
+        "end": 24.178
+      },
+      {
+        "word": "operators",
+        "start": 24.218,
+        "end": 25.029
+      },
+      {
+        "word": "monitor",
+        "start": 25.069,
+        "end": 25.701
+      },
+      {
+        "word": "equipment",
+        "start": 25.741,
+        "end": 26.552
+      },
+      {
+        "word": "health",
+        "start": 26.592,
+        "end": 27.134
+      },
+      {
+        "word": "optimize",
+        "start": 27.174,
+        "end": 27.895
+      },
+      {
+        "word": "performance",
+        "start": 27.935,
+        "end": 28.927
+      },
+      {
+        "word": "and",
+        "start": 28.967,
+        "end": 29.238
+      },
+      {
+        "word": "reduce",
+        "start": 29.278,
+        "end": 29.819
+      },
+      {
+        "word": "downtime",
+        "start": 29.859,
+        "end": 30.581
+      }
+    ]
+  },
+  {
+    "text": "For example, a wind farm can use digital twins to predict when a turbine needs maintenance before a failure occurs.",
+    "sent_start": 29.981,
+    "sent_end": 38.167,
+    "words": [
+      {
+        "word": "For",
+        "start": 29.981,
+        "end": 30.242
+      },
+      {
+        "word": "example",
+        "start": 30.282,
+        "end": 30.891
+      },
+      {
+        "word": "a",
+        "start": 30.931,
+        "end": 31.019
+      },
+      {
+        "word": "wind",
+        "start": 31.059,
+        "end": 31.407
+      },
+      {
+        "word": "farm",
+        "start": 31.447,
+        "end": 31.795
+      },
+      {
+        "word": "can",
+        "start": 31.835,
+        "end": 32.096
+      },
+      {
+        "word": "use",
+        "start": 32.136,
+        "end": 32.398
+      },
+      {
+        "word": "digital",
+        "start": 32.438,
+        "end": 33.047
+      },
+      {
+        "word": "twins",
+        "start": 33.087,
+        "end": 33.523
+      },
+      {
+        "word": "to",
+        "start": 33.563,
+        "end": 33.737
+      },
+      {
+        "word": "predict",
+        "start": 33.777,
+        "end": 34.387
+      },
+      {
+        "word": "when",
+        "start": 34.427,
+        "end": 34.775
+      },
+      {
+        "word": "a",
+        "start": 34.815,
+        "end": 34.902
+      },
+      {
+        "word": "turbine",
+        "start": 34.942,
+        "end": 35.552
+      },
+      {
+        "word": "needs",
+        "start": 35.592,
+        "end": 36.027
+      },
+      {
+        "word": "maintenance",
+        "start": 36.067,
+        "end": 37.025
+      },
+      {
+        "word": "before",
+        "start": 37.065,
+        "end": 37.587
+      },
+      {
+        "word": "a",
+        "start": 37.627,
+        "end": 37.715
+      },
+      {
+        "word": "failure",
+        "start": 37.755,
+        "end": 38.364
+      },
+      {
+        "word": "occurs",
+        "start": 38.404,
+        "end": 38.927
+      }
+    ]
+  },
+  {
+    "text": "This approach, known as predictive maintenance, can save millions of dollars each year.",
+    "sent_start": 38.167,
+    "sent_end": 44.436,
+    "words": [
+      {
+        "word": "This",
+        "start": 38.167,
+        "end": 38.515
+      },
+      {
+        "word": "approach",
+        "start": 38.555,
+        "end": 39.252
+      },
+      {
+        "word": "known",
+        "start": 39.292,
+        "end": 39.727
+      },
+      {
+        "word": "as",
+        "start": 39.767,
+        "end": 39.941
+      },
+      {
+        "word": "predictive",
+        "start": 39.981,
+        "end": 40.852
+      },
+      {
+        "word": "maintenance",
+        "start": 40.892,
+        "end": 41.85
+      },
+      {
+        "word": "can",
+        "start": 41.89,
+        "end": 42.151
+      },
+      {
+        "word": "save",
+        "start": 42.191,
+        "end": 42.539
+      },
+      {
+        "word": "millions",
+        "start": 42.579,
+        "end": 43.276
+      },
+      {
+        "word": "of",
+        "start": 43.316,
+        "end": 43.49
+      },
+      {
+        "word": "dollars",
+        "start": 43.53,
+        "end": 44.14
+      },
+      {
+        "word": "each",
+        "start": 44.18,
+        "end": 44.528
+      },
+      {
+        "word": "year",
+        "start": 44.568,
+        "end": 44.916
+      }
+    ]
+  },
+  {
+    "text": "Moreover, digital twins enable better decision-making through data visualization.",
+    "sent_start": 44.436,
+    "sent_end": 50.747,
+    "words": [
+      {
+        "word": "Moreover",
+        "start": 44.436,
+        "end": 45.157
+      },
+      {
+        "word": "digital",
+        "start": 45.197,
+        "end": 45.828
+      },
+      {
+        "word": "twins",
+        "start": 45.868,
+        "end": 46.319
+      },
+      {
+        "word": "enable",
+        "start": 46.359,
+        "end": 46.9
+      },
+      {
+        "word": "better",
+        "start": 46.94,
+        "end": 47.481
+      },
+      {
+        "word": "decision",
+        "start": 47.521,
+        "end": 48.242
+      },
+      {
+        "word": "making",
+        "start": 48.282,
+        "end": 48.823
+      },
+      {
+        "word": "through",
+        "start": 48.863,
+        "end": 49.495
+      },
+      {
+        "word": "data",
+        "start": 49.535,
+        "end": 49.895
+      },
+      {
+        "word": "visualization",
+        "start": 49.935,
+        "end": 51.107
+      }
+    ]
+  },
+  {
+    "text": "Managers can view complex system data on interactive dashboards and quickly identify potential issues.",
+    "sent_start": 50.747,
+    "sent_end": 58.614,
+    "words": [
+      {
+        "word": "Managers",
+        "start": 50.747,
+        "end": 51.462
+      },
+      {
+        "word": "can",
+        "start": 51.502,
+        "end": 51.771
+      },
+      {
+        "word": "view",
+        "start": 51.811,
+        "end": 52.168
+      },
+      {
+        "word": "complex",
+        "start": 52.208,
+        "end": 52.834
+      },
+      {
+        "word": "system",
+        "start": 52.874,
+        "end": 53.41
+      },
+      {
+        "word": "data",
+        "start": 53.45,
+        "end": 53.808
+      },
+      {
+        "word": "on",
+        "start": 53.848,
+        "end": 54.027
+      },
+      {
+        "word": "interactive",
+        "start": 54.067,
+        "end": 55.05
+      },
+      {
+        "word": "dashboards",
+        "start": 55.09,
+        "end": 55.984
+      },
+      {
+        "word": "and",
+        "start": 56.024,
+        "end": 56.292
+      },
+      {
+        "word": "quickly",
+        "start": 56.332,
+        "end": 56.958
+      },
+      {
+        "word": "identify",
+        "start": 56.998,
+        "end": 57.713
+      },
+      {
+        "word": "potential",
+        "start": 57.753,
+        "end": 58.558
+      },
+      {
+        "word": "issues",
+        "start": 58.598,
+        "end": 59.134
+      }
+    ]
+  },
+  {
+    "text": "This is especially valuable for renewable energy sources like solar and wind, where output depends on weather conditions.",
+    "sent_start": 58.614,
+    "sent_end": 67.133,
+    "words": [
+      {
+        "word": "This",
+        "start": 58.614,
+        "end": 58.948
+      },
+      {
+        "word": "is",
+        "start": 58.988,
+        "end": 59.155
+      },
+      {
+        "word": "especially",
+        "start": 59.195,
+        "end": 60.03
+      },
+      {
+        "word": "valuable",
+        "start": 60.07,
+        "end": 60.738
+      },
+      {
+        "word": "for",
+        "start": 60.778,
+        "end": 61.029
+      },
+      {
+        "word": "renewable",
+        "start": 61.069,
+        "end": 61.821
+      },
+      {
+        "word": "energy",
+        "start": 61.861,
+        "end": 62.362
+      },
+      {
+        "word": "sources",
+        "start": 62.402,
+        "end": 62.987
+      },
+      {
+        "word": "like",
+        "start": 63.027,
+        "end": 63.361
+      },
+      {
+        "word": "solar",
+        "start": 63.401,
+        "end": 63.818
+      },
+      {
+        "word": "and",
+        "start": 63.858,
+        "end": 64.109
+      },
+      {
+        "word": "wind",
+        "start": 64.149,
+        "end": 64.483
+      },
+      {
+        "word": "where",
+        "start": 64.523,
+        "end": 64.941
+      },
+      {
+        "word": "output",
+        "start": 64.981,
+        "end": 65.482
+      },
+      {
+        "word": "depends",
+        "start": 65.522,
+        "end": 66.106
+      },
+      {
+        "word": "on",
+        "start": 66.146,
+        "end": 66.313
+      },
+      {
+        "word": "weather",
+        "start": 66.353,
+        "end": 66.938
+      },
+      {
+        "word": "conditions",
+        "start": 66.978,
+        "end": 67.813
+      }
+    ]
+  },
+  {
+    "text": "As a product manager in the energy digitalization field, understanding digital twin technology is essential.",
+    "sent_start": 67.133,
+    "sent_end": 75.306,
+    "words": [
+      {
+        "word": "As",
+        "start": 67.133,
+        "end": 67.311
+      },
+      {
+        "word": "a",
+        "start": 67.351,
+        "end": 67.44
+      },
+      {
+        "word": "product",
+        "start": 67.48,
+        "end": 68.102
+      },
+      {
+        "word": "manager",
+        "start": 68.142,
+        "end": 68.763
+      },
+      {
+        "word": "in",
+        "start": 68.803,
+        "end": 68.981
+      },
+      {
+        "word": "the",
+        "start": 69.021,
+        "end": 69.288
+      },
+      {
+        "word": "energy",
+        "start": 69.328,
+        "end": 69.861
+      },
+      {
+        "word": "digitalization",
+        "start": 69.901,
+        "end": 71.144
+      },
+      {
+        "word": "field",
+        "start": 71.184,
+        "end": 71.628
+      },
+      {
+        "word": "understanding",
+        "start": 71.668,
+        "end": 72.823
+      },
+      {
+        "word": "digital",
+        "start": 72.863,
+        "end": 73.485
+      },
+      {
+        "word": "twin",
+        "start": 73.525,
+        "end": 73.88
+      },
+      {
+        "word": "technology",
+        "start": 73.92,
+        "end": 74.808
+      },
+      {
+        "word": "is",
+        "start": 74.848,
+        "end": 75.026
+      },
+      {
+        "word": "essential",
+        "start": 75.066,
+        "end": 75.866
+      }
+    ]
+  },
+  {
+    "text": "The global digital twin market in energy is expected to grow from $3 billion in 2024 to over $15 billion by 2030.",
+    "sent_start": 75.306,
+    "sent_end": 85.825,
+    "words": [
+      {
+        "word": "The",
+        "start": 75.306,
+        "end": 75.71
+      },
+      {
+        "word": "global",
+        "start": 75.75,
+        "end": 76.559
+      },
+      {
+        "word": "digital",
+        "start": 76.599,
+        "end": 77.543
+      },
+      {
+        "word": "twin",
+        "start": 77.583,
+        "end": 78.123
+      },
+      {
+        "word": "market",
+        "start": 78.163,
+        "end": 78.972
+      },
+      {
+        "word": "in",
+        "start": 79.012,
+        "end": 79.282
+      },
+      {
+        "word": "energy",
+        "start": 79.322,
+        "end": 80.131
+      },
+      {
+        "word": "is",
+        "start": 80.171,
+        "end": 80.441
+      },
+      {
+        "word": "expected",
+        "start": 80.481,
+        "end": 81.56
+      },
+      {
+        "word": "to",
+        "start": 81.6,
+        "end": 81.869
+      },
+      {
+        "word": "grow",
+        "start": 81.909,
+        "end": 82.449
+      },
+      {
+        "word": "from",
+        "start": 82.489,
+        "end": 83.028
+      },
+      {
+        "word": "billion",
+        "start": 83.068,
+        "end": 84.012
+      },
+      {
+        "word": "in",
+        "start": 84.052,
+        "end": 84.322
+      },
+      {
+        "word": "to",
+        "start": 84.362,
+        "end": 84.632
+      },
+      {
+        "word": "over",
+        "start": 84.672,
+        "end": 85.211
+      },
+      {
+        "word": "billion",
+        "start": 85.251,
+        "end": 86.195
+      },
+      {
+        "word": "by",
+        "start": 86.235,
+        "end": 86.505
+      }
+    ]
+  },
+  {
+    "text": "Companies that adopt this technology early will gain a significant competitive advantage.",
+    "sent_start": 85.825,
+    "sent_end": 92.164,
+    "words": [
+      {
+        "word": "Companies",
+        "start": 85.825,
+        "end": 86.566
+      },
+      {
+        "word": "that",
+        "start": 86.606,
+        "end": 86.935
+      },
+      {
+        "word": "adopt",
+        "start": 86.975,
+        "end": 87.387
+      },
+      {
+        "word": "this",
+        "start": 87.427,
+        "end": 87.756
+      },
+      {
+        "word": "technology",
+        "start": 87.796,
+        "end": 88.619
+      },
+      {
+        "word": "early",
+        "start": 88.659,
+        "end": 89.071
+      },
+      {
+        "word": "will",
+        "start": 89.111,
+        "end": 89.44
+      },
+      {
+        "word": "gain",
+        "start": 89.48,
+        "end": 89.81
+      },
+      {
+        "word": "a",
+        "start": 89.85,
+        "end": 89.932
+      },
+      {
+        "word": "significant",
+        "start": 89.972,
+        "end": 90.877
+      },
+      {
+        "word": "competitive",
+        "start": 90.917,
+        "end": 91.823
+      },
+      {
+        "word": "advantage",
+        "start": 91.863,
+        "end": 92.604
+      }
+    ]
+  }
+]

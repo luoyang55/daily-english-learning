@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-21",
+  "morning": {
+    "title_en": "The Power of Reading",
+    "title_cn": "阅读的力量",
+    "level": "基础篇",
+    "content_en": "Reading is one of the most valuable habits a person can develop. Whether you prefer novels, newspapers, or online articles, reading helps you gain knowledge and improve your thinking skills.\n\nWhen you read regularly, your vocabulary grows naturally. You encounter new words in context, which makes them easier to remember than memorizing a list. Research shows that people who read for just twenty minutes a day learn thousands more words over a year than those who do not.\n\nReading also reduces stress. A study found that reading for only six minutes can lower your heart rate and ease muscle tension. It is like a mini vacation for your mind. Many doctors recommend reading before bed instead of using a phone or watching television.\n\nMoreover, reading strengthens your ability to focus. In a world full of distractions, sitting down with a book trains your brain to concentrate on one thing for a longer period. This skill is useful in every area of life, from work to relationships.\n\nIf you want to build a reading habit, start small. Choose books that interest you and set aside a specific time each day. Even five pages before sleep can make a big difference over time. The key is consistency, not speed.",
+    "content_cn": "阅读是一个人能培养的最有价值的习惯之一。无论你更喜欢小说、报纸还是网络文章，阅读都能帮助你获取知识并提高思维能力。\n\n当你经常阅读时，你的词汇量会自然地增长。你在语境中遇到新单词，这比背单词表更容易记住。研究表明，每天只阅读二十分钟的人，一年下来比不阅读的人多学会数千个单词。\n\n阅读还能减轻压力。一项研究发现，仅仅阅读六分钟就能降低心率并缓解肌肉紧张。这就像给你的大脑放了一个小假。许多医生建议睡前阅读而不是使用手机或看电视。\n\n此外，阅读增强你的专注能力。在一个充满干扰的世界里，坐下来读一本书能训练你的大脑更长时间地集中注意力。这项技能在生活的各个领域都很有用，从工作到人际关系。\n\n如果你想养成阅读习惯，从小处开始。选择你感兴趣的书籍，每天留出一段固定的时间。即使睡前只读五页，随着时间的推移也会产生很大的变化。关键在于坚持，而不是速度。",
+    "vocabulary": [
+      {
+        "word": "valuable",
+        "phonetic": "/ˈvæljuəbl/",
+        "meaning": "有价值的，宝贵的"
+      },
+      {
+        "word": "vocabulary",
+        "phonetic": "/vəˈkæbjəleri/",
+        "meaning": "词汇量"
+      },
+      {
+        "word": "encounter",
+        "phonetic": "/ɪnˈkaʊntər/",
+        "meaning": "遇到，碰到"
+      },
+      {
+        "word": "context",
+        "phonetic": "/ˈkɑːntekst/",
+        "meaning": "语境，上下文"
+      },
+      {
+        "word": "tension",
+        "phonetic": "/ˈtenʃn/",
+        "meaning": "紧张，紧绷"
+      },
+      {
+        "word": "distraction",
+        "phonetic": "/dɪˈstrækʃn/",
+        "meaning": "干扰，分心"
+      },
+      {
+        "word": "concentrate",
+        "phonetic": "/ˈkɑːnsntreɪt/",
+        "meaning": "集中注意力"
+      },
+      {
+        "word": "consistency",
+        "phonetic": "/kənˈsɪstənsi/",
+        "meaning": "一致性，坚持"
+      },
+      {
+        "word": "recommend",
+        "phonetic": "/ˌrekəˈmend/",
+        "meaning": "建议，推荐"
+      },
+      {
+        "word": "regularly",
+        "phonetic": "/ˈreɡjələrli/",
+        "meaning": "经常地，定期地"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "You encounter new words in context, which makes them easier to remember than memorizing a list.",
+        "cn": "你在语境中遇到新单词，这比背单词表更容易记住。",
+        "grammar": "which 引导非限制性定语从句，指代前面整句话；in context 在语境中"
+      },
+      {
+        "en": "A study found that reading for only six minutes can lower your heart rate and ease muscle tension.",
+        "cn": "一项研究发现，仅仅阅读六分钟就能降低心率并缓解肌肉紧张。",
+        "grammar": "found that... 宾语从句；reading for... 动名词短语作主语"
+      },
+      {
+        "en": "In a world full of distractions, sitting down with a book trains your brain to concentrate on one thing for a longer period.",
+        "cn": "在一个充满干扰的世界里，坐下来读一本书能训练你的大脑更长时间地集中注意力。",
+        "grammar": "full of distractions 过去分词短语作后置定语；train sb. to do sth. 训练某人做某事"
+      }
+    ]
+  },
+  "afternoon": {
+    "title_en": "How Edge Computing Supports Smart Energy Systems",
+    "title_cn": "边缘计算如何支撑智慧能源系统",
+    "level": "IT与工作篇",
+    "content_en": "Edge computing is changing the way energy companies manage their power systems. Instead of sending all data to a central cloud server, edge computing processes information close to where it is collected, such as at solar farms, wind parks, or battery storage stations.\n\nIn a typical smart energy project, thousands of sensors collect data about voltage, temperature, and power output. If every piece of data must travel to a remote cloud center, the network can become slow and unreliable. Edge devices solve this problem by handling urgent tasks locally, like detecting equipment faults or adjusting power flow in real time.\n\nFor product managers designing B-end energy platforms, edge computing offers three clear benefits. First, it reduces latency, which means faster responses when a safety issue occurs. Second, it lowers bandwidth costs because only important summary data is sent to the cloud. Third, it improves system reliability since local devices can keep working even when the network connection drops.\n\nA good example is battery energy storage systems. These systems need to make split-second decisions about when to charge or discharge. An edge controller at the station can analyze battery health data and respond within milliseconds, while non-critical reports are uploaded to the cloud later for long-term analysis.\n\nAs the energy industry moves toward more distributed and intelligent systems, understanding edge computing is becoming essential for B-end product managers. It is not just a technical trend but a practical tool for building more reliable and efficient energy platforms.",
+    "content_cn": "边缘计算正在改变能源公司管理电力系统的方式。边缘计算不是将所有数据发送到中央云服务器，而是在数据采集附近处理信息，比如太阳能电站、风电场或储能站。\n\n在一个典型的智慧能源项目中，数千个传感器收集关于电压、温度和功率输出的数据。如果每条数据都必须传输到远程云中心，网络可能会变得缓慢且不可靠。边缘设备通过在本地处理紧急任务来解决这个问题，比如检测设备故障或实时调整电力流向。\n\n对于设计B端能源平台的产品经理来说，边缘计算提供了三个明显的好处。第一，它降低了延迟，意味着在安全问题发生时能更快响应。第二，它降低了带宽成本，因为只有重要的汇总数据才发送到云端。第三，它提高了系统可靠性，因为即使网络连接中断，本地设备也能继续工作。\n\n一个很好的例子是电池储能系统。这些系统需要在充电和放电时做出毫秒级的决策。站点的边缘控制器可以分析电池健康数据并在毫秒内做出响应，而非关键的报告则稍后上传到云端进行长期分析。\n\n随着能源行业朝着更加分布式和智能化的方向发展，理解边缘计算对B端产品经理变得越来越重要。它不仅是一个技术趋势，更是构建更可靠、更高效能源平台的实用工具。",
+    "vocabulary": [
+      {
+        "word": "edge computing",
+        "phonetic": "/edʒ kəmˈpjuːtɪŋ/",
+        "meaning": "边缘计算"
+      },
+      {
+        "word": "latency",
+        "phonetic": "/ˈleɪtənsi/",
+        "meaning": "延迟"
+      },
+      {
+        "word": "bandwidth",
+        "phonetic": "/ˈbændwɪdθ/",
+        "meaning": "带宽"
+      },
+      {
+        "word": "reliability",
+        "phonetic": "/rɪˌlaɪəˈbɪləti/",
+        "meaning": "可靠性"
+      },
+      {
+        "word": "sensor",
+        "phonetic": "/ˈsensər/",
+        "meaning": "传感器"
+      },
+      {
+        "word": "distributed",
+        "phonetic": "/ˈdɪstrɪbjutɪd/",
+        "meaning": "分布式的"
+      },
+      {
+        "word": "controller",
+        "phonetic": "/kənˈtroʊlər/",
+        "meaning": "控制器"
+      },
+      {
+        "word": "fault",
+        "phonetic": "/fɔːlt/",
+        "meaning": "故障"
+      },
+      {
+        "word": "millisecond",
+        "phonetic": "/ˈmɪlɪsekənd/",
+        "meaning": "毫秒"
+      },
+      {
+        "word": "summary",
+        "phonetic": "/ˈsʌməri/",
+        "meaning": "汇总，摘要"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "Instead of sending all data to a central cloud server, edge computing processes information close to where it is collected.",
+        "cn": "边缘计算不是将所有数据发送到中央云服务器，而是在数据采集附近处理信息。",
+        "grammar": "Instead of doing... 而不是做...（介词短语表替代）；close to where... 在...附近（where引导地点从句）"
+      },
+      {
+        "en": "For product managers designing B-end energy platforms, edge computing offers three clear benefits.",
+        "cn": "对于设计B端能源平台的产品经理来说，边缘计算提供了三个明显的好处。",
+        "grammar": "For product managers designing... 现在分词短语作后置定语修饰 managers；offers 主语是 edge computing"
+      },
+      {
+        "en": "An edge controller at the station can analyze battery health data and respond within milliseconds, while non-critical reports are uploaded to the cloud later.",
+        "cn": "站点的边缘控制器可以分析电池健康数据并在毫秒内做出响应，而非关键的报告则稍后上传到云端。",
+        "grammar": "while 连接两个并列分句表对比；are uploaded 被动语态；within milliseconds 在毫秒内"
+      }
+    ]
+  }
+}
