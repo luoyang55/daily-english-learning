@@ -76,5 +76,80 @@
       }
     ]
   },
-  "afternoon": null
+  "afternoon": {
+    "title_en": "How AI Optimizes Battery Energy Storage Systems",
+    "title_cn": "AI如何优化电池储能系统",
+    "level": "IT工作篇",
+    "content_en": "Battery energy storage systems are becoming a key part of the clean energy transition. As more solar and wind power come online, we need smarter ways to store and release electricity. Artificial intelligence is now playing a central role in making these systems more efficient and reliable.\n\nOne major application is predictive analytics. AI models can analyze weather forecasts, electricity prices, and grid demand patterns to decide when to charge and discharge batteries. This helps energy companies maximize revenue while keeping the grid stable. For example, a battery system might charge during low-price hours and sell power back during peak demand.\n\nAnother important use case is battery health monitoring. Every battery degrades over time, but AI can track key parameters like temperature, voltage, and charge cycles to predict remaining lifespan. This allows operators to replace cells before failures occur, reducing downtime and maintenance costs. Machine learning algorithms can detect early signs of degradation that human engineers might miss.\n\nSafety is also a growing concern. AI-powered monitoring systems can detect thermal anomalies in real time and trigger cooling mechanisms before problems escalate. In large-scale installations with thousands of battery cells, this level of automated oversight is essential for preventing fires and other hazards.\n\nLooking ahead, the combination of AI and energy storage will only grow stronger. As battery costs continue to fall and AI models become more sophisticated, we can expect smarter grids that balance supply and demand with minimal human intervention.",
+    "content_cn": "电池储能系统正成为清洁能源转型的关键组成部分。随着越来越多的太阳能和风能并网，我们需要更智能的方式来储存和释放电力。人工智能现在正在使这些系统更加高效和可靠方面发挥核心作用。\n\n一个主要应用是预测分析。AI模型可以分析天气预报、电价和电网需求模式，来决定何时充电和放电。这帮助能源公司在保持电网稳定的同时最大化收益。例如，一个电池系统在低价时段充电，在需求高峰时售回电力。\n\n另一个重要用例是电池健康监测。每块电池都会随时间退化，但AI可以跟踪温度、电压和充放电周期等关键参数来预测剩余寿命。这使运营商能够在故障发生前更换电芯，减少停机时间和维护成本。机器学习算法能够检测到人类工程师可能忽略的早期退化迹象。\n\n安全也是一个日益受到关注的问题。AI驱动的监测系统可以实时检测温度异常，并在问题升级前触发冷却机制。在拥有数千块电池的大规模安装中，这种级别的自动化监控对于防止火灾和其他危险至关重要。\n\n展望未来，AI与储能的结合只会更加紧密。随着电池成本持续下降、AI模型变得更加复杂，我们可以期待更智能的电网，以最少的人工干预来平衡供需。",
+    "vocabulary": [
+      {
+        "word": "transition",
+        "phonetic": "/trænˈzɪʃn/",
+        "meaning": "转型，转变"
+      },
+      {
+        "word": "predictive",
+        "phonetic": "/prɪˈdɪktɪv/",
+        "meaning": "预测性的"
+      },
+      {
+        "word": "analytics",
+        "phonetic": "/ˌænəˈlɪtɪks/",
+        "meaning": "分析，分析学"
+      },
+      {
+        "word": "maximize",
+        "phonetic": "/ˈmæksɪmaɪz/",
+        "meaning": "最大化"
+      },
+      {
+        "word": "degrade",
+        "phonetic": "/dɪˈɡreɪd/",
+        "meaning": "退化，降解"
+      },
+      {
+        "word": "lifespan",
+        "phonetic": "/ˈlaɪfspæn/",
+        "meaning": "寿命，使用寿命"
+      },
+      {
+        "word": "degradation",
+        "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+        "meaning": "退化，劣化"
+      },
+      {
+        "word": "anomaly",
+        "phonetic": "/əˈnɒməli/",
+        "meaning": "异常，反常"
+      },
+      {
+        "word": "oversight",
+        "phonetic": "/ˈoʊvərsaɪt/",
+        "meaning": "监控，监督"
+      },
+      {
+        "word": "sophisticated",
+        "phonetic": "/səˈfɪstɪkeɪtɪd/",
+        "meaning": "复杂的，精密的"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "AI models can analyze weather forecasts, electricity prices, and grid demand patterns to decide when to charge and discharge batteries.",
+        "cn": "AI模型可以分析天气预报、电价和电网需求模式，来决定何时充电和放电。",
+        "grammar": "analyze A, B, and C to do... 结构表示分析多个因素以达成某个目的。charge and discharge 是储能领域的固定搭配，意为充放电。"
+      },
+      {
+        "en": "Machine learning algorithms can detect early signs of degradation that human engineers might miss.",
+        "cn": "机器学习算法能够检测到人类工程师可能忽略的早期退化迹象。",
+        "grammar": "detect signs of... 表示检测到某事物的迹象。that human engineers might miss 是定语从句，修饰 signs，说明这些迹象是人类可能遗漏的。"
+      },
+      {
+        "en": "As battery costs continue to fall and AI models become more sophisticated, we can expect smarter grids.",
+        "cn": "随着电池成本持续下降、AI模型变得更加复杂，我们可以期待更智能的电网。",
+        "grammar": "As..., we can expect... 结构用于描述趋势变化带来的预期结果。continue to fall 表示持续下降的趋势。"
+      }
+    ]
+  }
 }

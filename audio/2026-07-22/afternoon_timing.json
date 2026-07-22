@@ -1,0 +1,1319 @@
+[
+  {
+    "text": "Battery energy storage systems are becoming a key part of the clean energy transition.",
+    "sent_start": 0.1,
+    "sent_end": 6.272,
+    "words": [
+      {
+        "word": "Battery",
+        "start": 0.1,
+        "end": 0.674
+      },
+      {
+        "word": "energy",
+        "start": 0.674,
+        "end": 1.177
+      },
+      {
+        "word": "storage",
+        "start": 1.177,
+        "end": 1.751
+      },
+      {
+        "word": "systems",
+        "start": 1.751,
+        "end": 2.325
+      },
+      {
+        "word": "are",
+        "start": 2.325,
+        "end": 2.612
+      },
+      {
+        "word": "becoming",
+        "start": 2.612,
+        "end": 3.258
+      },
+      {
+        "word": "a",
+        "start": 3.258,
+        "end": 3.401
+      },
+      {
+        "word": "key",
+        "start": 3.401,
+        "end": 3.689
+      },
+      {
+        "word": "part",
+        "start": 3.689,
+        "end": 4.047
+      },
+      {
+        "word": "of",
+        "start": 4.047,
+        "end": 4.263
+      },
+      {
+        "word": "the",
+        "start": 4.263,
+        "end": 4.55
+      },
+      {
+        "word": "clean",
+        "start": 4.55,
+        "end": 4.98
+      },
+      {
+        "word": "energy",
+        "start": 4.98,
+        "end": 5.483
+      },
+      {
+        "word": "transition.",
+        "start": 5.483,
+        "end": 6.344
+      }
+    ]
+  },
+  {
+    "text": "As more solar and wind power come online, we need smarter ways to store and release electricity.",
+    "sent_start": 6.222,
+    "sent_end": 13.194,
+    "words": [
+      {
+        "word": "As",
+        "start": 6.222,
+        "end": 6.44
+      },
+      {
+        "word": "more",
+        "start": 6.44,
+        "end": 6.803
+      },
+      {
+        "word": "solar",
+        "start": 6.803,
+        "end": 7.239
+      },
+      {
+        "word": "and",
+        "start": 7.239,
+        "end": 7.53
+      },
+      {
+        "word": "wind",
+        "start": 7.53,
+        "end": 7.893
+      },
+      {
+        "word": "power",
+        "start": 7.893,
+        "end": 8.328
+      },
+      {
+        "word": "come",
+        "start": 8.328,
+        "end": 8.692
+      },
+      {
+        "word": "online,",
+        "start": 8.692,
+        "end": 9.273
+      },
+      {
+        "word": "we",
+        "start": 9.273,
+        "end": 9.49
+      },
+      {
+        "word": "need",
+        "start": 9.49,
+        "end": 9.854
+      },
+      {
+        "word": "smarter",
+        "start": 9.854,
+        "end": 10.435
+      },
+      {
+        "word": "ways",
+        "start": 10.435,
+        "end": 10.798
+      },
+      {
+        "word": "to",
+        "start": 10.798,
+        "end": 11.016
+      },
+      {
+        "word": "store",
+        "start": 11.016,
+        "end": 11.451
+      },
+      {
+        "word": "and",
+        "start": 11.451,
+        "end": 11.742
+      },
+      {
+        "word": "release",
+        "start": 11.742,
+        "end": 12.323
+      },
+      {
+        "word": "electricity.",
+        "start": 12.323,
+        "end": 13.267
+      }
+    ]
+  },
+  {
+    "text": "Artificial intelligence is now playing a central role in making these systems more efficient and reliable.",
+    "sent_start": 13.194,
+    "sent_end": 20.292,
+    "words": [
+      {
+        "word": "Artificial",
+        "start": 13.194,
+        "end": 13.931
+      },
+      {
+        "word": "intelligence",
+        "start": 13.931,
+        "end": 14.801
+      },
+      {
+        "word": "is",
+        "start": 14.801,
+        "end": 15.002
+      },
+      {
+        "word": "now",
+        "start": 15.002,
+        "end": 15.27
+      },
+      {
+        "word": "playing",
+        "start": 15.27,
+        "end": 15.806
+      },
+      {
+        "word": "a",
+        "start": 15.806,
+        "end": 15.94
+      },
+      {
+        "word": "central",
+        "start": 15.94,
+        "end": 16.475
+      },
+      {
+        "word": "role",
+        "start": 16.475,
+        "end": 16.81
+      },
+      {
+        "word": "in",
+        "start": 16.81,
+        "end": 17.011
+      },
+      {
+        "word": "making",
+        "start": 17.011,
+        "end": 17.48
+      },
+      {
+        "word": "these",
+        "start": 17.48,
+        "end": 17.881
+      },
+      {
+        "word": "systems",
+        "start": 17.881,
+        "end": 18.417
+      },
+      {
+        "word": "more",
+        "start": 18.417,
+        "end": 18.752
+      },
+      {
+        "word": "efficient",
+        "start": 18.752,
+        "end": 19.421
+      },
+      {
+        "word": "and",
+        "start": 19.421,
+        "end": 19.689
+      },
+      {
+        "word": "reliable.",
+        "start": 19.689,
+        "end": 20.359
+      }
+    ]
+  },
+  {
+    "text": "One major application is predictive analytics.",
+    "sent_start": 20.292,
+    "sent_end": 24.278,
+    "words": [
+      {
+        "word": "One",
+        "start": 20.292,
+        "end": 20.638
+      },
+      {
+        "word": "major",
+        "start": 20.638,
+        "end": 21.158
+      },
+      {
+        "word": "application",
+        "start": 21.158,
+        "end": 22.198
+      },
+      {
+        "word": "is",
+        "start": 22.198,
+        "end": 22.458
+      },
+      {
+        "word": "predictive",
+        "start": 22.458,
+        "end": 23.411
+      },
+      {
+        "word": "analytics.",
+        "start": 23.411,
+        "end": 24.364
+      }
+    ]
+  },
+  {
+    "text": "AI models can analyze weather forecasts, electricity prices, and grid demand patterns to decide when to charge and discharge batteries.",
+    "sent_start": 24.278,
+    "sent_end": 34.222,
+    "words": [
+      {
+        "word": "AI",
+        "start": 24.278,
+        "end": 24.499
+      },
+      {
+        "word": "models",
+        "start": 24.499,
+        "end": 25.014
+      },
+      {
+        "word": "can",
+        "start": 25.014,
+        "end": 25.309
+      },
+      {
+        "word": "analyze",
+        "start": 25.309,
+        "end": 25.898
+      },
+      {
+        "word": "weather",
+        "start": 25.898,
+        "end": 26.488
+      },
+      {
+        "word": "forecasts,",
+        "start": 26.488,
+        "end": 27.298
+      },
+      {
+        "word": "electricity",
+        "start": 27.298,
+        "end": 28.182
+      },
+      {
+        "word": "prices,",
+        "start": 28.182,
+        "end": 28.771
+      },
+      {
+        "word": "and",
+        "start": 28.771,
+        "end": 29.066
+      },
+      {
+        "word": "grid",
+        "start": 29.066,
+        "end": 29.434
+      },
+      {
+        "word": "demand",
+        "start": 29.434,
+        "end": 29.95
+      },
+      {
+        "word": "patterns",
+        "start": 29.95,
+        "end": 30.613
+      },
+      {
+        "word": "to",
+        "start": 30.613,
+        "end": 30.834
+      },
+      {
+        "word": "decide",
+        "start": 30.834,
+        "end": 31.349
+      },
+      {
+        "word": "when",
+        "start": 31.349,
+        "end": 31.718
+      },
+      {
+        "word": "to",
+        "start": 31.718,
+        "end": 31.939
+      },
+      {
+        "word": "charge",
+        "start": 31.939,
+        "end": 32.454
+      },
+      {
+        "word": "and",
+        "start": 32.454,
+        "end": 32.749
+      },
+      {
+        "word": "discharge",
+        "start": 32.749,
+        "end": 33.486
+      },
+      {
+        "word": "batteries.",
+        "start": 33.486,
+        "end": 34.296
+      }
+    ]
+  },
+  {
+    "text": "This helps energy companies maximize revenue while keeping the grid stable.",
+    "sent_start": 34.222,
+    "sent_end": 39.417,
+    "words": [
+      {
+        "word": "This",
+        "start": 34.222,
+        "end": 34.569
+      },
+      {
+        "word": "helps",
+        "start": 34.569,
+        "end": 34.984
+      },
+      {
+        "word": "energy",
+        "start": 34.984,
+        "end": 35.469
+      },
+      {
+        "word": "companies",
+        "start": 35.469,
+        "end": 36.161
+      },
+      {
+        "word": "maximize",
+        "start": 36.161,
+        "end": 36.785
+      },
+      {
+        "word": "revenue",
+        "start": 36.785,
+        "end": 37.339
+      },
+      {
+        "word": "while",
+        "start": 37.339,
+        "end": 37.754
+      },
+      {
+        "word": "keeping",
+        "start": 37.754,
+        "end": 38.309
+      },
+      {
+        "word": "the",
+        "start": 38.309,
+        "end": 38.586
+      },
+      {
+        "word": "grid",
+        "start": 38.586,
+        "end": 38.932
+      },
+      {
+        "word": "stable.",
+        "start": 38.932,
+        "end": 39.486
+      }
+    ]
+  },
+  {
+    "text": "For example, a battery system might charge during low-price hours and sell power back during peak demand.",
+    "sent_start": 39.417,
+    "sent_end": 46.833,
+    "words": [
+      {
+        "word": "For",
+        "start": 39.417,
+        "end": 39.699
+      },
+      {
+        "word": "example,",
+        "start": 39.699,
+        "end": 40.335
+      },
+      {
+        "word": "a",
+        "start": 40.335,
+        "end": 40.476
+      },
+      {
+        "word": "battery",
+        "start": 40.476,
+        "end": 41.041
+      },
+      {
+        "word": "system",
+        "start": 41.041,
+        "end": 41.536
+      },
+      {
+        "word": "might",
+        "start": 41.536,
+        "end": 41.96
+      },
+      {
+        "word": "charge",
+        "start": 41.96,
+        "end": 42.454
+      },
+      {
+        "word": "during",
+        "start": 42.454,
+        "end": 42.948
+      },
+      {
+        "word": "low-price",
+        "start": 42.948,
+        "end": 43.655
+      },
+      {
+        "word": "hours",
+        "start": 43.655,
+        "end": 44.079
+      },
+      {
+        "word": "and",
+        "start": 44.079,
+        "end": 44.361
+      },
+      {
+        "word": "sell",
+        "start": 44.361,
+        "end": 44.714
+      },
+      {
+        "word": "power",
+        "start": 44.714,
+        "end": 45.138
+      },
+      {
+        "word": "back",
+        "start": 45.138,
+        "end": 45.491
+      },
+      {
+        "word": "during",
+        "start": 45.491,
+        "end": 45.986
+      },
+      {
+        "word": "peak",
+        "start": 45.986,
+        "end": 46.339
+      },
+      {
+        "word": "demand.",
+        "start": 46.339,
+        "end": 46.904
+      }
+    ]
+  },
+  {
+    "text": "Another important use case is battery health monitoring.",
+    "sent_start": 46.833,
+    "sent_end": 51.0,
+    "words": [
+      {
+        "word": "Another",
+        "start": 46.833,
+        "end": 47.429
+      },
+      {
+        "word": "important",
+        "start": 47.429,
+        "end": 48.173
+      },
+      {
+        "word": "use",
+        "start": 48.173,
+        "end": 48.47
+      },
+      {
+        "word": "case",
+        "start": 48.47,
+        "end": 48.842
+      },
+      {
+        "word": "is",
+        "start": 48.842,
+        "end": 49.065
+      },
+      {
+        "word": "battery",
+        "start": 49.065,
+        "end": 49.661
+      },
+      {
+        "word": "health",
+        "start": 49.661,
+        "end": 50.182
+      },
+      {
+        "word": "monitoring.",
+        "start": 50.182,
+        "end": 51.074
+      }
+    ]
+  },
+  {
+    "text": "Every battery degrades over time, but AI can track key parameters like temperature, voltage, and charge cycles to predict remaining lifespan.",
+    "sent_start": 51.0,
+    "sent_end": 61.069,
+    "words": [
+      {
+        "word": "Every",
+        "start": 51.0,
+        "end": 51.428
+      },
+      {
+        "word": "battery",
+        "start": 51.428,
+        "end": 52.0
+      },
+      {
+        "word": "degrades",
+        "start": 52.0,
+        "end": 52.643
+      },
+      {
+        "word": "over",
+        "start": 52.643,
+        "end": 53.0
+      },
+      {
+        "word": "time,",
+        "start": 53.0,
+        "end": 53.428
+      },
+      {
+        "word": "but",
+        "start": 53.428,
+        "end": 53.714
+      },
+      {
+        "word": "AI",
+        "start": 53.714,
+        "end": 53.928
+      },
+      {
+        "word": "can",
+        "start": 53.928,
+        "end": 54.214
+      },
+      {
+        "word": "track",
+        "start": 54.214,
+        "end": 54.642
+      },
+      {
+        "word": "key",
+        "start": 54.642,
+        "end": 54.928
+      },
+      {
+        "word": "parameters",
+        "start": 54.928,
+        "end": 55.713
+      },
+      {
+        "word": "like",
+        "start": 55.713,
+        "end": 56.07
+      },
+      {
+        "word": "temperature,",
+        "start": 56.07,
+        "end": 56.999
+      },
+      {
+        "word": "voltage,",
+        "start": 56.999,
+        "end": 57.642
+      },
+      {
+        "word": "and",
+        "start": 57.642,
+        "end": 57.927
+      },
+      {
+        "word": "charge",
+        "start": 57.927,
+        "end": 58.427
+      },
+      {
+        "word": "cycles",
+        "start": 58.427,
+        "end": 58.927
+      },
+      {
+        "word": "to",
+        "start": 58.927,
+        "end": 59.141
+      },
+      {
+        "word": "predict",
+        "start": 59.141,
+        "end": 59.713
+      },
+      {
+        "word": "remaining",
+        "start": 59.713,
+        "end": 60.427
+      },
+      {
+        "word": "lifespan.",
+        "start": 60.427,
+        "end": 61.141
+      }
+    ]
+  },
+  {
+    "text": "This allows operators to replace cells before failures occur, reducing downtime and maintenance costs.",
+    "sent_start": 61.069,
+    "sent_end": 68.389,
+    "words": [
+      {
+        "word": "This",
+        "start": 61.069,
+        "end": 61.428
+      },
+      {
+        "word": "allows",
+        "start": 61.428,
+        "end": 61.931
+      },
+      {
+        "word": "operators",
+        "start": 61.931,
+        "end": 62.648
+      },
+      {
+        "word": "to",
+        "start": 62.648,
+        "end": 62.863
+      },
+      {
+        "word": "replace",
+        "start": 62.863,
+        "end": 63.438
+      },
+      {
+        "word": "cells",
+        "start": 63.438,
+        "end": 63.868
+      },
+      {
+        "word": "before",
+        "start": 63.868,
+        "end": 64.37
+      },
+      {
+        "word": "failures",
+        "start": 64.37,
+        "end": 65.016
+      },
+      {
+        "word": "occur,",
+        "start": 65.016,
+        "end": 65.519
+      },
+      {
+        "word": "reducing",
+        "start": 65.519,
+        "end": 66.164
+      },
+      {
+        "word": "downtime",
+        "start": 66.164,
+        "end": 66.81
+      },
+      {
+        "word": "and",
+        "start": 66.81,
+        "end": 67.097
+      },
+      {
+        "word": "maintenance",
+        "start": 67.097,
+        "end": 67.958
+      },
+      {
+        "word": "costs.",
+        "start": 67.958,
+        "end": 68.461
+      }
+    ]
+  },
+  {
+    "text": "Machine learning algorithms can detect early signs of degradation that human engineers might miss.",
+    "sent_start": 68.389,
+    "sent_end": 75.292,
+    "words": [
+      {
+        "word": "Machine",
+        "start": 68.389,
+        "end": 68.952
+      },
+      {
+        "word": "learning",
+        "start": 68.952,
+        "end": 69.586
+      },
+      {
+        "word": "algorithms",
+        "start": 69.586,
+        "end": 70.361
+      },
+      {
+        "word": "can",
+        "start": 70.361,
+        "end": 70.643
+      },
+      {
+        "word": "detect",
+        "start": 70.643,
+        "end": 71.136
+      },
+      {
+        "word": "early",
+        "start": 71.136,
+        "end": 71.559
+      },
+      {
+        "word": "signs",
+        "start": 71.559,
+        "end": 71.981
+      },
+      {
+        "word": "of",
+        "start": 71.981,
+        "end": 72.192
+      },
+      {
+        "word": "degradation",
+        "start": 72.192,
+        "end": 73.038
+      },
+      {
+        "word": "that",
+        "start": 73.038,
+        "end": 73.39
+      },
+      {
+        "word": "human",
+        "start": 73.39,
+        "end": 73.813
+      },
+      {
+        "word": "engineers",
+        "start": 73.813,
+        "end": 74.517
+      },
+      {
+        "word": "might",
+        "start": 74.517,
+        "end": 74.939
+      },
+      {
+        "word": "miss.",
+        "start": 74.939,
+        "end": 75.362
+      }
+    ]
+  },
+  {
+    "text": "Safety is also a growing concern.",
+    "sent_start": 75.292,
+    "sent_end": 78.389,
+    "words": [
+      {
+        "word": "Safety",
+        "start": 75.292,
+        "end": 75.949
+      },
+      {
+        "word": "is",
+        "start": 75.949,
+        "end": 76.23
+      },
+      {
+        "word": "also",
+        "start": 76.23,
+        "end": 76.699
+      },
+      {
+        "word": "a",
+        "start": 76.699,
+        "end": 76.887
+      },
+      {
+        "word": "growing",
+        "start": 76.887,
+        "end": 77.638
+      },
+      {
+        "word": "concern.",
+        "start": 77.638,
+        "end": 78.483
+      }
+    ]
+  },
+  {
+    "text": "AI-powered monitoring systems can detect thermal anomalies in real time and trigger cooling mechanisms before problems escalate.",
+    "sent_start": 78.389,
+    "sent_end": 87.292,
+    "words": [
+      {
+        "word": "AI-powered",
+        "start": 78.389,
+        "end": 79.154
+      },
+      {
+        "word": "monitoring",
+        "start": 79.154,
+        "end": 79.919
+      },
+      {
+        "word": "systems",
+        "start": 79.919,
+        "end": 80.475
+      },
+      {
+        "word": "can",
+        "start": 80.475,
+        "end": 80.754
+      },
+      {
+        "word": "detect",
+        "start": 80.754,
+        "end": 81.241
+      },
+      {
+        "word": "thermal",
+        "start": 81.241,
+        "end": 81.797
+      },
+      {
+        "word": "anomalies",
+        "start": 81.797,
+        "end": 82.493
+      },
+      {
+        "word": "in",
+        "start": 82.493,
+        "end": 82.701
+      },
+      {
+        "word": "real",
+        "start": 82.701,
+        "end": 83.049
+      },
+      {
+        "word": "time",
+        "start": 83.049,
+        "end": 83.397
+      },
+      {
+        "word": "and",
+        "start": 83.397,
+        "end": 83.675
+      },
+      {
+        "word": "trigger",
+        "start": 83.675,
+        "end": 84.231
+      },
+      {
+        "word": "cooling",
+        "start": 84.231,
+        "end": 84.788
+      },
+      {
+        "word": "mechanisms",
+        "start": 84.788,
+        "end": 85.553
+      },
+      {
+        "word": "before",
+        "start": 85.553,
+        "end": 86.04
+      },
+      {
+        "word": "problems",
+        "start": 86.04,
+        "end": 86.666
+      },
+      {
+        "word": "escalate.",
+        "start": 86.666,
+        "end": 87.361
+      }
+    ]
+  },
+  {
+    "text": "In large-scale installations with thousands of battery cells, this level of automated oversight is essential for preventing fires and other hazards.",
+    "sent_start": 87.292,
+    "sent_end": 97.403,
+    "words": [
+      {
+        "word": "In",
+        "start": 87.292,
+        "end": 87.497
+      },
+      {
+        "word": "large-scale",
+        "start": 87.497,
+        "end": 88.316
+      },
+      {
+        "word": "installations",
+        "start": 88.316,
+        "end": 89.273
+      },
+      {
+        "word": "with",
+        "start": 89.273,
+        "end": 89.614
+      },
+      {
+        "word": "thousands",
+        "start": 89.614,
+        "end": 90.298
+      },
+      {
+        "word": "of",
+        "start": 90.298,
+        "end": 90.503
+      },
+      {
+        "word": "battery",
+        "start": 90.503,
+        "end": 91.049
+      },
+      {
+        "word": "cells,",
+        "start": 91.049,
+        "end": 91.527
+      },
+      {
+        "word": "this",
+        "start": 91.527,
+        "end": 91.869
+      },
+      {
+        "word": "level",
+        "start": 91.869,
+        "end": 92.279
+      },
+      {
+        "word": "of",
+        "start": 92.279,
+        "end": 92.484
+      },
+      {
+        "word": "automated",
+        "start": 92.484,
+        "end": 93.167
+      },
+      {
+        "word": "oversight",
+        "start": 93.167,
+        "end": 93.85
+      },
+      {
+        "word": "is",
+        "start": 93.85,
+        "end": 94.055
+      },
+      {
+        "word": "essential",
+        "start": 94.055,
+        "end": 94.738
+      },
+      {
+        "word": "for",
+        "start": 94.738,
+        "end": 95.012
+      },
+      {
+        "word": "preventing",
+        "start": 95.012,
+        "end": 95.763
+      },
+      {
+        "word": "fires",
+        "start": 95.763,
+        "end": 96.173
+      },
+      {
+        "word": "and",
+        "start": 96.173,
+        "end": 96.446
+      },
+      {
+        "word": "other",
+        "start": 96.446,
+        "end": 96.856
+      },
+      {
+        "word": "hazards.",
+        "start": 96.856,
+        "end": 97.471
+      }
+    ]
+  },
+  {
+    "text": "Looking ahead, the combination of AI and energy storage will only grow stronger.",
+    "sent_start": 97.403,
+    "sent_end": 103.431,
+    "words": [
+      {
+        "word": "Looking",
+        "start": 97.403,
+        "end": 98.006
+      },
+      {
+        "word": "ahead,",
+        "start": 98.006,
+        "end": 98.533
+      },
+      {
+        "word": "the",
+        "start": 98.533,
+        "end": 98.834
+      },
+      {
+        "word": "combination",
+        "start": 98.834,
+        "end": 99.739
+      },
+      {
+        "word": "of",
+        "start": 99.739,
+        "end": 99.965
+      },
+      {
+        "word": "AI",
+        "start": 99.965,
+        "end": 100.191
+      },
+      {
+        "word": "and",
+        "start": 100.191,
+        "end": 100.492
+      },
+      {
+        "word": "energy",
+        "start": 100.492,
+        "end": 101.019
+      },
+      {
+        "word": "storage",
+        "start": 101.019,
+        "end": 101.622
+      },
+      {
+        "word": "will",
+        "start": 101.622,
+        "end": 101.999
+      },
+      {
+        "word": "only",
+        "start": 101.999,
+        "end": 102.376
+      },
+      {
+        "word": "grow",
+        "start": 102.376,
+        "end": 102.752
+      },
+      {
+        "word": "stronger.",
+        "start": 102.752,
+        "end": 103.506
+      }
+    ]
+  },
+  {
+    "text": "As battery costs continue to fall and AI models become more sophisticated, we can expect smarter grids that balance supply and demand with minimal human intervention.",
+    "sent_start": 103.431,
+    "sent_end": 114.75,
+    "words": [
+      {
+        "word": "As",
+        "start": 103.431,
+        "end": 103.635
+      },
+      {
+        "word": "battery",
+        "start": 103.635,
+        "end": 104.181
+      },
+      {
+        "word": "costs",
+        "start": 104.181,
+        "end": 104.59
+      },
+      {
+        "word": "continue",
+        "start": 104.59,
+        "end": 105.203
+      },
+      {
+        "word": "to",
+        "start": 105.203,
+        "end": 105.408
+      },
+      {
+        "word": "fall",
+        "start": 105.408,
+        "end": 105.749
+      },
+      {
+        "word": "and",
+        "start": 105.749,
+        "end": 106.022
+      },
+      {
+        "word": "AI",
+        "start": 106.022,
+        "end": 106.226
+      },
+      {
+        "word": "models",
+        "start": 106.226,
+        "end": 106.704
+      },
+      {
+        "word": "become",
+        "start": 106.704,
+        "end": 107.181
+      },
+      {
+        "word": "more",
+        "start": 107.181,
+        "end": 107.522
+      },
+      {
+        "word": "sophisticated,",
+        "start": 107.522,
+        "end": 108.545
+      },
+      {
+        "word": "we",
+        "start": 108.545,
+        "end": 108.749
+      },
+      {
+        "word": "can",
+        "start": 108.749,
+        "end": 109.022
+      },
+      {
+        "word": "expect",
+        "start": 109.022,
+        "end": 109.499
+      },
+      {
+        "word": "smarter",
+        "start": 109.499,
+        "end": 110.045
+      },
+      {
+        "word": "grids",
+        "start": 110.045,
+        "end": 110.454
+      },
+      {
+        "word": "that",
+        "start": 110.454,
+        "end": 110.795
+      },
+      {
+        "word": "balance",
+        "start": 110.795,
+        "end": 111.341
+      },
+      {
+        "word": "supply",
+        "start": 111.341,
+        "end": 111.818
+      },
+      {
+        "word": "and",
+        "start": 111.818,
+        "end": 112.091
+      },
+      {
+        "word": "demand",
+        "start": 112.091,
+        "end": 112.568
+      },
+      {
+        "word": "with",
+        "start": 112.568,
+        "end": 112.909
+      },
+      {
+        "word": "minimal",
+        "start": 112.909,
+        "end": 113.454
+      },
+      {
+        "word": "human",
+        "start": 113.454,
+        "end": 113.864
+      },
+      {
+        "word": "intervention.",
+        "start": 113.864,
+        "end": 114.818
+      }
+    ]
+  }
+]
