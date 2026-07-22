@@ -1,0 +1,2211 @@
+[
+  {
+    "text": "Many people today spend most of their time indoors, sitting in front of screens and dealing with the stress of daily life.",
+    "sent_start": 0.0,
+    "sent_end": 8.089,
+    "words": [
+      {
+        "word": "Many",
+        "start": 0.0,
+        "end": 0.327
+      },
+      {
+        "word": "people",
+        "start": 0.367,
+        "end": 0.857
+      },
+      {
+        "word": "today",
+        "start": 0.897,
+        "end": 1.306
+      },
+      {
+        "word": "spend",
+        "start": 1.346,
+        "end": 1.754
+      },
+      {
+        "word": "most",
+        "start": 1.794,
+        "end": 2.121
+      },
+      {
+        "word": "of",
+        "start": 2.161,
+        "end": 2.324
+      },
+      {
+        "word": "their",
+        "start": 2.364,
+        "end": 2.773
+      },
+      {
+        "word": "time",
+        "start": 2.813,
+        "end": 3.14
+      },
+      {
+        "word": "indoors",
+        "start": 3.18,
+        "end": 3.752
+      },
+      {
+        "word": "sitting",
+        "start": 3.792,
+        "end": 4.364
+      },
+      {
+        "word": "in",
+        "start": 4.404,
+        "end": 4.567
+      },
+      {
+        "word": "front",
+        "start": 4.607,
+        "end": 5.016
+      },
+      {
+        "word": "of",
+        "start": 5.056,
+        "end": 5.219
+      },
+      {
+        "word": "screens",
+        "start": 5.259,
+        "end": 5.831
+      },
+      {
+        "word": "and",
+        "start": 5.871,
+        "end": 6.116
+      },
+      {
+        "word": "dealing",
+        "start": 6.156,
+        "end": 6.728
+      },
+      {
+        "word": "with",
+        "start": 6.768,
+        "end": 7.095
+      },
+      {
+        "word": "the",
+        "start": 7.135,
+        "end": 7.38
+      },
+      {
+        "word": "stress",
+        "start": 7.42,
+        "end": 7.91
+      },
+      {
+        "word": "of",
+        "start": 7.95,
+        "end": 8.114
+      },
+      {
+        "word": "daily",
+        "start": 8.154,
+        "end": 8.562
+      },
+      {
+        "word": "life",
+        "start": 8.602,
+        "end": 8.929
+      }
+    ]
+  },
+  {
+    "text": "However, a growing body of research shows that simply walking in nature can have remarkable benefits for both physical and mental health.",
+    "sent_start": 8.089,
+    "sent_end": 17.358,
+    "words": [
+      {
+        "word": "However",
+        "start": 8.089,
+        "end": 8.658
+      },
+      {
+        "word": "a",
+        "start": 8.698,
+        "end": 8.779
+      },
+      {
+        "word": "growing",
+        "start": 8.819,
+        "end": 9.389
+      },
+      {
+        "word": "body",
+        "start": 9.429,
+        "end": 9.754
+      },
+      {
+        "word": "of",
+        "start": 9.794,
+        "end": 9.956
+      },
+      {
+        "word": "research",
+        "start": 9.996,
+        "end": 10.647
+      },
+      {
+        "word": "shows",
+        "start": 10.687,
+        "end": 11.093
+      },
+      {
+        "word": "that",
+        "start": 11.133,
+        "end": 11.459
+      },
+      {
+        "word": "simply",
+        "start": 11.499,
+        "end": 11.987
+      },
+      {
+        "word": "walking",
+        "start": 12.027,
+        "end": 12.596
+      },
+      {
+        "word": "in",
+        "start": 12.636,
+        "end": 12.798
+      },
+      {
+        "word": "nature",
+        "start": 12.838,
+        "end": 13.326
+      },
+      {
+        "word": "can",
+        "start": 13.366,
+        "end": 13.61
+      },
+      {
+        "word": "have",
+        "start": 13.65,
+        "end": 13.975
+      },
+      {
+        "word": "remarkable",
+        "start": 14.015,
+        "end": 14.829
+      },
+      {
+        "word": "benefits",
+        "start": 14.869,
+        "end": 15.519
+      },
+      {
+        "word": "for",
+        "start": 15.559,
+        "end": 15.803
+      },
+      {
+        "word": "both",
+        "start": 15.843,
+        "end": 16.168
+      },
+      {
+        "word": "physical",
+        "start": 16.208,
+        "end": 16.859
+      },
+      {
+        "word": "and",
+        "start": 16.899,
+        "end": 17.143
+      },
+      {
+        "word": "mental",
+        "start": 17.183,
+        "end": 17.67
+      },
+      {
+        "word": "health",
+        "start": 17.71,
+        "end": 18.198
+      }
+    ]
+  },
+  {
+    "text": "Experts recommend spending at least twenty minutes outdoors each day, even if it is just a short walk in a nearby park or garden.",
+    "sent_start": 17.358,
+    "sent_end": 26.35,
+    "words": [
+      {
+        "word": "Experts",
+        "start": 17.358,
+        "end": 17.964
+      },
+      {
+        "word": "recommend",
+        "start": 18.004,
+        "end": 18.782
+      },
+      {
+        "word": "spending",
+        "start": 18.822,
+        "end": 19.513
+      },
+      {
+        "word": "at",
+        "start": 19.553,
+        "end": 19.726
+      },
+      {
+        "word": "least",
+        "start": 19.766,
+        "end": 20.199
+      },
+      {
+        "word": "twenty",
+        "start": 20.239,
+        "end": 20.757
+      },
+      {
+        "word": "minutes",
+        "start": 20.797,
+        "end": 21.403
+      },
+      {
+        "word": "outdoors",
+        "start": 21.443,
+        "end": 22.134
+      },
+      {
+        "word": "each",
+        "start": 22.174,
+        "end": 22.52
+      },
+      {
+        "word": "day",
+        "start": 22.56,
+        "end": 22.819
+      },
+      {
+        "word": "even",
+        "start": 22.859,
+        "end": 23.205
+      },
+      {
+        "word": "if",
+        "start": 23.245,
+        "end": 23.418
+      },
+      {
+        "word": "it",
+        "start": 23.458,
+        "end": 23.631
+      },
+      {
+        "word": "is",
+        "start": 23.671,
+        "end": 23.844
+      },
+      {
+        "word": "just",
+        "start": 23.884,
+        "end": 24.23
+      },
+      {
+        "word": "a",
+        "start": 24.27,
+        "end": 24.356
+      },
+      {
+        "word": "short",
+        "start": 24.396,
+        "end": 24.829
+      },
+      {
+        "word": "walk",
+        "start": 24.869,
+        "end": 25.214
+      },
+      {
+        "word": "in",
+        "start": 25.254,
+        "end": 25.427
+      },
+      {
+        "word": "a",
+        "start": 25.467,
+        "end": 25.554
+      },
+      {
+        "word": "nearby",
+        "start": 25.594,
+        "end": 26.113
+      },
+      {
+        "word": "park",
+        "start": 26.153,
+        "end": 26.498
+      },
+      {
+        "word": "or",
+        "start": 26.538,
+        "end": 26.711
+      },
+      {
+        "word": "garden",
+        "start": 26.751,
+        "end": 27.27
+      }
+    ]
+  },
+  {
+    "text": "One of the most important advantages of walking in nature is its positive effect on mental health.",
+    "sent_start": 26.35,
+    "sent_end": 33.008,
+    "words": [
+      {
+        "word": "One",
+        "start": 26.35,
+        "end": 26.597
+      },
+      {
+        "word": "of",
+        "start": 26.637,
+        "end": 26.801
+      },
+      {
+        "word": "the",
+        "start": 26.841,
+        "end": 27.088
+      },
+      {
+        "word": "most",
+        "start": 27.128,
+        "end": 27.456
+      },
+      {
+        "word": "important",
+        "start": 27.496,
+        "end": 28.236
+      },
+      {
+        "word": "advantages",
+        "start": 28.276,
+        "end": 29.098
+      },
+      {
+        "word": "of",
+        "start": 29.138,
+        "end": 29.303
+      },
+      {
+        "word": "walking",
+        "start": 29.343,
+        "end": 29.918
+      },
+      {
+        "word": "in",
+        "start": 29.958,
+        "end": 30.122
+      },
+      {
+        "word": "nature",
+        "start": 30.162,
+        "end": 30.656
+      },
+      {
+        "word": "is",
+        "start": 30.696,
+        "end": 30.86
+      },
+      {
+        "word": "its",
+        "start": 30.9,
+        "end": 31.147
+      },
+      {
+        "word": "positive",
+        "start": 31.187,
+        "end": 31.844
+      },
+      {
+        "word": "effect",
+        "start": 31.884,
+        "end": 32.378
+      },
+      {
+        "word": "on",
+        "start": 32.418,
+        "end": 32.582
+      },
+      {
+        "word": "mental",
+        "start": 32.622,
+        "end": 33.115
+      },
+      {
+        "word": "health",
+        "start": 33.155,
+        "end": 33.648
+      }
+    ]
+  },
+  {
+    "text": "Studies have found that people who spend time in green spaces report lower levels of stress, anxiety, and depression.",
+    "sent_start": 33.008,
+    "sent_end": 41.694,
+    "words": [
+      {
+        "word": "Studies",
+        "start": 33.008,
+        "end": 33.642
+      },
+      {
+        "word": "have",
+        "start": 33.682,
+        "end": 34.044
+      },
+      {
+        "word": "found",
+        "start": 34.084,
+        "end": 34.536
+      },
+      {
+        "word": "that",
+        "start": 34.576,
+        "end": 34.938
+      },
+      {
+        "word": "people",
+        "start": 34.978,
+        "end": 35.521
+      },
+      {
+        "word": "who",
+        "start": 35.561,
+        "end": 35.832
+      },
+      {
+        "word": "spend",
+        "start": 35.872,
+        "end": 36.325
+      },
+      {
+        "word": "time",
+        "start": 36.365,
+        "end": 36.727
+      },
+      {
+        "word": "in",
+        "start": 36.767,
+        "end": 36.948
+      },
+      {
+        "word": "green",
+        "start": 36.988,
+        "end": 37.44
+      },
+      {
+        "word": "spaces",
+        "start": 37.48,
+        "end": 38.023
+      },
+      {
+        "word": "report",
+        "start": 38.063,
+        "end": 38.606
+      },
+      {
+        "word": "lower",
+        "start": 38.646,
+        "end": 39.098
+      },
+      {
+        "word": "levels",
+        "start": 39.138,
+        "end": 39.681
+      },
+      {
+        "word": "of",
+        "start": 39.721,
+        "end": 39.902
+      },
+      {
+        "word": "stress",
+        "start": 39.942,
+        "end": 40.485
+      },
+      {
+        "word": "anxiety",
+        "start": 40.525,
+        "end": 41.158
+      },
+      {
+        "word": "and",
+        "start": 41.198,
+        "end": 41.47
+      },
+      {
+        "word": "depression",
+        "start": 41.51,
+        "end": 42.414
+      }
+    ]
+  },
+  {
+    "text": "The fresh air, natural sounds, and beautiful scenery help the brain relax and recover from mental tiredness.",
+    "sent_start": 41.694,
+    "sent_end": 49.631,
+    "words": [
+      {
+        "word": "The",
+        "start": 41.694,
+        "end": 41.962
+      },
+      {
+        "word": "fresh",
+        "start": 42.002,
+        "end": 42.448
+      },
+      {
+        "word": "air",
+        "start": 42.488,
+        "end": 42.755
+      },
+      {
+        "word": "natural",
+        "start": 42.795,
+        "end": 43.42
+      },
+      {
+        "word": "sounds",
+        "start": 43.46,
+        "end": 43.995
+      },
+      {
+        "word": "and",
+        "start": 44.035,
+        "end": 44.302
+      },
+      {
+        "word": "beautiful",
+        "start": 44.342,
+        "end": 45.145
+      },
+      {
+        "word": "scenery",
+        "start": 45.185,
+        "end": 45.809
+      },
+      {
+        "word": "help",
+        "start": 45.849,
+        "end": 46.205
+      },
+      {
+        "word": "the",
+        "start": 46.245,
+        "end": 46.513
+      },
+      {
+        "word": "brain",
+        "start": 46.553,
+        "end": 46.999
+      },
+      {
+        "word": "relax",
+        "start": 47.039,
+        "end": 47.485
+      },
+      {
+        "word": "and",
+        "start": 47.525,
+        "end": 47.792
+      },
+      {
+        "word": "recover",
+        "start": 47.832,
+        "end": 48.456
+      },
+      {
+        "word": "from",
+        "start": 48.496,
+        "end": 48.853
+      },
+      {
+        "word": "mental",
+        "start": 48.893,
+        "end": 49.428
+      },
+      {
+        "word": "tiredness",
+        "start": 49.468,
+        "end": 50.271
+      }
+    ]
+  },
+  {
+    "text": "In fact, researchers at Stanford University discovered that a ninety-minute walk in a forest can significantly reduce activity in the part of the brain responsible for negative thinking.",
+    "sent_start": 49.631,
+    "sent_end": 61.872,
+    "words": [
+      {
+        "word": "In",
+        "start": 49.631,
+        "end": 49.788
+      },
+      {
+        "word": "fact",
+        "start": 49.828,
+        "end": 50.141
+      },
+      {
+        "word": "researchers",
+        "start": 50.181,
+        "end": 51.045
+      },
+      {
+        "word": "at",
+        "start": 51.085,
+        "end": 51.242
+      },
+      {
+        "word": "Stanford",
+        "start": 51.282,
+        "end": 51.909
+      },
+      {
+        "word": "University",
+        "start": 51.949,
+        "end": 52.734
+      },
+      {
+        "word": "discovered",
+        "start": 52.774,
+        "end": 53.559
+      },
+      {
+        "word": "that",
+        "start": 53.599,
+        "end": 53.913
+      },
+      {
+        "word": "a",
+        "start": 53.953,
+        "end": 54.031
+      },
+      {
+        "word": "ninety",
+        "start": 54.071,
+        "end": 54.542
+      },
+      {
+        "word": "minute",
+        "start": 54.582,
+        "end": 55.053
+      },
+      {
+        "word": "walk",
+        "start": 55.093,
+        "end": 55.407
+      },
+      {
+        "word": "in",
+        "start": 55.447,
+        "end": 55.604
+      },
+      {
+        "word": "a",
+        "start": 55.644,
+        "end": 55.722
+      },
+      {
+        "word": "forest",
+        "start": 55.762,
+        "end": 56.233
+      },
+      {
+        "word": "can",
+        "start": 56.273,
+        "end": 56.508
+      },
+      {
+        "word": "significantly",
+        "start": 56.548,
+        "end": 57.568
+      },
+      {
+        "word": "reduce",
+        "start": 57.608,
+        "end": 58.079
+      },
+      {
+        "word": "activity",
+        "start": 58.119,
+        "end": 58.747
+      },
+      {
+        "word": "in",
+        "start": 58.787,
+        "end": 58.944
+      },
+      {
+        "word": "the",
+        "start": 58.984,
+        "end": 59.219
+      },
+      {
+        "word": "part",
+        "start": 59.259,
+        "end": 59.573
+      },
+      {
+        "word": "of",
+        "start": 59.613,
+        "end": 59.77
+      },
+      {
+        "word": "the",
+        "start": 59.81,
+        "end": 60.046
+      },
+      {
+        "word": "brain",
+        "start": 60.086,
+        "end": 60.478
+      },
+      {
+        "word": "responsible",
+        "start": 60.518,
+        "end": 61.381
+      },
+      {
+        "word": "for",
+        "start": 61.421,
+        "end": 61.657
+      },
+      {
+        "word": "negative",
+        "start": 61.697,
+        "end": 62.324
+      },
+      {
+        "word": "thinking",
+        "start": 62.364,
+        "end": 62.992
+      }
+    ]
+  },
+  {
+    "text": "Walking outdoors also provides excellent physical benefits.",
+    "sent_start": 61.872,
+    "sent_end": 66.739,
+    "words": [
+      {
+        "word": "Walking",
+        "start": 61.872,
+        "end": 62.527
+      },
+      {
+        "word": "outdoors",
+        "start": 62.567,
+        "end": 63.316
+      },
+      {
+        "word": "also",
+        "start": 63.356,
+        "end": 63.73
+      },
+      {
+        "word": "provides",
+        "start": 63.77,
+        "end": 64.519
+      },
+      {
+        "word": "excellent",
+        "start": 64.559,
+        "end": 65.401
+      },
+      {
+        "word": "physical",
+        "start": 65.441,
+        "end": 66.19
+      },
+      {
+        "word": "benefits",
+        "start": 66.23,
+        "end": 66.979
+      }
+    ]
+  },
+  {
+    "text": "When you walk on natural ground such as grass, dirt trails, or rocky paths, your body engages more muscles than it would on a flat surface like a sidewalk.",
+    "sent_start": 66.739,
+    "sent_end": 77.8,
+    "words": [
+      {
+        "word": "When",
+        "start": 66.739,
+        "end": 67.099
+      },
+      {
+        "word": "you",
+        "start": 67.139,
+        "end": 67.408
+      },
+      {
+        "word": "walk",
+        "start": 67.448,
+        "end": 67.808
+      },
+      {
+        "word": "on",
+        "start": 67.848,
+        "end": 68.028
+      },
+      {
+        "word": "natural",
+        "start": 68.068,
+        "end": 68.697
+      },
+      {
+        "word": "ground",
+        "start": 68.737,
+        "end": 69.277
+      },
+      {
+        "word": "such",
+        "start": 69.317,
+        "end": 69.677
+      },
+      {
+        "word": "as",
+        "start": 69.717,
+        "end": 69.897
+      },
+      {
+        "word": "grass",
+        "start": 69.937,
+        "end": 70.386
+      },
+      {
+        "word": "dirt",
+        "start": 70.426,
+        "end": 70.786
+      },
+      {
+        "word": "trails",
+        "start": 70.826,
+        "end": 71.365
+      },
+      {
+        "word": "or",
+        "start": 71.405,
+        "end": 71.585
+      },
+      {
+        "word": "rocky",
+        "start": 71.625,
+        "end": 72.075
+      },
+      {
+        "word": "paths",
+        "start": 72.115,
+        "end": 72.565
+      },
+      {
+        "word": "your",
+        "start": 72.605,
+        "end": 72.964
+      },
+      {
+        "word": "body",
+        "start": 73.004,
+        "end": 73.364
+      },
+      {
+        "word": "engages",
+        "start": 73.404,
+        "end": 74.034
+      },
+      {
+        "word": "more",
+        "start": 74.074,
+        "end": 74.433
+      },
+      {
+        "word": "muscles",
+        "start": 74.473,
+        "end": 75.103
+      },
+      {
+        "word": "than",
+        "start": 75.143,
+        "end": 75.502
+      },
+      {
+        "word": "it",
+        "start": 75.542,
+        "end": 75.722
+      },
+      {
+        "word": "would",
+        "start": 75.762,
+        "end": 76.212
+      },
+      {
+        "word": "on",
+        "start": 76.252,
+        "end": 76.432
+      },
+      {
+        "word": "a",
+        "start": 76.472,
+        "end": 76.562
+      },
+      {
+        "word": "flat",
+        "start": 76.602,
+        "end": 76.961
+      },
+      {
+        "word": "surface",
+        "start": 77.001,
+        "end": 77.631
+      },
+      {
+        "word": "like",
+        "start": 77.671,
+        "end": 78.031
+      },
+      {
+        "word": "a",
+        "start": 78.071,
+        "end": 78.161
+      },
+      {
+        "word": "sidewalk",
+        "start": 78.201,
+        "end": 78.92
+      }
+    ]
+  },
+  {
+    "text": "This can improve your balance, strengthen your legs, and increase your overall fitness.",
+    "sent_start": 77.8,
+    "sent_end": 84.125,
+    "words": [
+      {
+        "word": "This",
+        "start": 77.8,
+        "end": 78.151
+      },
+      {
+        "word": "can",
+        "start": 78.191,
+        "end": 78.455
+      },
+      {
+        "word": "improve",
+        "start": 78.495,
+        "end": 79.11
+      },
+      {
+        "word": "your",
+        "start": 79.15,
+        "end": 79.501
+      },
+      {
+        "word": "balance",
+        "start": 79.541,
+        "end": 80.156
+      },
+      {
+        "word": "strengthen",
+        "start": 80.196,
+        "end": 81.075
+      },
+      {
+        "word": "your",
+        "start": 81.115,
+        "end": 81.466
+      },
+      {
+        "word": "legs",
+        "start": 81.506,
+        "end": 81.857
+      },
+      {
+        "word": "and",
+        "start": 81.897,
+        "end": 82.161
+      },
+      {
+        "word": "increase",
+        "start": 82.201,
+        "end": 82.904
+      },
+      {
+        "word": "your",
+        "start": 82.944,
+        "end": 83.295
+      },
+      {
+        "word": "overall",
+        "start": 83.335,
+        "end": 83.95
+      },
+      {
+        "word": "fitness",
+        "start": 83.99,
+        "end": 84.605
+      }
+    ]
+  },
+  {
+    "text": "Additionally, exposure to natural sunlight helps your body produce vitamin D, which is essential for strong bones and a healthy immune system.",
+    "sent_start": 84.125,
+    "sent_end": 94.117,
+    "words": [
+      {
+        "word": "Additionally",
+        "start": 84.125,
+        "end": 85.141
+      },
+      {
+        "word": "exposure",
+        "start": 85.181,
+        "end": 85.859
+      },
+      {
+        "word": "to",
+        "start": 85.899,
+        "end": 86.068
+      },
+      {
+        "word": "natural",
+        "start": 86.108,
+        "end": 86.701
+      },
+      {
+        "word": "sunlight",
+        "start": 86.741,
+        "end": 87.418
+      },
+      {
+        "word": "helps",
+        "start": 87.458,
+        "end": 87.881
+      },
+      {
+        "word": "your",
+        "start": 87.921,
+        "end": 88.26
+      },
+      {
+        "word": "body",
+        "start": 88.3,
+        "end": 88.639
+      },
+      {
+        "word": "produce",
+        "start": 88.679,
+        "end": 89.271
+      },
+      {
+        "word": "vitamin",
+        "start": 89.311,
+        "end": 89.904
+      },
+      {
+        "word": "D",
+        "start": 89.944,
+        "end": 90.029
+      },
+      {
+        "word": "which",
+        "start": 90.069,
+        "end": 90.492
+      },
+      {
+        "word": "is",
+        "start": 90.532,
+        "end": 90.702
+      },
+      {
+        "word": "essential",
+        "start": 90.742,
+        "end": 91.504
+      },
+      {
+        "word": "for",
+        "start": 91.544,
+        "end": 91.798
+      },
+      {
+        "word": "strong",
+        "start": 91.838,
+        "end": 92.346
+      },
+      {
+        "word": "bones",
+        "start": 92.386,
+        "end": 92.809
+      },
+      {
+        "word": "and",
+        "start": 92.849,
+        "end": 93.103
+      },
+      {
+        "word": "a",
+        "start": 93.143,
+        "end": 93.228
+      },
+      {
+        "word": "healthy",
+        "start": 93.268,
+        "end": 93.861
+      },
+      {
+        "word": "immune",
+        "start": 93.901,
+        "end": 94.409
+      },
+      {
+        "word": "system",
+        "start": 94.449,
+        "end": 94.957
+      }
+    ]
+  },
+  {
+    "text": "Another benefit is the improvement in creativity and focus.",
+    "sent_start": 94.117,
+    "sent_end": 98.914,
+    "words": [
+      {
+        "word": "Another",
+        "start": 94.117,
+        "end": 94.788
+      },
+      {
+        "word": "benefit",
+        "start": 94.828,
+        "end": 95.5
+      },
+      {
+        "word": "is",
+        "start": 95.54,
+        "end": 95.732
+      },
+      {
+        "word": "the",
+        "start": 95.772,
+        "end": 96.06
+      },
+      {
+        "word": "improvement",
+        "start": 96.1,
+        "end": 97.155
+      },
+      {
+        "word": "in",
+        "start": 97.195,
+        "end": 97.387
+      },
+      {
+        "word": "creativity",
+        "start": 97.427,
+        "end": 98.386
+      },
+      {
+        "word": "and",
+        "start": 98.426,
+        "end": 98.714
+      },
+      {
+        "word": "focus",
+        "start": 98.754,
+        "end": 99.234
+      }
+    ]
+  },
+  {
+    "text": "Several studies suggest that spending time in nature allows the mind to wander freely, which can lead to creative ideas and better problem-solving skills.",
+    "sent_start": 98.914,
+    "sent_end": 109.322,
+    "words": [
+      {
+        "word": "Several",
+        "start": 98.914,
+        "end": 99.483
+      },
+      {
+        "word": "studies",
+        "start": 99.523,
+        "end": 100.092
+      },
+      {
+        "word": "suggest",
+        "start": 100.132,
+        "end": 100.702
+      },
+      {
+        "word": "that",
+        "start": 100.742,
+        "end": 101.067
+      },
+      {
+        "word": "spending",
+        "start": 101.107,
+        "end": 101.757
+      },
+      {
+        "word": "time",
+        "start": 101.797,
+        "end": 102.123
+      },
+      {
+        "word": "in",
+        "start": 102.163,
+        "end": 102.325
+      },
+      {
+        "word": "nature",
+        "start": 102.365,
+        "end": 102.853
+      },
+      {
+        "word": "allows",
+        "start": 102.893,
+        "end": 103.381
+      },
+      {
+        "word": "the",
+        "start": 103.421,
+        "end": 103.665
+      },
+      {
+        "word": "mind",
+        "start": 103.705,
+        "end": 104.03
+      },
+      {
+        "word": "to",
+        "start": 104.07,
+        "end": 104.233
+      },
+      {
+        "word": "wander",
+        "start": 104.273,
+        "end": 104.761
+      },
+      {
+        "word": "freely",
+        "start": 104.801,
+        "end": 105.289
+      },
+      {
+        "word": "which",
+        "start": 105.329,
+        "end": 105.735
+      },
+      {
+        "word": "can",
+        "start": 105.775,
+        "end": 106.019
+      },
+      {
+        "word": "lead",
+        "start": 106.059,
+        "end": 106.384
+      },
+      {
+        "word": "to",
+        "start": 106.424,
+        "end": 106.587
+      },
+      {
+        "word": "creative",
+        "start": 106.627,
+        "end": 107.278
+      },
+      {
+        "word": "ideas",
+        "start": 107.318,
+        "end": 107.724
+      },
+      {
+        "word": "and",
+        "start": 107.764,
+        "end": 108.008
+      },
+      {
+        "word": "better",
+        "start": 108.048,
+        "end": 108.536
+      },
+      {
+        "word": "problem",
+        "start": 108.576,
+        "end": 109.145
+      },
+      {
+        "word": "solving",
+        "start": 109.185,
+        "end": 109.754
+      },
+      {
+        "word": "skills",
+        "start": 109.794,
+        "end": 110.282
+      }
+    ]
+  },
+  {
+    "text": "Many writers, artists, and scientists have credited their best ideas to walks through forests or along riversides.",
+    "sent_start": 109.322,
+    "sent_end": 117.911,
+    "words": [
+      {
+        "word": "Many",
+        "start": 109.322,
+        "end": 109.684
+      },
+      {
+        "word": "writers",
+        "start": 109.724,
+        "end": 110.357
+      },
+      {
+        "word": "artists",
+        "start": 110.397,
+        "end": 111.03
+      },
+      {
+        "word": "and",
+        "start": 111.07,
+        "end": 111.341
+      },
+      {
+        "word": "scientists",
+        "start": 111.381,
+        "end": 112.285
+      },
+      {
+        "word": "have",
+        "start": 112.325,
+        "end": 112.687
+      },
+      {
+        "word": "credited",
+        "start": 112.727,
+        "end": 113.45
+      },
+      {
+        "word": "their",
+        "start": 113.49,
+        "end": 113.942
+      },
+      {
+        "word": "best",
+        "start": 113.982,
+        "end": 114.344
+      },
+      {
+        "word": "ideas",
+        "start": 114.384,
+        "end": 114.836
+      },
+      {
+        "word": "to",
+        "start": 114.876,
+        "end": 115.056
+      },
+      {
+        "word": "walks",
+        "start": 115.096,
+        "end": 115.548
+      },
+      {
+        "word": "through",
+        "start": 115.588,
+        "end": 116.221
+      },
+      {
+        "word": "forests",
+        "start": 116.261,
+        "end": 116.894
+      },
+      {
+        "word": "or",
+        "start": 116.934,
+        "end": 117.115
+      },
+      {
+        "word": "along",
+        "start": 117.155,
+        "end": 117.607
+      },
+      {
+        "word": "riversides",
+        "start": 117.647,
+        "end": 118.551
+      }
+    ]
+  },
+  {
+    "text": "Even a brief walk during a break from work can help you return with a clearer mind and greater concentration.",
+    "sent_start": 117.911,
+    "sent_end": 125.153,
+    "words": [
+      {
+        "word": "Even",
+        "start": 117.911,
+        "end": 118.237
+      },
+      {
+        "word": "a",
+        "start": 118.277,
+        "end": 118.358
+      },
+      {
+        "word": "brief",
+        "start": 118.398,
+        "end": 118.805
+      },
+      {
+        "word": "walk",
+        "start": 118.845,
+        "end": 119.17
+      },
+      {
+        "word": "during",
+        "start": 119.21,
+        "end": 119.698
+      },
+      {
+        "word": "a",
+        "start": 119.738,
+        "end": 119.82
+      },
+      {
+        "word": "break",
+        "start": 119.86,
+        "end": 120.267
+      },
+      {
+        "word": "from",
+        "start": 120.307,
+        "end": 120.632
+      },
+      {
+        "word": "work",
+        "start": 120.672,
+        "end": 120.998
+      },
+      {
+        "word": "can",
+        "start": 121.038,
+        "end": 121.282
+      },
+      {
+        "word": "help",
+        "start": 121.322,
+        "end": 121.647
+      },
+      {
+        "word": "you",
+        "start": 121.687,
+        "end": 121.931
+      },
+      {
+        "word": "return",
+        "start": 121.971,
+        "end": 122.459
+      },
+      {
+        "word": "with",
+        "start": 122.499,
+        "end": 122.825
+      },
+      {
+        "word": "a",
+        "start": 122.865,
+        "end": 122.946
+      },
+      {
+        "word": "clearer",
+        "start": 122.986,
+        "end": 123.556
+      },
+      {
+        "word": "mind",
+        "start": 123.596,
+        "end": 123.921
+      },
+      {
+        "word": "and",
+        "start": 123.961,
+        "end": 124.205
+      },
+      {
+        "word": "greater",
+        "start": 124.245,
+        "end": 124.815
+      },
+      {
+        "word": "concentration",
+        "start": 124.855,
+        "end": 125.913
+      }
+    ]
+  },
+  {
+    "text": "Social connection is also enhanced when people walk together in natural settings.",
+    "sent_start": 125.153,
+    "sent_end": 130.964,
+    "words": [
+      {
+        "word": "Social",
+        "start": 125.153,
+        "end": 125.658
+      },
+      {
+        "word": "connection",
+        "start": 125.698,
+        "end": 126.54
+      },
+      {
+        "word": "is",
+        "start": 126.58,
+        "end": 126.749
+      },
+      {
+        "word": "also",
+        "start": 126.789,
+        "end": 127.126
+      },
+      {
+        "word": "enhanced",
+        "start": 127.166,
+        "end": 127.839
+      },
+      {
+        "word": "when",
+        "start": 127.879,
+        "end": 128.216
+      },
+      {
+        "word": "people",
+        "start": 128.256,
+        "end": 128.762
+      },
+      {
+        "word": "walk",
+        "start": 128.802,
+        "end": 129.138
+      },
+      {
+        "word": "together",
+        "start": 129.178,
+        "end": 129.852
+      },
+      {
+        "word": "in",
+        "start": 129.892,
+        "end": 130.061
+      },
+      {
+        "word": "natural",
+        "start": 130.101,
+        "end": 130.69
+      },
+      {
+        "word": "settings",
+        "start": 130.73,
+        "end": 131.404
+      }
+    ]
+  },
+  {
+    "text": "Friends and family members who take walks in parks or nature reserves often find that they have deeper conversations and feel more connected to each other.",
+    "sent_start": 130.964,
+    "sent_end": 140.858,
+    "words": [
+      {
+        "word": "Friends",
+        "start": 130.964,
+        "end": 131.501
+      },
+      {
+        "word": "and",
+        "start": 131.541,
+        "end": 131.771
+      },
+      {
+        "word": "family",
+        "start": 131.811,
+        "end": 132.271
+      },
+      {
+        "word": "members",
+        "start": 132.311,
+        "end": 132.848
+      },
+      {
+        "word": "who",
+        "start": 132.888,
+        "end": 133.118
+      },
+      {
+        "word": "take",
+        "start": 133.158,
+        "end": 133.465
+      },
+      {
+        "word": "walks",
+        "start": 133.505,
+        "end": 133.888
+      },
+      {
+        "word": "in",
+        "start": 133.928,
+        "end": 134.082
+      },
+      {
+        "word": "parks",
+        "start": 134.122,
+        "end": 134.505
+      },
+      {
+        "word": "or",
+        "start": 134.545,
+        "end": 134.699
+      },
+      {
+        "word": "nature",
+        "start": 134.739,
+        "end": 135.199
+      },
+      {
+        "word": "reserves",
+        "start": 135.239,
+        "end": 135.853
+      },
+      {
+        "word": "often",
+        "start": 135.893,
+        "end": 136.276
+      },
+      {
+        "word": "find",
+        "start": 136.316,
+        "end": 136.623
+      },
+      {
+        "word": "that",
+        "start": 136.663,
+        "end": 136.97
+      },
+      {
+        "word": "they",
+        "start": 137.01,
+        "end": 137.316
+      },
+      {
+        "word": "have",
+        "start": 137.356,
+        "end": 137.663
+      },
+      {
+        "word": "deeper",
+        "start": 137.703,
+        "end": 138.163
+      },
+      {
+        "word": "conversations",
+        "start": 138.203,
+        "end": 139.201
+      },
+      {
+        "word": "and",
+        "start": 139.241,
+        "end": 139.471
+      },
+      {
+        "word": "feel",
+        "start": 139.511,
+        "end": 139.818
+      },
+      {
+        "word": "more",
+        "start": 139.858,
+        "end": 140.164
+      },
+      {
+        "word": "connected",
+        "start": 140.204,
+        "end": 140.895
+      },
+      {
+        "word": "to",
+        "start": 140.935,
+        "end": 141.088
+      },
+      {
+        "word": "each",
+        "start": 141.128,
+        "end": 141.435
+      },
+      {
+        "word": "other",
+        "start": 141.475,
+        "end": 141.858
+      }
+    ]
+  },
+  {
+    "text": "Without the distractions of phones and screens, people become more present and attentive in their relationships.",
+    "sent_start": 140.858,
+    "sent_end": 148.142,
+    "words": [
+      {
+        "word": "Without",
+        "start": 140.858,
+        "end": 141.395
+      },
+      {
+        "word": "the",
+        "start": 141.435,
+        "end": 141.665
+      },
+      {
+        "word": "distractions",
+        "start": 141.705,
+        "end": 142.625
+      },
+      {
+        "word": "of",
+        "start": 142.665,
+        "end": 142.818
+      },
+      {
+        "word": "phones",
+        "start": 142.858,
+        "end": 143.318
+      },
+      {
+        "word": "and",
+        "start": 143.358,
+        "end": 143.588
+      },
+      {
+        "word": "screens",
+        "start": 143.628,
+        "end": 144.165
+      },
+      {
+        "word": "people",
+        "start": 144.205,
+        "end": 144.665
+      },
+      {
+        "word": "become",
+        "start": 144.705,
+        "end": 145.165
+      },
+      {
+        "word": "more",
+        "start": 145.205,
+        "end": 145.512
+      },
+      {
+        "word": "present",
+        "start": 145.552,
+        "end": 146.088
+      },
+      {
+        "word": "and",
+        "start": 146.128,
+        "end": 146.358
+      },
+      {
+        "word": "attentive",
+        "start": 146.398,
+        "end": 147.088
+      },
+      {
+        "word": "in",
+        "start": 147.128,
+        "end": 147.282
+      },
+      {
+        "word": "their",
+        "start": 147.322,
+        "end": 147.705
+      },
+      {
+        "word": "relationships",
+        "start": 147.745,
+        "end": 148.742
+      }
+    ]
+  },
+  {
+    "text": "In conclusion, walking in nature is one of the simplest and most effective ways to improve your overall well-being.",
+    "sent_start": 148.142,
+    "sent_end": 155.994,
+    "words": [
+      {
+        "word": "In",
+        "start": 148.142,
+        "end": 148.309
+      },
+      {
+        "word": "conclusion",
+        "start": 148.349,
+        "end": 149.184
+      },
+      {
+        "word": "walking",
+        "start": 149.224,
+        "end": 149.809
+      },
+      {
+        "word": "in",
+        "start": 149.849,
+        "end": 150.016
+      },
+      {
+        "word": "nature",
+        "start": 150.056,
+        "end": 150.557
+      },
+      {
+        "word": "is",
+        "start": 150.597,
+        "end": 150.764
+      },
+      {
+        "word": "one",
+        "start": 150.804,
+        "end": 151.055
+      },
+      {
+        "word": "of",
+        "start": 151.095,
+        "end": 151.262
+      },
+      {
+        "word": "the",
+        "start": 151.302,
+        "end": 151.553
+      },
+      {
+        "word": "simplest",
+        "start": 151.593,
+        "end": 152.261
+      },
+      {
+        "word": "and",
+        "start": 152.301,
+        "end": 152.552
+      },
+      {
+        "word": "most",
+        "start": 152.592,
+        "end": 152.926
+      },
+      {
+        "word": "effective",
+        "start": 152.966,
+        "end": 153.718
+      },
+      {
+        "word": "ways",
+        "start": 153.758,
+        "end": 154.092
+      },
+      {
+        "word": "to",
+        "start": 154.132,
+        "end": 154.299
+      },
+      {
+        "word": "improve",
+        "start": 154.339,
+        "end": 154.924
+      },
+      {
+        "word": "your",
+        "start": 154.964,
+        "end": 155.298
+      },
+      {
+        "word": "overall",
+        "start": 155.338,
+        "end": 155.923
+      },
+      {
+        "word": "well",
+        "start": 155.963,
+        "end": 156.297
+      },
+      {
+        "word": "being",
+        "start": 156.337,
+        "end": 156.754
+      }
+    ]
+  },
+  {
+    "text": "It requires no special equipment, costs nothing, and can be enjoyed by people of all ages.",
+    "sent_start": 155.994,
+    "sent_end": 163.111,
+    "words": [
+      {
+        "word": "It",
+        "start": 155.994,
+        "end": 156.192
+      },
+      {
+        "word": "requires",
+        "start": 156.232,
+        "end": 157.023
+      },
+      {
+        "word": "no",
+        "start": 157.063,
+        "end": 157.261
+      },
+      {
+        "word": "special",
+        "start": 157.301,
+        "end": 157.992
+      },
+      {
+        "word": "equipment",
+        "start": 158.032,
+        "end": 158.922
+      },
+      {
+        "word": "costs",
+        "start": 158.962,
+        "end": 159.456
+      },
+      {
+        "word": "nothing",
+        "start": 159.496,
+        "end": 160.188
+      },
+      {
+        "word": "and",
+        "start": 160.228,
+        "end": 160.525
+      },
+      {
+        "word": "can",
+        "start": 160.565,
+        "end": 160.861
+      },
+      {
+        "word": "be",
+        "start": 160.901,
+        "end": 161.099
+      },
+      {
+        "word": "enjoyed",
+        "start": 161.139,
+        "end": 161.831
+      },
+      {
+        "word": "by",
+        "start": 161.871,
+        "end": 162.068
+      },
+      {
+        "word": "people",
+        "start": 162.108,
+        "end": 162.702
+      },
+      {
+        "word": "of",
+        "start": 162.742,
+        "end": 162.939
+      },
+      {
+        "word": "all",
+        "start": 162.979,
+        "end": 163.276
+      },
+      {
+        "word": "ages",
+        "start": 163.316,
+        "end": 163.711
+      }
+    ]
+  },
+  {
+    "text": "The next time you feel stressed or tired, consider stepping outside and taking a walk in the nearest green space.",
+    "sent_start": 163.111,
+    "sent_end": 170.992,
+    "words": [
+      {
+        "word": "The",
+        "start": 163.111,
+        "end": 163.368
+      },
+      {
+        "word": "next",
+        "start": 163.408,
+        "end": 163.751
+      },
+      {
+        "word": "time",
+        "start": 163.791,
+        "end": 164.133
+      },
+      {
+        "word": "you",
+        "start": 164.173,
+        "end": 164.43
+      },
+      {
+        "word": "feel",
+        "start": 164.47,
+        "end": 164.813
+      },
+      {
+        "word": "stressed",
+        "start": 164.853,
+        "end": 165.538
+      },
+      {
+        "word": "or",
+        "start": 165.578,
+        "end": 165.75
+      },
+      {
+        "word": "tired",
+        "start": 165.79,
+        "end": 166.218
+      },
+      {
+        "word": "consider",
+        "start": 166.258,
+        "end": 166.943
+      },
+      {
+        "word": "stepping",
+        "start": 166.983,
+        "end": 167.668
+      },
+      {
+        "word": "outside",
+        "start": 167.708,
+        "end": 168.308
+      },
+      {
+        "word": "and",
+        "start": 168.348,
+        "end": 168.605
+      },
+      {
+        "word": "taking",
+        "start": 168.645,
+        "end": 169.159
+      },
+      {
+        "word": "a",
+        "start": 169.199,
+        "end": 169.285
+      },
+      {
+        "word": "walk",
+        "start": 169.325,
+        "end": 169.667
+      },
+      {
+        "word": "in",
+        "start": 169.707,
+        "end": 169.879
+      },
+      {
+        "word": "the",
+        "start": 169.919,
+        "end": 170.175
+      },
+      {
+        "word": "nearest",
+        "start": 170.215,
+        "end": 170.815
+      },
+      {
+        "word": "green",
+        "start": 170.855,
+        "end": 171.283
+      },
+      {
+        "word": "space",
+        "start": 171.323,
+        "end": 171.752
+      }
+    ]
+  },
+  {
+    "text": "Your body and mind will thank you for it.",
+    "sent_start": 170.992,
+    "sent_end": 174.261,
+    "words": [
+      {
+        "word": "Your",
+        "start": 170.992,
+        "end": 171.4
+      },
+      {
+        "word": "body",
+        "start": 171.44,
+        "end": 171.849
+      },
+      {
+        "word": "and",
+        "start": 171.889,
+        "end": 172.196
+      },
+      {
+        "word": "mind",
+        "start": 172.236,
+        "end": 172.644
+      },
+      {
+        "word": "will",
+        "start": 172.684,
+        "end": 173.093
+      },
+      {
+        "word": "thank",
+        "start": 173.133,
+        "end": 173.644
+      },
+      {
+        "word": "you",
+        "start": 173.684,
+        "end": 173.99
+      },
+      {
+        "word": "for",
+        "start": 174.03,
+        "end": 174.337
+      },
+      {
+        "word": "it",
+        "start": 174.377,
+        "end": 174.581
+      }
+    ]
+  }
+]

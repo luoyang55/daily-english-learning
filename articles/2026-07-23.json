@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-23",
+  "morning": {
+    "title_en": "The Benefits of Walking in Nature",
+    "title_cn": "在大自然中散步的好处",
+    "level": "基础篇",
+    "content_en": "Many people today spend most of their time indoors, sitting in front of screens and dealing with the stress of daily life. However, a growing body of research shows that simply walking in nature can have remarkable benefits for both physical and mental health. Experts recommend spending at least twenty minutes outdoors each day, even if it is just a short walk in a nearby park or garden.\n\nOne of the most important advantages of walking in nature is its positive effect on mental health. Studies have found that people who spend time in green spaces report lower levels of stress, anxiety, and depression. The fresh air, natural sounds, and beautiful scenery help the brain relax and recover from mental tiredness. In fact, researchers at Stanford University discovered that a ninety-minute walk in a forest can significantly reduce activity in the part of the brain responsible for negative thinking.\n\nWalking outdoors also provides excellent physical benefits. When you walk on natural ground such as grass, dirt trails, or rocky paths, your body engages more muscles than it would on a flat surface like a sidewalk. This can improve your balance, strengthen your legs, and increase your overall fitness. Additionally, exposure to natural sunlight helps your body produce vitamin D, which is essential for strong bones and a healthy immune system.\n\nAnother benefit is the improvement in creativity and focus. Several studies suggest that spending time in nature allows the mind to wander freely, which can lead to creative ideas and better problem-solving skills. Many writers, artists, and scientists have credited their best ideas to walks through forests or along riversides. Even a brief walk during a break from work can help you return with a clearer mind and greater concentration.\n\nSocial connection is also enhanced when people walk together in natural settings. Friends and family members who take walks in parks or nature reserves often find that they have deeper conversations and feel more connected to each other. Without the distractions of phones and screens, people become more present and attentive in their relationships.\n\nIn conclusion, walking in nature is one of the simplest and most effective ways to improve your overall well-being. It requires no special equipment, costs nothing, and can be enjoyed by people of all ages. The next time you feel stressed or tired, consider stepping outside and taking a walk in the nearest green space. Your body and mind will thank you for it.",
+    "content_cn": "如今，许多人大部分时间都待在室内，坐在屏幕前，应对日常生活的压力。然而，越来越多的研究表明，仅仅是在大自然中散步就能对身心健康带来显著的好处。专家建议每天至少在户外待二十分钟，即使只是在附近的公园或花园里散个短步。\n\n在大自然中散步最重要的好处之一是对心理健康的积极影响。研究发现，在绿色空间中度过时间的人报告的压力、焦虑和抑郁水平更低。新鲜空气、自然的声音和美丽的风景有助于大脑放松，从精神疲劳中恢复。事实上，斯坦福大学的研究人员发现，在森林中步行九十分钟可以显著减少大脑中负责消极思维区域的活跃度。\n\n户外步行还提供了极好的身体益处。当你在草地、泥土小径或石头路等自然地面上行走时，你的身体会调动比在人行道等平坦路面上更多的肌肉。这可以改善你的平衡能力、增强腿部力量、提高整体健康水平。此外，暴露在自然阳光下有助于身体产生维生素D，这对强健的骨骼和健康的免疫系统至关重要。\n\n另一个好处是创造力和注意力的提升。多项研究表明，在大自然中度过时间可以让思维自由漫游，从而产生创意和更好的解决问题的技巧。许多作家、艺术家和科学家都将他们最好的想法归功于穿越森林或沿河岸的散步。即使是在工作间隙短暂的散步，也能帮助你以更清醒的头脑和更强的专注力回归工作。\n\n当人们在自然环境中一起散步时，社交联系也会得到增强。在公园或自然保护区一起散步的朋友和家庭成员往往会发现他们有了更深入的对话，彼此之间的联系更加紧密。没有了手机和屏幕的干扰，人们在与他人的关系中变得更加投入和专注。\n\n总之，在大自然中散步是最简单、最有效的提升整体健康水平的方法之一。它不需要特别的装备，不花任何费用，各个年龄段的人都能享受。下次你感到压力或疲惫时，不妨走出去，在最近的绿地散个步。你的身体和心灵都会感谢你的。",
+    "vocabulary": [
+      {
+        "word": "remarkable",
+        "phonetic": "/rɪˈmɑːrkəbl/",
+        "meaning": "显著的，非凡的"
+      },
+      {
+        "word": "anxiety",
+        "phonetic": "/æŋˈzaɪəti/",
+        "meaning": "焦虑，不安"
+      },
+      {
+        "word": "depression",
+        "phonetic": "/dɪˈpreʃn/",
+        "meaning": "抑郁，沮丧"
+      },
+      {
+        "word": "scenery",
+        "phonetic": "/ˈsiːnəri/",
+        "meaning": "风景，景色"
+      },
+      {
+        "word": "significantly",
+        "phonetic": "/sɪɡˈnɪfɪkəntli/",
+        "meaning": "显著地，重要地"
+      },
+      {
+        "word": "engage",
+        "phonetic": "/ɪnˈɡeɪdʒ/",
+        "meaning": "调动，参与"
+      },
+      {
+        "word": "balance",
+        "phonetic": "/ˈbæləns/",
+        "meaning": "平衡，均衡"
+      },
+      {
+        "word": "exposure",
+        "phonetic": "/ɪkˈspoʊ˒ər/",
+        "meaning": "暴露，接触"
+      },
+      {
+        "word": "essential",
+        "phonetic": "/ɪˈsenʃl/",
+        "meaning": "必要的，不可或缺的"
+      },
+      {
+        "word": "creativity",
+        "phonetic": "/ˌkriːeˈtɪvəti/",
+        "meaning": "创造力，创新力"
+      },
+      {
+        "word": "concentration",
+        "phonetic": "/ˌkɒnsnˈtreɪʃn/",
+        "meaning": "专注，集中"
+      },
+      {
+        "word": "distraction",
+        "phonetic": "/dɪˈstrækʃn/",
+        "meaning": "分心，干扰"
+      },
+      {
+        "word": "attentive",
+        "phonetic": "/əˈtentɪv/",
+        "meaning": "专注的，留心的"
+      },
+      {
+        "word": "well-being",
+        "phonetic": "/ˈwel ˈbiːɪŋ/",
+        "meaning": "健康，幸福"
+      },
+      {
+        "word": "mental",
+        "phonetic": "/ˈmentl/",
+        "meaning": "精神的，心理的"
+      },
+      {
+        "word": "fitness",
+        "phonetic": "/ˈfɪtnəs/",
+        "meaning": "健康，体能"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "The fresh air, natural sounds, and beautiful scenery help the brain relax and recover from mental tiredness.",
+        "cn": "新鲜空气、自然的声音和美丽的风景有助于大脑放松，从精神疲劳中恢复。",
+        "grammar": "主语由三个并列名词短语构成(fresh air, natural sounds, beautiful scenery)，谓语 help 后接宾语 the brain 和不带 to 的不定式 relax and recover 作宾补。"
+      },
+      {
+        "en": "When you walk on natural ground, your body engages more muscles than it would on a flat surface.",
+        "cn": "当你在自然地面上行走时，你的身体会调动比在平坦路面上更多的肌肉。",
+        "grammar": "when 引导时间状语从句；主句中使用了比较级 more...than 结构，比较的是自然地面和平坦路面上调动的肌肉数量。"
+      },
+      {
+        "en": "Many writers, artists, and scientists have credited their best ideas to walks through forests or along riversides.",
+        "cn": "许多作家、艺术家和科学家都将他们最好的想法归功于穿越森林或沿河岸的散步。",
+        "grammar": "credit...to... 是一个固定搭配，表示“把……归功于……”。主语为三个并列的职业名词，用 and 连接。"
+      }
+    ]
+  }
+}
