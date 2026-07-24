@@ -1,0 +1,78 @@
+{
+  "morning": {
+    "title_en": "The Benefits of Cooking at Home",
+    "title_cn": "在家做饭的好处",
+    "level": "CET-4",
+    "content_en": "Cooking at home has become less common in recent years. With so many restaurants and food delivery apps available, it is easy to rely on pre-made meals. However, preparing your own food offers advantages that go far beyond saving money. Research shows that people who cook at home regularly tend to eat healthier, feel happier, and develop a deeper connection with their families.\n\nOne of the most obvious benefits is better nutrition. When you cook your own meals, you have complete control over the ingredients. You can choose fresh vegetables, reduce the amount of salt and sugar, and avoid artificial additives that are often found in processed foods. A study published in the journal Public Health Nutrition found that people who cooked dinner at least five times a week consumed significantly more fiber, vitamins, and minerals than those who ate out frequently.\n\nCooking at home can also help with weight management. Restaurant portions are often much larger than what the body actually needs. Plus, meals from restaurants tend to contain more calories, fat, and sodium than homemade dishes. By preparing food at home, you can serve reasonable portions and make smarter choices about what goes on your plate.\n\nAnother important advantage is the effect on family relationships. When families cook and eat together, they create opportunities for conversation and bonding. Children who participate in meal preparation are more likely to try new foods and develop healthy eating habits. Family meals also provide a sense of stability and routine, which can be especially valuable during stressful times.\n\nCooking can also be a form of stress relief. Many people find that chopping vegetables, stirring a pot, or kneading dough helps them relax after a long day. The process of creating something delicious from raw ingredients gives a sense of accomplishment and creativity. Some researchers even compare cooking to mindfulness meditation, because it requires focus on the present moment.\n\nFinally, learning to cook is a valuable life skill that pays off in many ways. It reduces dependence on expensive takeout, allows you to explore different cuisines, and even impress friends at social gatherings. Whether you are a beginner or an experienced cook, there is always something new to learn in the kitchen. Start with simple recipes and gradually challenge yourself with more complex dishes. Over time, you will discover that cooking is not a chore, but a rewarding daily ritual.",
+    "content_cn": "近年来，在家做饭变得越来越不常见。随着这么多餐厅和外卖应用的普及，人们很容易依赖预制餐食。然而，自己做饭的好处远不止省钱。研究表明，经常在家做饭的人往往吃得更健康、感觉更快乐，并与家人建立更深厚的联系。\n\n最明显的好处之一是更好的营养。当你自己做饭时，你可以完全控制食材。你可以选择新鲜蔬菜，减少盐和糖的用量，避免加工食品中常见的人工添加剂。发表在《公共卫生营养》期刊上的一项研究发现，每周至少在家做五次晚餐的人比经常外出就餐的人摄入了更多的纤维、维生素和矿物质。\n\n在家做饭也有助于体重管理。餐厅的份量通常远超过身体的实际需要。此外，餐厅的饭菜往往比自制菜肴含有更多的卡路里、脂肪和钠。通过在家准备食物，你可以合理控制份量，并对餐盘中的食物做出更明智的选择。\n\n另一个重要优势是对家庭关系的影响。当家人一起做饭和吃饭时，他们创造了交流和增进感情的机会。参与做饭的孩子更愿意尝试新食物，养成健康的饮食习惯。家庭用餐还提供了一种稳定感和规律感，这在压力大的时期尤其有价值。\n\n做饭也可以是一种减压方式。许多人发现，切蔬菜、搅拌锅里的东西或揉面团能帮助他们在漫长的一天后放松。从原材料创造出美味食物的过程带来了成就感和创造力。一些研究者甚至将做饭比作正念冥想，因为它需要专注于当下。\n\n最后，学会做饭是一项有价值的生活技能，在许多方面都有回报。它减少了对外卖的消费依赖，让你探索不同的美食，甚至能在社交聚会上给朋友留下深刻印象。无论你是初学者还是经验丰富的厨师，厨房里总有新东西可以学习。从简单的食谱开始，逐步挑战更复杂的菜肴。随着时间的推移，你会发现做饭不是苦差事，而是一种有回报的日常仪式。",
+    "vocabulary": [
+      {
+        "word": "rely",
+        "phonetic": "/rɪˈlaɪ/",
+        "meaning": "依赖，依靠"
+      },
+      {
+        "word": "nutrition",
+        "phonetic": "/nuˈtrɪʃn/",
+        "meaning": "营养，营养学"
+      },
+      {
+        "word": "ingredient",
+        "phonetic": "/ɪnˈɡriːdiənt/",
+        "meaning": "成分，食材"
+      },
+      {
+        "word": "additive",
+        "phonetic": "/ˈædətɪv/",
+        "meaning": "添加剂"
+      },
+      {
+        "word": "consume",
+        "phonetic": "/kənˈsjuːm/",
+        "meaning": "消耗，摄入"
+      },
+      {
+        "word": "portion",
+        "phonetic": "/ˈpɔːrʃn/",
+        "meaning": "份量，部分"
+      },
+      {
+        "word": "bonding",
+        "phonetic": "/ˈbɒndɪŋ/",
+        "meaning": "增进感情，建立联系"
+      },
+      {
+        "word": "stability",
+        "phonetic": "/stəˈbɪləti/",
+        "meaning": "稳定性，安定"
+      },
+      {
+        "word": "accomplishment",
+        "phonetic": "/əˈkʌmplɪʃmənt/",
+        "meaning": "成就，完成"
+      },
+      {
+        "word": "mindfulness",
+        "phonetic": "/ˈmaɪndfəlnəs/",
+        "meaning": "正念，专注"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "A study published in the journal Public Health Nutrition found that people who cooked dinner at least five times a week consumed significantly more fiber, vitamins, and minerals than those who ate out frequently.",
+        "cn": "发表在《公共卫生营养》期刊上的一项研究发现，每周至少在家做五次晚餐的人比经常外出就餐的人摄入了更多的纤维、维生素和矿物质。",
+        "grammar": "published... 是过去分词短语作后置定语修饰 study；who 引导定语从句修饰 people；than 引导比较状语从句，those 指代 people。"
+      },
+      {
+        "en": "Children who participate in meal preparation are more likely to try new foods and develop healthy eating habits.",
+        "cn": "参与做饭的孩子更愿意尝试新食物，养成健康的饮食习惯。",
+        "grammar": "who 引导定语从句修饰 Children；be more likely to 表示\"更有可能\"；try 和 develop 为并列动词短语。"
+      },
+      {
+        "en": "Some researchers even compare cooking to mindfulness meditation, because it requires focus on the present moment.",
+        "cn": "一些研究者甚至将做饭比作正念冥想，因为它需要专注于当下。",
+        "grammar": "compare A to B 意为\"将A比作B\"；because 引导原因状语从句；focus on 为固定搭配，意为\"专注于\"。"
+      }
+    ]
+  }
+}
