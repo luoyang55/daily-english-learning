@@ -1,0 +1,2010 @@
+[
+  {
+    "text": "Getting a good night's sleep is one of the most important things we can do for our health.",
+    "sent_start": 0.0,
+    "sent_end": 5.617,
+    "words": [
+      {
+        "word": "Getting",
+        "start": 0.0,
+        "end": 0.546
+      },
+      {
+        "word": "a",
+        "start": 0.586,
+        "end": 0.664
+      },
+      {
+        "word": "good",
+        "start": 0.704,
+        "end": 1.016
+      },
+      {
+        "word": "night's",
+        "start": 1.056,
+        "end": 1.602
+      },
+      {
+        "word": "sleep",
+        "start": 1.642,
+        "end": 2.032
+      },
+      {
+        "word": "is",
+        "start": 2.072,
+        "end": 2.228
+      },
+      {
+        "word": "one",
+        "start": 2.268,
+        "end": 2.502
+      },
+      {
+        "word": "of",
+        "start": 2.542,
+        "end": 2.698
+      },
+      {
+        "word": "the",
+        "start": 2.738,
+        "end": 2.972
+      },
+      {
+        "word": "most",
+        "start": 3.012,
+        "end": 3.324
+      },
+      {
+        "word": "important",
+        "start": 3.364,
+        "end": 4.066
+      },
+      {
+        "word": "things",
+        "start": 4.106,
+        "end": 4.574
+      },
+      {
+        "word": "we",
+        "start": 4.614,
+        "end": 4.771
+      },
+      {
+        "word": "can",
+        "start": 4.811,
+        "end": 5.045
+      },
+      {
+        "word": "do",
+        "start": 5.085,
+        "end": 5.241
+      },
+      {
+        "word": "for",
+        "start": 5.281,
+        "end": 5.515
+      },
+      {
+        "word": "our",
+        "start": 5.555,
+        "end": 5.789
+      },
+      {
+        "word": "health",
+        "start": 5.829,
+        "end": 6.297
+      }
+    ]
+  },
+  {
+    "text": "Yet many people today struggle with sleep problems.",
+    "sent_start": 5.617,
+    "sent_end": 9.594,
+    "words": [
+      {
+        "word": "Yet",
+        "start": 5.617,
+        "end": 5.894
+      },
+      {
+        "word": "many",
+        "start": 5.934,
+        "end": 6.304
+      },
+      {
+        "word": "people",
+        "start": 6.344,
+        "end": 6.899
+      },
+      {
+        "word": "today",
+        "start": 6.939,
+        "end": 7.402
+      },
+      {
+        "word": "struggle",
+        "start": 7.442,
+        "end": 8.182
+      },
+      {
+        "word": "with",
+        "start": 8.222,
+        "end": 8.592
+      },
+      {
+        "word": "sleep",
+        "start": 8.632,
+        "end": 9.094
+      },
+      {
+        "word": "problems",
+        "start": 9.134,
+        "end": 9.874
+      }
+    ]
+  },
+  {
+    "text": "According to recent studies, nearly one-third of adults do not get enough rest each night.",
+    "sent_start": 9.594,
+    "sent_end": 16.1,
+    "words": [
+      {
+        "word": "According",
+        "start": 9.594,
+        "end": 10.396
+      },
+      {
+        "word": "to",
+        "start": 10.436,
+        "end": 10.615
+      },
+      {
+        "word": "recent",
+        "start": 10.655,
+        "end": 11.189
+      },
+      {
+        "word": "studies",
+        "start": 11.229,
+        "end": 11.853
+      },
+      {
+        "word": "nearly",
+        "start": 11.893,
+        "end": 12.428
+      },
+      {
+        "word": "one",
+        "start": 12.468,
+        "end": 12.735
+      },
+      {
+        "word": "third",
+        "start": 12.775,
+        "end": 13.221
+      },
+      {
+        "word": "of",
+        "start": 13.261,
+        "end": 13.439
+      },
+      {
+        "word": "adults",
+        "start": 13.479,
+        "end": 14.014
+      },
+      {
+        "word": "do",
+        "start": 14.054,
+        "end": 14.232
+      },
+      {
+        "word": "not",
+        "start": 14.272,
+        "end": 14.539
+      },
+      {
+        "word": "get",
+        "start": 14.579,
+        "end": 14.847
+      },
+      {
+        "word": "enough",
+        "start": 14.887,
+        "end": 15.421
+      },
+      {
+        "word": "rest",
+        "start": 15.461,
+        "end": 15.818
+      },
+      {
+        "word": "each",
+        "start": 15.858,
+        "end": 16.214
+      },
+      {
+        "word": "night",
+        "start": 16.254,
+        "end": 16.7
+      }
+    ]
+  },
+  {
+    "text": "This can lead to serious physical and mental health issues over time.",
+    "sent_start": 16.1,
+    "sent_end": 21.175,
+    "words": [
+      {
+        "word": "This",
+        "start": 16.1,
+        "end": 16.456
+      },
+      {
+        "word": "can",
+        "start": 16.496,
+        "end": 16.763
+      },
+      {
+        "word": "lead",
+        "start": 16.803,
+        "end": 17.159
+      },
+      {
+        "word": "to",
+        "start": 17.199,
+        "end": 17.377
+      },
+      {
+        "word": "serious",
+        "start": 17.417,
+        "end": 18.041
+      },
+      {
+        "word": "physical",
+        "start": 18.081,
+        "end": 18.793
+      },
+      {
+        "word": "and",
+        "start": 18.833,
+        "end": 19.1
+      },
+      {
+        "word": "mental",
+        "start": 19.14,
+        "end": 19.674
+      },
+      {
+        "word": "health",
+        "start": 19.714,
+        "end": 20.249
+      },
+      {
+        "word": "issues",
+        "start": 20.289,
+        "end": 20.823
+      },
+      {
+        "word": "over",
+        "start": 20.863,
+        "end": 21.219
+      },
+      {
+        "word": "time",
+        "start": 21.259,
+        "end": 21.615
+      }
+    ]
+  },
+  {
+    "text": "Scientists have found that sleep plays a key role in how our bodies repair themselves.",
+    "sent_start": 21.175,
+    "sent_end": 27.25,
+    "words": [
+      {
+        "word": "Scientists",
+        "start": 21.175,
+        "end": 22.031
+      },
+      {
+        "word": "have",
+        "start": 22.071,
+        "end": 22.413
+      },
+      {
+        "word": "found",
+        "start": 22.453,
+        "end": 22.881
+      },
+      {
+        "word": "that",
+        "start": 22.921,
+        "end": 23.263
+      },
+      {
+        "word": "sleep",
+        "start": 23.303,
+        "end": 23.731
+      },
+      {
+        "word": "plays",
+        "start": 23.771,
+        "end": 24.199
+      },
+      {
+        "word": "a",
+        "start": 24.239,
+        "end": 24.324
+      },
+      {
+        "word": "key",
+        "start": 24.364,
+        "end": 24.621
+      },
+      {
+        "word": "role",
+        "start": 24.661,
+        "end": 25.003
+      },
+      {
+        "word": "in",
+        "start": 25.043,
+        "end": 25.214
+      },
+      {
+        "word": "how",
+        "start": 25.254,
+        "end": 25.511
+      },
+      {
+        "word": "our",
+        "start": 25.551,
+        "end": 25.808
+      },
+      {
+        "word": "bodies",
+        "start": 25.848,
+        "end": 26.361
+      },
+      {
+        "word": "repair",
+        "start": 26.401,
+        "end": 26.914
+      },
+      {
+        "word": "themselves",
+        "start": 26.954,
+        "end": 27.81
+      }
+    ]
+  },
+  {
+    "text": "During deep sleep, the body produces hormones that help muscles grow and tissues heal.",
+    "sent_start": 27.25,
+    "sent_end": 33.603,
+    "words": [
+      {
+        "word": "During",
+        "start": 27.25,
+        "end": 27.787
+      },
+      {
+        "word": "deep",
+        "start": 27.827,
+        "end": 28.185
+      },
+      {
+        "word": "sleep",
+        "start": 28.225,
+        "end": 28.672
+      },
+      {
+        "word": "the",
+        "start": 28.712,
+        "end": 28.981
+      },
+      {
+        "word": "body",
+        "start": 29.021,
+        "end": 29.378
+      },
+      {
+        "word": "produces",
+        "start": 29.418,
+        "end": 30.134
+      },
+      {
+        "word": "hormones",
+        "start": 30.174,
+        "end": 30.89
+      },
+      {
+        "word": "that",
+        "start": 30.93,
+        "end": 31.288
+      },
+      {
+        "word": "help",
+        "start": 31.328,
+        "end": 31.686
+      },
+      {
+        "word": "muscles",
+        "start": 31.726,
+        "end": 32.352
+      },
+      {
+        "word": "grow",
+        "start": 32.392,
+        "end": 32.75
+      },
+      {
+        "word": "and",
+        "start": 32.79,
+        "end": 33.059
+      },
+      {
+        "word": "tissues",
+        "start": 33.099,
+        "end": 33.725
+      },
+      {
+        "word": "heal",
+        "start": 33.765,
+        "end": 34.123
+      }
+    ]
+  },
+  {
+    "text": "The immune system also becomes stronger when we rest well.",
+    "sent_start": 33.603,
+    "sent_end": 38.108,
+    "words": [
+      {
+        "word": "The",
+        "start": 33.603,
+        "end": 33.884
+      },
+      {
+        "word": "immune",
+        "start": 33.924,
+        "end": 34.488
+      },
+      {
+        "word": "system",
+        "start": 34.528,
+        "end": 35.091
+      },
+      {
+        "word": "also",
+        "start": 35.131,
+        "end": 35.506
+      },
+      {
+        "word": "becomes",
+        "start": 35.546,
+        "end": 36.203
+      },
+      {
+        "word": "stronger",
+        "start": 36.243,
+        "end": 36.994
+      },
+      {
+        "word": "when",
+        "start": 37.034,
+        "end": 37.41
+      },
+      {
+        "word": "we",
+        "start": 37.45,
+        "end": 37.637
+      },
+      {
+        "word": "rest",
+        "start": 37.677,
+        "end": 38.053
+      },
+      {
+        "word": "well",
+        "start": 38.093,
+        "end": 38.468
+      }
+    ]
+  },
+  {
+    "text": "People who sleep less than six hours a night are more likely to catch colds and other infections.",
+    "sent_start": 38.108,
+    "sent_end": 44.947,
+    "words": [
+      {
+        "word": "People",
+        "start": 38.108,
+        "end": 38.628
+      },
+      {
+        "word": "who",
+        "start": 38.668,
+        "end": 38.927
+      },
+      {
+        "word": "sleep",
+        "start": 38.967,
+        "end": 39.4
+      },
+      {
+        "word": "less",
+        "start": 39.44,
+        "end": 39.787
+      },
+      {
+        "word": "than",
+        "start": 39.827,
+        "end": 40.173
+      },
+      {
+        "word": "six",
+        "start": 40.213,
+        "end": 40.473
+      },
+      {
+        "word": "hours",
+        "start": 40.513,
+        "end": 40.945
+      },
+      {
+        "word": "a",
+        "start": 40.985,
+        "end": 41.072
+      },
+      {
+        "word": "night",
+        "start": 41.112,
+        "end": 41.545
+      },
+      {
+        "word": "are",
+        "start": 41.585,
+        "end": 41.844
+      },
+      {
+        "word": "more",
+        "start": 41.884,
+        "end": 42.231
+      },
+      {
+        "word": "likely",
+        "start": 42.271,
+        "end": 42.79
+      },
+      {
+        "word": "to",
+        "start": 42.83,
+        "end": 43.003
+      },
+      {
+        "word": "catch",
+        "start": 43.043,
+        "end": 43.476
+      },
+      {
+        "word": "colds",
+        "start": 43.516,
+        "end": 43.949
+      },
+      {
+        "word": "and",
+        "start": 43.989,
+        "end": 44.249
+      },
+      {
+        "word": "other",
+        "start": 44.289,
+        "end": 44.722
+      },
+      {
+        "word": "infections",
+        "start": 44.762,
+        "end": 45.627
+      }
+    ]
+  },
+  {
+    "text": "Sleep also has a huge effect on our brain.",
+    "sent_start": 44.947,
+    "sent_end": 48.633,
+    "words": [
+      {
+        "word": "Sleep",
+        "start": 44.947,
+        "end": 45.506
+      },
+      {
+        "word": "also",
+        "start": 45.546,
+        "end": 45.993
+      },
+      {
+        "word": "has",
+        "start": 46.033,
+        "end": 46.368
+      },
+      {
+        "word": "a",
+        "start": 46.408,
+        "end": 46.519
+      },
+      {
+        "word": "huge",
+        "start": 46.559,
+        "end": 47.006
+      },
+      {
+        "word": "effect",
+        "start": 47.046,
+        "end": 47.716
+      },
+      {
+        "word": "on",
+        "start": 47.756,
+        "end": 47.98
+      },
+      {
+        "word": "our",
+        "start": 48.02,
+        "end": 48.355
+      },
+      {
+        "word": "brain",
+        "start": 48.395,
+        "end": 48.953
+      }
+    ]
+  },
+  {
+    "text": "While we sleep, the brain processes information from the day and stores it as long-term memories.",
+    "sent_start": 48.633,
+    "sent_end": 55.611,
+    "words": [
+      {
+        "word": "While",
+        "start": 48.633,
+        "end": 49.075
+      },
+      {
+        "word": "we",
+        "start": 49.115,
+        "end": 49.292
+      },
+      {
+        "word": "sleep",
+        "start": 49.332,
+        "end": 49.773
+      },
+      {
+        "word": "the",
+        "start": 49.813,
+        "end": 50.078
+      },
+      {
+        "word": "brain",
+        "start": 50.118,
+        "end": 50.56
+      },
+      {
+        "word": "processes",
+        "start": 50.6,
+        "end": 51.395
+      },
+      {
+        "word": "information",
+        "start": 51.435,
+        "end": 52.406
+      },
+      {
+        "word": "from",
+        "start": 52.446,
+        "end": 52.8
+      },
+      {
+        "word": "the",
+        "start": 52.84,
+        "end": 53.105
+      },
+      {
+        "word": "day",
+        "start": 53.145,
+        "end": 53.41
+      },
+      {
+        "word": "and",
+        "start": 53.45,
+        "end": 53.715
+      },
+      {
+        "word": "stores",
+        "start": 53.755,
+        "end": 54.285
+      },
+      {
+        "word": "it",
+        "start": 54.325,
+        "end": 54.501
+      },
+      {
+        "word": "as",
+        "start": 54.541,
+        "end": 54.718
+      },
+      {
+        "word": "long",
+        "start": 54.758,
+        "end": 55.111
+      },
+      {
+        "word": "term",
+        "start": 55.151,
+        "end": 55.505
+      },
+      {
+        "word": "memories",
+        "start": 55.545,
+        "end": 56.251
+      }
+    ]
+  },
+  {
+    "text": "This means that students who get enough rest before an exam often perform better than those who stay up all night studying.",
+    "sent_start": 55.611,
+    "sent_end": 63.658,
+    "words": [
+      {
+        "word": "This",
+        "start": 55.611,
+        "end": 55.93
+      },
+      {
+        "word": "means",
+        "start": 55.97,
+        "end": 56.368
+      },
+      {
+        "word": "that",
+        "start": 56.408,
+        "end": 56.727
+      },
+      {
+        "word": "students",
+        "start": 56.767,
+        "end": 57.404
+      },
+      {
+        "word": "who",
+        "start": 57.444,
+        "end": 57.683
+      },
+      {
+        "word": "get",
+        "start": 57.723,
+        "end": 57.962
+      },
+      {
+        "word": "enough",
+        "start": 58.002,
+        "end": 58.48
+      },
+      {
+        "word": "rest",
+        "start": 58.52,
+        "end": 58.839
+      },
+      {
+        "word": "before",
+        "start": 58.879,
+        "end": 59.357
+      },
+      {
+        "word": "an",
+        "start": 59.397,
+        "end": 59.557
+      },
+      {
+        "word": "exam",
+        "start": 59.597,
+        "end": 59.915
+      },
+      {
+        "word": "often",
+        "start": 59.955,
+        "end": 60.354
+      },
+      {
+        "word": "perform",
+        "start": 60.394,
+        "end": 60.951
+      },
+      {
+        "word": "better",
+        "start": 60.991,
+        "end": 61.469
+      },
+      {
+        "word": "than",
+        "start": 61.509,
+        "end": 61.828
+      },
+      {
+        "word": "those",
+        "start": 61.868,
+        "end": 62.266
+      },
+      {
+        "word": "who",
+        "start": 62.306,
+        "end": 62.545
+      },
+      {
+        "word": "stay",
+        "start": 62.585,
+        "end": 62.904
+      },
+      {
+        "word": "up",
+        "start": 62.944,
+        "end": 63.104
+      },
+      {
+        "word": "all",
+        "start": 63.144,
+        "end": 63.383
+      },
+      {
+        "word": "night",
+        "start": 63.423,
+        "end": 63.821
+      },
+      {
+        "word": "studying",
+        "start": 63.861,
+        "end": 64.498
+      }
+    ]
+  },
+  {
+    "text": "Lack of sleep can also make it harder to concentrate, solve problems, and make decisions.",
+    "sent_start": 63.658,
+    "sent_end": 70.469,
+    "words": [
+      {
+        "word": "Lack",
+        "start": 63.658,
+        "end": 64.037
+      },
+      {
+        "word": "of",
+        "start": 64.077,
+        "end": 64.266
+      },
+      {
+        "word": "sleep",
+        "start": 64.306,
+        "end": 64.779
+      },
+      {
+        "word": "can",
+        "start": 64.819,
+        "end": 65.103
+      },
+      {
+        "word": "also",
+        "start": 65.143,
+        "end": 65.521
+      },
+      {
+        "word": "make",
+        "start": 65.561,
+        "end": 65.94
+      },
+      {
+        "word": "it",
+        "start": 65.98,
+        "end": 66.169
+      },
+      {
+        "word": "harder",
+        "start": 66.209,
+        "end": 66.776
+      },
+      {
+        "word": "to",
+        "start": 66.816,
+        "end": 67.005
+      },
+      {
+        "word": "concentrate",
+        "start": 67.045,
+        "end": 68.086
+      },
+      {
+        "word": "solve",
+        "start": 68.126,
+        "end": 68.599
+      },
+      {
+        "word": "problems",
+        "start": 68.639,
+        "end": 69.396
+      },
+      {
+        "word": "and",
+        "start": 69.436,
+        "end": 69.72
+      },
+      {
+        "word": "make",
+        "start": 69.76,
+        "end": 70.138
+      },
+      {
+        "word": "decisions",
+        "start": 70.178,
+        "end": 71.029
+      }
+    ]
+  },
+  {
+    "text": "Another important aspect is emotional health.",
+    "sent_start": 70.469,
+    "sent_end": 74.308,
+    "words": [
+      {
+        "word": "Another",
+        "start": 70.469,
+        "end": 71.158
+      },
+      {
+        "word": "important",
+        "start": 71.198,
+        "end": 72.084
+      },
+      {
+        "word": "aspect",
+        "start": 72.124,
+        "end": 72.715
+      },
+      {
+        "word": "is",
+        "start": 72.755,
+        "end": 72.952
+      },
+      {
+        "word": "emotional",
+        "start": 72.992,
+        "end": 73.878
+      },
+      {
+        "word": "health",
+        "start": 73.918,
+        "end": 74.508
+      }
+    ]
+  },
+  {
+    "text": "When we are tired, we tend to feel more stressed and anxious.",
+    "sent_start": 74.308,
+    "sent_end": 78.897,
+    "words": [
+      {
+        "word": "When",
+        "start": 74.308,
+        "end": 74.691
+      },
+      {
+        "word": "we",
+        "start": 74.731,
+        "end": 74.922
+      },
+      {
+        "word": "are",
+        "start": 74.962,
+        "end": 75.249
+      },
+      {
+        "word": "tired",
+        "start": 75.289,
+        "end": 75.767
+      },
+      {
+        "word": "we",
+        "start": 75.807,
+        "end": 75.998
+      },
+      {
+        "word": "tend",
+        "start": 76.038,
+        "end": 76.42
+      },
+      {
+        "word": "to",
+        "start": 76.46,
+        "end": 76.652
+      },
+      {
+        "word": "feel",
+        "start": 76.692,
+        "end": 77.074
+      },
+      {
+        "word": "more",
+        "start": 77.114,
+        "end": 77.496
+      },
+      {
+        "word": "stressed",
+        "start": 77.536,
+        "end": 78.301
+      },
+      {
+        "word": "and",
+        "start": 78.341,
+        "end": 78.628
+      },
+      {
+        "word": "anxious",
+        "start": 78.668,
+        "end": 79.337
+      }
+    ]
+  },
+  {
+    "text": "Research shows that poor sleep is closely linked to depression and mood disorders.",
+    "sent_start": 78.897,
+    "sent_end": 84.792,
+    "words": [
+      {
+        "word": "Research",
+        "start": 78.897,
+        "end": 79.581
+      },
+      {
+        "word": "shows",
+        "start": 79.621,
+        "end": 80.048
+      },
+      {
+        "word": "that",
+        "start": 80.088,
+        "end": 80.429
+      },
+      {
+        "word": "poor",
+        "start": 80.469,
+        "end": 80.811
+      },
+      {
+        "word": "sleep",
+        "start": 80.851,
+        "end": 81.278
+      },
+      {
+        "word": "is",
+        "start": 81.318,
+        "end": 81.489
+      },
+      {
+        "word": "closely",
+        "start": 81.529,
+        "end": 82.127
+      },
+      {
+        "word": "linked",
+        "start": 82.167,
+        "end": 82.68
+      },
+      {
+        "word": "to",
+        "start": 82.72,
+        "end": 82.891
+      },
+      {
+        "word": "depression",
+        "start": 82.931,
+        "end": 83.785
+      },
+      {
+        "word": "and",
+        "start": 83.825,
+        "end": 84.081
+      },
+      {
+        "word": "mood",
+        "start": 84.121,
+        "end": 84.463
+      },
+      {
+        "word": "disorders",
+        "start": 84.503,
+        "end": 85.272
+      }
+    ]
+  },
+  {
+    "text": "On the other hand, a good night's rest can improve our mood and help us handle daily challenges with a more positive attitude.",
+    "sent_start": 84.792,
+    "sent_end": 93.131,
+    "words": [
+      {
+        "word": "On",
+        "start": 84.792,
+        "end": 84.955
+      },
+      {
+        "word": "the",
+        "start": 84.995,
+        "end": 85.24
+      },
+      {
+        "word": "other",
+        "start": 85.28,
+        "end": 85.689
+      },
+      {
+        "word": "hand",
+        "start": 85.729,
+        "end": 86.056
+      },
+      {
+        "word": "a",
+        "start": 86.096,
+        "end": 86.178
+      },
+      {
+        "word": "good",
+        "start": 86.218,
+        "end": 86.545
+      },
+      {
+        "word": "night's",
+        "start": 86.585,
+        "end": 87.157
+      },
+      {
+        "word": "rest",
+        "start": 87.197,
+        "end": 87.524
+      },
+      {
+        "word": "can",
+        "start": 87.564,
+        "end": 87.81
+      },
+      {
+        "word": "improve",
+        "start": 87.85,
+        "end": 88.422
+      },
+      {
+        "word": "our",
+        "start": 88.462,
+        "end": 88.707
+      },
+      {
+        "word": "mood",
+        "start": 88.747,
+        "end": 89.074
+      },
+      {
+        "word": "and",
+        "start": 89.114,
+        "end": 89.359
+      },
+      {
+        "word": "help",
+        "start": 89.399,
+        "end": 89.726
+      },
+      {
+        "word": "us",
+        "start": 89.766,
+        "end": 89.93
+      },
+      {
+        "word": "handle",
+        "start": 89.97,
+        "end": 90.46
+      },
+      {
+        "word": "daily",
+        "start": 90.5,
+        "end": 90.909
+      },
+      {
+        "word": "challenges",
+        "start": 90.949,
+        "end": 91.767
+      },
+      {
+        "word": "with",
+        "start": 91.807,
+        "end": 92.134
+      },
+      {
+        "word": "a",
+        "start": 92.174,
+        "end": 92.255
+      },
+      {
+        "word": "more",
+        "start": 92.295,
+        "end": 92.622
+      },
+      {
+        "word": "positive",
+        "start": 92.662,
+        "end": 93.317
+      },
+      {
+        "word": "attitude",
+        "start": 93.357,
+        "end": 94.011
+      }
+    ]
+  },
+  {
+    "text": "Experts suggest several ways to improve sleep quality.",
+    "sent_start": 93.131,
+    "sent_end": 97.692,
+    "words": [
+      {
+        "word": "Experts",
+        "start": 93.131,
+        "end": 93.825
+      },
+      {
+        "word": "suggest",
+        "start": 93.865,
+        "end": 94.559
+      },
+      {
+        "word": "several",
+        "start": 94.599,
+        "end": 95.293
+      },
+      {
+        "word": "ways",
+        "start": 95.333,
+        "end": 95.729
+      },
+      {
+        "word": "to",
+        "start": 95.769,
+        "end": 95.968
+      },
+      {
+        "word": "improve",
+        "start": 96.008,
+        "end": 96.702
+      },
+      {
+        "word": "sleep",
+        "start": 96.742,
+        "end": 97.238
+      },
+      {
+        "word": "quality",
+        "start": 97.278,
+        "end": 97.972
+      }
+    ]
+  },
+  {
+    "text": "First, try to go to bed and wake up at the same time every day, even on weekends.",
+    "sent_start": 97.692,
+    "sent_end": 104.072,
+    "words": [
+      {
+        "word": "First",
+        "start": 97.692,
+        "end": 98.215
+      },
+      {
+        "word": "try",
+        "start": 98.255,
+        "end": 98.568
+      },
+      {
+        "word": "to",
+        "start": 98.608,
+        "end": 98.818
+      },
+      {
+        "word": "go",
+        "start": 98.858,
+        "end": 99.067
+      },
+      {
+        "word": "to",
+        "start": 99.107,
+        "end": 99.316
+      },
+      {
+        "word": "bed",
+        "start": 99.356,
+        "end": 99.67
+      },
+      {
+        "word": "and",
+        "start": 99.71,
+        "end": 100.024
+      },
+      {
+        "word": "wake",
+        "start": 100.064,
+        "end": 100.482
+      },
+      {
+        "word": "up",
+        "start": 100.522,
+        "end": 100.731
+      },
+      {
+        "word": "at",
+        "start": 100.771,
+        "end": 100.98
+      },
+      {
+        "word": "the",
+        "start": 101.02,
+        "end": 101.334
+      },
+      {
+        "word": "same",
+        "start": 101.374,
+        "end": 101.793
+      },
+      {
+        "word": "time",
+        "start": 101.833,
+        "end": 102.251
+      },
+      {
+        "word": "every",
+        "start": 102.291,
+        "end": 102.814
+      },
+      {
+        "word": "day",
+        "start": 102.854,
+        "end": 103.168
+      },
+      {
+        "word": "even",
+        "start": 103.208,
+        "end": 103.626
+      },
+      {
+        "word": "on",
+        "start": 103.666,
+        "end": 103.875
+      },
+      {
+        "word": "weekends",
+        "start": 103.915,
+        "end": 104.752
+      }
+    ]
+  },
+  {
+    "text": "Second, avoid using electronic devices at least thirty minutes before bedtime, because the blue light from screens can delay the release of melatonin, the hormone that helps us fall asleep.",
+    "sent_start": 104.072,
+    "sent_end": 116.953,
+    "words": [
+      {
+        "word": "Second",
+        "start": 104.072,
+        "end": 104.568
+      },
+      {
+        "word": "avoid",
+        "start": 104.608,
+        "end": 105.02
+      },
+      {
+        "word": "using",
+        "start": 105.06,
+        "end": 105.473
+      },
+      {
+        "word": "electronic",
+        "start": 105.513,
+        "end": 106.339
+      },
+      {
+        "word": "devices",
+        "start": 106.379,
+        "end": 106.957
+      },
+      {
+        "word": "at",
+        "start": 106.997,
+        "end": 107.162
+      },
+      {
+        "word": "least",
+        "start": 107.202,
+        "end": 107.615
+      },
+      {
+        "word": "thirty",
+        "start": 107.655,
+        "end": 108.15
+      },
+      {
+        "word": "minutes",
+        "start": 108.19,
+        "end": 108.768
+      },
+      {
+        "word": "before",
+        "start": 108.808,
+        "end": 109.304
+      },
+      {
+        "word": "bedtime",
+        "start": 109.344,
+        "end": 109.922
+      },
+      {
+        "word": "because",
+        "start": 109.962,
+        "end": 110.54
+      },
+      {
+        "word": "the",
+        "start": 110.58,
+        "end": 110.827
+      },
+      {
+        "word": "blue",
+        "start": 110.867,
+        "end": 111.198
+      },
+      {
+        "word": "light",
+        "start": 111.238,
+        "end": 111.65
+      },
+      {
+        "word": "from",
+        "start": 111.69,
+        "end": 112.021
+      },
+      {
+        "word": "screens",
+        "start": 112.061,
+        "end": 112.639
+      },
+      {
+        "word": "can",
+        "start": 112.679,
+        "end": 112.926
+      },
+      {
+        "word": "delay",
+        "start": 112.966,
+        "end": 113.379
+      },
+      {
+        "word": "the",
+        "start": 113.419,
+        "end": 113.667
+      },
+      {
+        "word": "release",
+        "start": 113.707,
+        "end": 114.285
+      },
+      {
+        "word": "of",
+        "start": 114.325,
+        "end": 114.49
+      },
+      {
+        "word": "melatonin",
+        "start": 114.53,
+        "end": 115.273
+      },
+      {
+        "word": "the",
+        "start": 115.313,
+        "end": 115.561
+      },
+      {
+        "word": "hormone",
+        "start": 115.601,
+        "end": 116.179
+      },
+      {
+        "word": "that",
+        "start": 116.219,
+        "end": 116.549
+      },
+      {
+        "word": "helps",
+        "start": 116.589,
+        "end": 117.002
+      },
+      {
+        "word": "us",
+        "start": 117.042,
+        "end": 117.207
+      },
+      {
+        "word": "fall",
+        "start": 117.247,
+        "end": 117.577
+      },
+      {
+        "word": "asleep",
+        "start": 117.617,
+        "end": 118.113
+      }
+    ]
+  },
+  {
+    "text": "Third, create a comfortable sleeping environment by keeping the room cool, dark, and quiet.",
+    "sent_start": 116.953,
+    "sent_end": 123.917,
+    "words": [
+      {
+        "word": "Third",
+        "start": 116.953,
+        "end": 117.423
+      },
+      {
+        "word": "create",
+        "start": 117.463,
+        "end": 118.028
+      },
+      {
+        "word": "a",
+        "start": 118.068,
+        "end": 118.162
+      },
+      {
+        "word": "comfortable",
+        "start": 118.202,
+        "end": 119.237
+      },
+      {
+        "word": "sleeping",
+        "start": 119.277,
+        "end": 120.03
+      },
+      {
+        "word": "environment",
+        "start": 120.07,
+        "end": 121.105
+      },
+      {
+        "word": "by",
+        "start": 121.145,
+        "end": 121.333
+      },
+      {
+        "word": "keeping",
+        "start": 121.373,
+        "end": 122.032
+      },
+      {
+        "word": "the",
+        "start": 122.072,
+        "end": 122.355
+      },
+      {
+        "word": "room",
+        "start": 122.395,
+        "end": 122.771
+      },
+      {
+        "word": "cool",
+        "start": 122.811,
+        "end": 123.187
+      },
+      {
+        "word": "dark",
+        "start": 123.227,
+        "end": 123.604
+      },
+      {
+        "word": "and",
+        "start": 123.644,
+        "end": 123.926
+      },
+      {
+        "word": "quiet",
+        "start": 123.966,
+        "end": 124.437
+      }
+    ]
+  },
+  {
+    "text": "Finally, regular exercise during the day can help you fall asleep faster at night, but avoid working out too close to bedtime.",
+    "sent_start": 123.917,
+    "sent_end": 133.214,
+    "words": [
+      {
+        "word": "Finally",
+        "start": 123.917,
+        "end": 124.555
+      },
+      {
+        "word": "regular",
+        "start": 124.595,
+        "end": 125.233
+      },
+      {
+        "word": "exercise",
+        "start": 125.273,
+        "end": 126.002
+      },
+      {
+        "word": "during",
+        "start": 126.042,
+        "end": 126.589
+      },
+      {
+        "word": "the",
+        "start": 126.629,
+        "end": 126.902
+      },
+      {
+        "word": "day",
+        "start": 126.942,
+        "end": 127.216
+      },
+      {
+        "word": "can",
+        "start": 127.256,
+        "end": 127.529
+      },
+      {
+        "word": "help",
+        "start": 127.569,
+        "end": 127.934
+      },
+      {
+        "word": "you",
+        "start": 127.974,
+        "end": 128.247
+      },
+      {
+        "word": "fall",
+        "start": 128.287,
+        "end": 128.652
+      },
+      {
+        "word": "asleep",
+        "start": 128.692,
+        "end": 129.239
+      },
+      {
+        "word": "faster",
+        "start": 129.279,
+        "end": 129.826
+      },
+      {
+        "word": "at",
+        "start": 129.866,
+        "end": 130.048
+      },
+      {
+        "word": "night",
+        "start": 130.088,
+        "end": 130.544
+      },
+      {
+        "word": "but",
+        "start": 130.584,
+        "end": 130.857
+      },
+      {
+        "word": "avoid",
+        "start": 130.897,
+        "end": 131.353
+      },
+      {
+        "word": "working",
+        "start": 131.393,
+        "end": 132.031
+      },
+      {
+        "word": "out",
+        "start": 132.071,
+        "end": 132.344
+      },
+      {
+        "word": "too",
+        "start": 132.384,
+        "end": 132.658
+      },
+      {
+        "word": "close",
+        "start": 132.698,
+        "end": 133.154
+      },
+      {
+        "word": "to",
+        "start": 133.194,
+        "end": 133.376
+      },
+      {
+        "word": "bedtime",
+        "start": 133.416,
+        "end": 134.054
+      }
+    ]
+  },
+  {
+    "text": "In conclusion, sleep is not a luxury but a basic need.",
+    "sent_start": 133.214,
+    "sent_end": 137.9,
+    "words": [
+      {
+        "word": "In",
+        "start": 133.214,
+        "end": 133.437
+      },
+      {
+        "word": "conclusion",
+        "start": 133.477,
+        "end": 134.593
+      },
+      {
+        "word": "sleep",
+        "start": 134.633,
+        "end": 135.191
+      },
+      {
+        "word": "is",
+        "start": 135.231,
+        "end": 135.454
+      },
+      {
+        "word": "not",
+        "start": 135.494,
+        "end": 135.829
+      },
+      {
+        "word": "a",
+        "start": 135.869,
+        "end": 135.98
+      },
+      {
+        "word": "luxury",
+        "start": 136.02,
+        "end": 136.69
+      },
+      {
+        "word": "but",
+        "start": 136.73,
+        "end": 137.064
+      },
+      {
+        "word": "a",
+        "start": 137.104,
+        "end": 137.216
+      },
+      {
+        "word": "basic",
+        "start": 137.256,
+        "end": 137.814
+      },
+      {
+        "word": "need",
+        "start": 137.854,
+        "end": 138.3
+      }
+    ]
+  },
+  {
+    "text": "Just like proper nutrition and regular exercise, adequate rest is essential for a healthy and balanced life.",
+    "sent_start": 137.9,
+    "sent_end": 145.906,
+    "words": [
+      {
+        "word": "Just",
+        "start": 137.9,
+        "end": 138.256
+      },
+      {
+        "word": "like",
+        "start": 138.296,
+        "end": 138.652
+      },
+      {
+        "word": "proper",
+        "start": 138.692,
+        "end": 139.225
+      },
+      {
+        "word": "nutrition",
+        "start": 139.265,
+        "end": 140.066
+      },
+      {
+        "word": "and",
+        "start": 140.106,
+        "end": 140.373
+      },
+      {
+        "word": "regular",
+        "start": 140.413,
+        "end": 141.035
+      },
+      {
+        "word": "exercise",
+        "start": 141.075,
+        "end": 141.787
+      },
+      {
+        "word": "adequate",
+        "start": 141.827,
+        "end": 142.539
+      },
+      {
+        "word": "rest",
+        "start": 142.579,
+        "end": 142.934
+      },
+      {
+        "word": "is",
+        "start": 142.974,
+        "end": 143.152
+      },
+      {
+        "word": "essential",
+        "start": 143.192,
+        "end": 143.993
+      },
+      {
+        "word": "for",
+        "start": 144.033,
+        "end": 144.3
+      },
+      {
+        "word": "a",
+        "start": 144.34,
+        "end": 144.429
+      },
+      {
+        "word": "healthy",
+        "start": 144.469,
+        "end": 145.091
+      },
+      {
+        "word": "and",
+        "start": 145.131,
+        "end": 145.398
+      },
+      {
+        "word": "balanced",
+        "start": 145.438,
+        "end": 146.15
+      },
+      {
+        "word": "life",
+        "start": 146.19,
+        "end": 146.546
+      }
+    ]
+  },
+  {
+    "text": "Making small changes to your daily routine can lead to significant improvements in both your physical and mental well-being.",
+    "sent_start": 145.906,
+    "sent_end": 153.994,
+    "words": [
+      {
+        "word": "Making",
+        "start": 145.906,
+        "end": 146.372
+      },
+      {
+        "word": "small",
+        "start": 146.412,
+        "end": 146.801
+      },
+      {
+        "word": "changes",
+        "start": 146.841,
+        "end": 147.386
+      },
+      {
+        "word": "to",
+        "start": 147.426,
+        "end": 147.581
+      },
+      {
+        "word": "your",
+        "start": 147.621,
+        "end": 147.932
+      },
+      {
+        "word": "daily",
+        "start": 147.972,
+        "end": 148.361
+      },
+      {
+        "word": "routine",
+        "start": 148.401,
+        "end": 148.946
+      },
+      {
+        "word": "can",
+        "start": 148.986,
+        "end": 149.219
+      },
+      {
+        "word": "lead",
+        "start": 149.259,
+        "end": 149.57
+      },
+      {
+        "word": "to",
+        "start": 149.61,
+        "end": 149.766
+      },
+      {
+        "word": "significant",
+        "start": 149.806,
+        "end": 150.661
+      },
+      {
+        "word": "improvements",
+        "start": 150.701,
+        "end": 151.634
+      },
+      {
+        "word": "in",
+        "start": 151.674,
+        "end": 151.83
+      },
+      {
+        "word": "both",
+        "start": 151.87,
+        "end": 152.181
+      },
+      {
+        "word": "your",
+        "start": 152.221,
+        "end": 152.532
+      },
+      {
+        "word": "physical",
+        "start": 152.572,
+        "end": 153.194
+      },
+      {
+        "word": "and",
+        "start": 153.234,
+        "end": 153.468
+      },
+      {
+        "word": "mental",
+        "start": 153.508,
+        "end": 153.974
+      },
+      {
+        "word": "well",
+        "start": 154.014,
+        "end": 154.326
+      },
+      {
+        "word": "being",
+        "start": 154.366,
+        "end": 154.754
+      }
+    ]
+  }
+]

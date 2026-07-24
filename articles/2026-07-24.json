@@ -1,0 +1,78 @@
+{
+  "morning": {
+    "title_en": "The Importance of Good Sleep",
+    "title_cn": "良好睡眠的重要性",
+    "level": "CET-4",
+    "content_en": "Getting a good night's sleep is one of the most important things we can do for our health. Yet many people today struggle with sleep problems. According to recent studies, nearly one-third of adults do not get enough rest each night. This can lead to serious physical and mental health issues over time.\n\nScientists have found that sleep plays a key role in how our bodies repair themselves. During deep sleep, the body produces hormones that help muscles grow and tissues heal. The immune system also becomes stronger when we rest well. People who sleep less than six hours a night are more likely to catch colds and other infections.\n\nSleep also has a huge effect on our brain. While we sleep, the brain processes information from the day and stores it as long-term memories. This means that students who get enough rest before an exam often perform better than those who stay up all night studying. Lack of sleep can also make it harder to concentrate, solve problems, and make decisions.\n\nAnother important aspect is emotional health. When we are tired, we tend to feel more stressed and anxious. Research shows that poor sleep is closely linked to depression and mood disorders. On the other hand, a good night's rest can improve our mood and help us handle daily challenges with a more positive attitude.\n\nExperts suggest several ways to improve sleep quality. First, try to go to bed and wake up at the same time every day, even on weekends. Second, avoid using electronic devices at least thirty minutes before bedtime, because the blue light from screens can delay the release of melatonin, the hormone that helps us fall asleep. Third, create a comfortable sleeping environment by keeping the room cool, dark, and quiet. Finally, regular exercise during the day can help you fall asleep faster at night, but avoid working out too close to bedtime.\n\nIn conclusion, sleep is not a luxury but a basic need. Just like proper nutrition and regular exercise, adequate rest is essential for a healthy and balanced life. Making small changes to your daily routine can lead to significant improvements in both your physical and mental well-being.",
+    "content_cn": "获得一夜好眠是我们可以为健康做的最重要的事情之一。然而，如今许多人都受到睡眠问题的困扰。根据最近的研究，近三分之一的成年人每晚得不到足够的休息。随着时间的推移，这可能导致严重的身体和心理健康问题。\n\n科学家发现，睡眠在我们身体的自我修复过程中起着关键作用。在深度睡眠期间，身体会产生帮助肌肉生长和组织愈合的激素。当我们休息良好时，免疫系统也会变得更强壮。每晚睡眠少于六小时的人更容易感冒和感染其他疾病。\n\n睡眠对我们的大脑也有巨大影响。在我们睡觉时，大脑会处理白天的信息并将其储存为长期记忆。这意味着在考试前得到充足休息的学生往往比通宵学习的学生表现更好。缺乏睡眠还会使我们更难集中注意力、解决问题和做出决定。\n\n另一个重要方面是情绪健康。当我们疲倦时，往往感到更大的压力和焦虑。研究表明，睡眠质量差与抑郁症和情绪障碍密切相关。另一方面，一夜好的休息可以改善我们的情绪，帮助我们以更积极的态度应对日常挑战。\n\n专家建议了几种提高睡眠质量的方法。首先，尽量每天在同一时间上床睡觉和起床，即使在周末也是如此。其次，至少在睡前三十分钟避免使用电子设备，因为屏幕发出的蓝光会延迟褪黑素的释放，而褪黑素是帮助我们入睡的激素。第三，通过保持房间凉爽、黑暗和安静来创造舒适的睡眠环境。最后，白天定期运动可以帮助你更快入睡，但要避免在接近睡觉时间锻炼。\n\n总之，睡眠不是一种奢侈，而是基本需求。就像适当的营养和规律的运动一样，充足的休息对于健康平衡的生活至关重要。对日常作息做一些小的改变，就能在身体和精神健康方面带来显著的改善。",
+    "vocabulary": [
+      {
+        "word": "struggle",
+        "phonetic": "/ˈstrʌɡl/",
+        "meaning": "挣扎，艰难地做"
+      },
+      {
+        "word": "hormone",
+        "phonetic": "/ˈhɔːrmoʊn/",
+        "meaning": "激素，荷尔蒙"
+      },
+      {
+        "word": "immune",
+        "phonetic": "/ɪˈmjuːn/",
+        "meaning": "免疫的"
+      },
+      {
+        "word": "infection",
+        "phonetic": "/ɪnˈfekʃn/",
+        "meaning": "感染，传染病"
+      },
+      {
+        "word": "concentrate",
+        "phonetic": "/ˈkɒnsntreɪt/",
+        "meaning": "集中注意力"
+      },
+      {
+        "word": "emotional",
+        "phonetic": "/ɪˈmoʊʃənl/",
+        "meaning": "情绪的，情感的"
+      },
+      {
+        "word": "anxious",
+        "phonetic": "/ˈæŋkʃəs/",
+        "meaning": "焦虑的，不安的"
+      },
+      {
+        "word": "depression",
+        "phonetic": "/dɪˈpreʃn/",
+        "meaning": "抑郁，沮丧"
+      },
+      {
+        "word": "melatonin",
+        "phonetic": "/ˌmeləˈtoʊnɪn/",
+        "meaning": "褪黑素"
+      },
+      {
+        "word": "nutrition",
+        "phonetic": "/nuˈtrɪʃn/",
+        "meaning": "营养，营养学"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "During deep sleep, the body produces hormones that help muscles grow and tissues heal.",
+        "cn": "在深度睡眠期间，身体会产生帮助肌肉生长和组织愈合的激素。",
+        "grammar": "that 引导定语从句修饰 hormones；help 后接宾语 muscles/tissues 和不带 to 的不定式 grow/heal 作宾补。"
+      },
+      {
+        "en": "This means that students who get enough rest before an exam often perform better than those who stay up all night studying.",
+        "cn": "这意味着在考试前得到充足休息的学生往往比通宵学习的学生表现更好。",
+        "grammar": "that 引导宾语从句；who 引导两个定语从句分别修饰 students 和 those；perform better than 为比较级结构。"
+      },
+      {
+        "en": "Avoid using electronic devices at least thirty minutes before bedtime, because the blue light from screens can delay the release of melatonin, the hormone that helps us fall asleep.",
+        "cn": "至少在睡前三十分钟避免使用电子设备，因为屏幕发出的蓝光会延迟褪黑素的释放，而褪黑素是帮助我们入睡的激素。",
+        "grammar": "because 引导原因状语从句；the hormone 是 melatonin 的同位语；最后一个 that 引导定语从句修饰 the hormone。"
+      }
+    ]
+  }
+}
