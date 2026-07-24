@@ -1,0 +1,1962 @@
+[
+  {
+    "text": "The power grid is one of the most complex systems ever built by humanity.",
+    "sent_start": 0.1,
+    "sent_end": 5.467,
+    "words": [
+      {
+        "word": "The",
+        "start": 0.1,
+        "end": 0.394
+      },
+      {
+        "word": "power",
+        "start": 0.394,
+        "end": 0.835
+      },
+      {
+        "word": "grid",
+        "start": 0.835,
+        "end": 1.203
+      },
+      {
+        "word": "is",
+        "start": 1.203,
+        "end": 1.423
+      },
+      {
+        "word": "one",
+        "start": 1.423,
+        "end": 1.717
+      },
+      {
+        "word": "of",
+        "start": 1.717,
+        "end": 1.938
+      },
+      {
+        "word": "the",
+        "start": 1.938,
+        "end": 2.232
+      },
+      {
+        "word": "most",
+        "start": 2.232,
+        "end": 2.6
+      },
+      {
+        "word": "complex",
+        "start": 2.6,
+        "end": 3.188
+      },
+      {
+        "word": "systems",
+        "start": 3.188,
+        "end": 3.776
+      },
+      {
+        "word": "ever",
+        "start": 3.776,
+        "end": 4.143
+      },
+      {
+        "word": "built",
+        "start": 4.143,
+        "end": 4.584
+      },
+      {
+        "word": "by",
+        "start": 4.584,
+        "end": 4.805
+      },
+      {
+        "word": "humanity.",
+        "start": 4.805,
+        "end": 5.54
+      }
+    ]
+  },
+  {
+    "text": "Every second, supply and demand must stay perfectly balanced across thousands of miles of transmission lines.",
+    "sent_start": 5.417,
+    "sent_end": 13.194,
+    "words": [
+      {
+        "word": "Every",
+        "start": 5.417,
+        "end": 5.845
+      },
+      {
+        "word": "second,",
+        "start": 5.845,
+        "end": 6.416
+      },
+      {
+        "word": "supply",
+        "start": 6.416,
+        "end": 6.915
+      },
+      {
+        "word": "and",
+        "start": 6.915,
+        "end": 7.201
+      },
+      {
+        "word": "demand",
+        "start": 7.201,
+        "end": 7.7
+      },
+      {
+        "word": "must",
+        "start": 7.7,
+        "end": 8.057
+      },
+      {
+        "word": "stay",
+        "start": 8.057,
+        "end": 8.414
+      },
+      {
+        "word": "perfectly",
+        "start": 8.414,
+        "end": 9.127
+      },
+      {
+        "word": "balanced",
+        "start": 9.127,
+        "end": 9.769
+      },
+      {
+        "word": "across",
+        "start": 9.769,
+        "end": 10.269
+      },
+      {
+        "word": "thousands",
+        "start": 10.269,
+        "end": 10.982
+      },
+      {
+        "word": "of",
+        "start": 10.982,
+        "end": 11.196
+      },
+      {
+        "word": "miles",
+        "start": 11.196,
+        "end": 11.625
+      },
+      {
+        "word": "of",
+        "start": 11.625,
+        "end": 11.839
+      },
+      {
+        "word": "transmission",
+        "start": 11.839,
+        "end": 12.766
+      },
+      {
+        "word": "lines.",
+        "start": 12.766,
+        "end": 13.266
+      }
+    ]
+  },
+  {
+    "text": "Today, a new technology is helping grid operators manage this complexity: autonomous AI agents.",
+    "sent_start": 13.194,
+    "sent_end": 20.708,
+    "words": [
+      {
+        "word": "Today,",
+        "start": 13.194,
+        "end": 13.748
+      },
+      {
+        "word": "a",
+        "start": 13.748,
+        "end": 13.906
+      },
+      {
+        "word": "new",
+        "start": 13.906,
+        "end": 14.223
+      },
+      {
+        "word": "technology",
+        "start": 14.223,
+        "end": 15.093
+      },
+      {
+        "word": "is",
+        "start": 15.093,
+        "end": 15.33
+      },
+      {
+        "word": "helping",
+        "start": 15.33,
+        "end": 15.963
+      },
+      {
+        "word": "grid",
+        "start": 15.963,
+        "end": 16.358
+      },
+      {
+        "word": "operators",
+        "start": 16.358,
+        "end": 17.149
+      },
+      {
+        "word": "manage",
+        "start": 17.149,
+        "end": 17.703
+      },
+      {
+        "word": "this",
+        "start": 17.703,
+        "end": 18.098
+      },
+      {
+        "word": "complexity:",
+        "start": 18.098,
+        "end": 19.047
+      },
+      {
+        "word": "autonomous",
+        "start": 19.047,
+        "end": 19.917
+      },
+      {
+        "word": "AI",
+        "start": 19.917,
+        "end": 20.155
+      },
+      {
+        "word": "agents.",
+        "start": 20.155,
+        "end": 20.787
+      }
+    ]
+  },
+  {
+    "text": "Unlike traditional software that follows fixed rules, AI agents can observe their environment, make decisions, and take actions to achieve specific goals.",
+    "sent_start": 20.708,
+    "sent_end": 31.458,
+    "words": [
+      {
+        "word": "Unlike",
+        "start": 20.708,
+        "end": 21.197
+      },
+      {
+        "word": "traditional",
+        "start": 21.197,
+        "end": 22.035
+      },
+      {
+        "word": "software",
+        "start": 22.035,
+        "end": 22.663
+      },
+      {
+        "word": "that",
+        "start": 22.663,
+        "end": 23.012
+      },
+      {
+        "word": "follows",
+        "start": 23.012,
+        "end": 23.57
+      },
+      {
+        "word": "fixed",
+        "start": 23.57,
+        "end": 23.989
+      },
+      {
+        "word": "rules,",
+        "start": 23.989,
+        "end": 24.478
+      },
+      {
+        "word": "AI",
+        "start": 24.478,
+        "end": 24.687
+      },
+      {
+        "word": "agents",
+        "start": 24.687,
+        "end": 25.176
+      },
+      {
+        "word": "can",
+        "start": 25.176,
+        "end": 25.455
+      },
+      {
+        "word": "observe",
+        "start": 25.455,
+        "end": 26.014
+      },
+      {
+        "word": "their",
+        "start": 26.014,
+        "end": 26.432
+      },
+      {
+        "word": "environment,",
+        "start": 26.432,
+        "end": 27.34
+      },
+      {
+        "word": "make",
+        "start": 27.34,
+        "end": 27.689
+      },
+      {
+        "word": "decisions,",
+        "start": 27.689,
+        "end": 28.457
+      },
+      {
+        "word": "and",
+        "start": 28.457,
+        "end": 28.736
+      },
+      {
+        "word": "take",
+        "start": 28.736,
+        "end": 29.085
+      },
+      {
+        "word": "actions",
+        "start": 29.085,
+        "end": 29.643
+      },
+      {
+        "word": "to",
+        "start": 29.643,
+        "end": 29.853
+      },
+      {
+        "word": "achieve",
+        "start": 29.853,
+        "end": 30.411
+      },
+      {
+        "word": "specific",
+        "start": 30.411,
+        "end": 31.04
+      },
+      {
+        "word": "goals.",
+        "start": 31.04,
+        "end": 31.528
+      }
+    ]
+  },
+  {
+    "text": "In the context of smart grids, these agents monitor real-time data from sensors, weather stations, and market platforms.",
+    "sent_start": 31.458,
+    "sent_end": 40.389,
+    "words": [
+      {
+        "word": "In",
+        "start": 31.458,
+        "end": 31.682
+      },
+      {
+        "word": "the",
+        "start": 31.682,
+        "end": 31.979
+      },
+      {
+        "word": "context",
+        "start": 31.979,
+        "end": 32.575
+      },
+      {
+        "word": "of",
+        "start": 32.575,
+        "end": 32.798
+      },
+      {
+        "word": "smart",
+        "start": 32.798,
+        "end": 33.244
+      },
+      {
+        "word": "grids,",
+        "start": 33.244,
+        "end": 33.765
+      },
+      {
+        "word": "these",
+        "start": 33.765,
+        "end": 34.212
+      },
+      {
+        "word": "agents",
+        "start": 34.212,
+        "end": 34.733
+      },
+      {
+        "word": "monitor",
+        "start": 34.733,
+        "end": 35.328
+      },
+      {
+        "word": "real-time",
+        "start": 35.328,
+        "end": 36.072
+      },
+      {
+        "word": "data",
+        "start": 36.072,
+        "end": 36.445
+      },
+      {
+        "word": "from",
+        "start": 36.445,
+        "end": 36.817
+      },
+      {
+        "word": "sensors,",
+        "start": 36.817,
+        "end": 37.486
+      },
+      {
+        "word": "weather",
+        "start": 37.486,
+        "end": 38.082
+      },
+      {
+        "word": "stations,",
+        "start": 38.082,
+        "end": 38.826
+      },
+      {
+        "word": "and",
+        "start": 38.826,
+        "end": 39.124
+      },
+      {
+        "word": "market",
+        "start": 39.124,
+        "end": 39.645
+      },
+      {
+        "word": "platforms.",
+        "start": 39.645,
+        "end": 40.463
+      }
+    ]
+  },
+  {
+    "text": "When they detect a potential imbalance, such as a sudden drop in solar output due to cloud cover, they can automatically adjust battery storage, reroute power flows, or activate demand response programs within milliseconds.",
+    "sent_start": 40.389,
+    "sent_end": 55.778,
+    "words": [
+      {
+        "word": "When",
+        "start": 40.389,
+        "end": 40.734
+      },
+      {
+        "word": "they",
+        "start": 40.734,
+        "end": 41.079
+      },
+      {
+        "word": "detect",
+        "start": 41.079,
+        "end": 41.562
+      },
+      {
+        "word": "a",
+        "start": 41.562,
+        "end": 41.7
+      },
+      {
+        "word": "potential",
+        "start": 41.7,
+        "end": 42.39
+      },
+      {
+        "word": "imbalance,",
+        "start": 42.39,
+        "end": 43.149
+      },
+      {
+        "word": "such",
+        "start": 43.149,
+        "end": 43.494
+      },
+      {
+        "word": "as",
+        "start": 43.494,
+        "end": 43.701
+      },
+      {
+        "word": "a",
+        "start": 43.701,
+        "end": 43.839
+      },
+      {
+        "word": "sudden",
+        "start": 43.839,
+        "end": 44.322
+      },
+      {
+        "word": "drop",
+        "start": 44.322,
+        "end": 44.667
+      },
+      {
+        "word": "in",
+        "start": 44.667,
+        "end": 44.874
+      },
+      {
+        "word": "solar",
+        "start": 44.874,
+        "end": 45.288
+      },
+      {
+        "word": "output",
+        "start": 45.288,
+        "end": 45.772
+      },
+      {
+        "word": "due",
+        "start": 45.772,
+        "end": 46.048
+      },
+      {
+        "word": "to",
+        "start": 46.048,
+        "end": 46.255
+      },
+      {
+        "word": "cloud",
+        "start": 46.255,
+        "end": 46.669
+      },
+      {
+        "word": "cover,",
+        "start": 46.669,
+        "end": 47.152
+      },
+      {
+        "word": "they",
+        "start": 47.152,
+        "end": 47.497
+      },
+      {
+        "word": "can",
+        "start": 47.497,
+        "end": 47.773
+      },
+      {
+        "word": "automatically",
+        "start": 47.773,
+        "end": 48.739
+      },
+      {
+        "word": "adjust",
+        "start": 48.739,
+        "end": 49.222
+      },
+      {
+        "word": "battery",
+        "start": 49.222,
+        "end": 49.774
+      },
+      {
+        "word": "storage,",
+        "start": 49.774,
+        "end": 50.395
+      },
+      {
+        "word": "reroute",
+        "start": 50.395,
+        "end": 50.947
+      },
+      {
+        "word": "power",
+        "start": 50.947,
+        "end": 51.361
+      },
+      {
+        "word": "flows,",
+        "start": 51.361,
+        "end": 51.844
+      },
+      {
+        "word": "or",
+        "start": 51.844,
+        "end": 52.051
+      },
+      {
+        "word": "activate",
+        "start": 52.051,
+        "end": 52.672
+      },
+      {
+        "word": "demand",
+        "start": 52.672,
+        "end": 53.155
+      },
+      {
+        "word": "response",
+        "start": 53.155,
+        "end": 53.777
+      },
+      {
+        "word": "programs",
+        "start": 53.777,
+        "end": 54.398
+      },
+      {
+        "word": "within",
+        "start": 54.398,
+        "end": 54.881
+      },
+      {
+        "word": "milliseconds.",
+        "start": 54.881,
+        "end": 55.847
+      }
+    ]
+  },
+  {
+    "text": "One promising application is distributed energy resource management.",
+    "sent_start": 55.778,
+    "sent_end": 60.944,
+    "words": [
+      {
+        "word": "One",
+        "start": 55.778,
+        "end": 56.082
+      },
+      {
+        "word": "promising",
+        "start": 56.082,
+        "end": 56.842
+      },
+      {
+        "word": "application",
+        "start": 56.842,
+        "end": 57.753
+      },
+      {
+        "word": "is",
+        "start": 57.753,
+        "end": 57.981
+      },
+      {
+        "word": "distributed",
+        "start": 57.981,
+        "end": 58.893
+      },
+      {
+        "word": "energy",
+        "start": 58.893,
+        "end": 59.425
+      },
+      {
+        "word": "resource",
+        "start": 59.425,
+        "end": 60.109
+      },
+      {
+        "word": "management.",
+        "start": 60.109,
+        "end": 61.02
+      }
+    ]
+  },
+  {
+    "text": "As more homes install rooftop solar panels and battery systems, the grid faces a growing challenge: millions of small generators that can inject or withdraw power unpredictably.",
+    "sent_start": 60.944,
+    "sent_end": 72.778,
+    "words": [
+      {
+        "word": "As",
+        "start": 60.944,
+        "end": 61.145
+      },
+      {
+        "word": "more",
+        "start": 61.145,
+        "end": 61.479
+      },
+      {
+        "word": "homes",
+        "start": 61.479,
+        "end": 61.88
+      },
+      {
+        "word": "install",
+        "start": 61.88,
+        "end": 62.415
+      },
+      {
+        "word": "rooftop",
+        "start": 62.415,
+        "end": 62.95
+      },
+      {
+        "word": "solar",
+        "start": 62.95,
+        "end": 63.351
+      },
+      {
+        "word": "panels",
+        "start": 63.351,
+        "end": 63.819
+      },
+      {
+        "word": "and",
+        "start": 63.819,
+        "end": 64.087
+      },
+      {
+        "word": "battery",
+        "start": 64.087,
+        "end": 64.621
+      },
+      {
+        "word": "systems,",
+        "start": 64.621,
+        "end": 65.223
+      },
+      {
+        "word": "the",
+        "start": 65.223,
+        "end": 65.491
+      },
+      {
+        "word": "grid",
+        "start": 65.491,
+        "end": 65.825
+      },
+      {
+        "word": "faces",
+        "start": 65.825,
+        "end": 66.226
+      },
+      {
+        "word": "a",
+        "start": 66.226,
+        "end": 66.36
+      },
+      {
+        "word": "growing",
+        "start": 66.36,
+        "end": 66.895
+      },
+      {
+        "word": "challenge:",
+        "start": 66.895,
+        "end": 67.63
+      },
+      {
+        "word": "millions",
+        "start": 67.63,
+        "end": 68.232
+      },
+      {
+        "word": "of",
+        "start": 68.232,
+        "end": 68.432
+      },
+      {
+        "word": "small",
+        "start": 68.432,
+        "end": 68.833
+      },
+      {
+        "word": "generators",
+        "start": 68.833,
+        "end": 69.569
+      },
+      {
+        "word": "that",
+        "start": 69.569,
+        "end": 69.903
+      },
+      {
+        "word": "can",
+        "start": 69.903,
+        "end": 70.17
+      },
+      {
+        "word": "inject",
+        "start": 70.17,
+        "end": 70.638
+      },
+      {
+        "word": "or",
+        "start": 70.638,
+        "end": 70.839
+      },
+      {
+        "word": "withdraw",
+        "start": 70.839,
+        "end": 71.441
+      },
+      {
+        "word": "power",
+        "start": 71.441,
+        "end": 71.842
+      },
+      {
+        "word": "unpredictably.",
+        "start": 71.842,
+        "end": 72.845
+      }
+    ]
+  },
+  {
+    "text": "AI agents can coordinate these distributed resources by creating virtual power plants that aggregate thousands of devices and operate them as a single controllable unit.",
+    "sent_start": 72.778,
+    "sent_end": 84.25,
+    "words": [
+      {
+        "word": "AI",
+        "start": 72.778,
+        "end": 72.981
+      },
+      {
+        "word": "agents",
+        "start": 72.981,
+        "end": 73.457
+      },
+      {
+        "word": "can",
+        "start": 73.457,
+        "end": 73.728
+      },
+      {
+        "word": "coordinate",
+        "start": 73.728,
+        "end": 74.475
+      },
+      {
+        "word": "these",
+        "start": 74.475,
+        "end": 74.882
+      },
+      {
+        "word": "distributed",
+        "start": 74.882,
+        "end": 75.697
+      },
+      {
+        "word": "resources",
+        "start": 75.697,
+        "end": 76.376
+      },
+      {
+        "word": "by",
+        "start": 76.376,
+        "end": 76.579
+      },
+      {
+        "word": "creating",
+        "start": 76.579,
+        "end": 77.19
+      },
+      {
+        "word": "virtual",
+        "start": 77.19,
+        "end": 77.733
+      },
+      {
+        "word": "power",
+        "start": 77.733,
+        "end": 78.141
+      },
+      {
+        "word": "plants",
+        "start": 78.141,
+        "end": 78.616
+      },
+      {
+        "word": "that",
+        "start": 78.616,
+        "end": 78.955
+      },
+      {
+        "word": "aggregate",
+        "start": 78.955,
+        "end": 79.634
+      },
+      {
+        "word": "thousands",
+        "start": 79.634,
+        "end": 80.313
+      },
+      {
+        "word": "of",
+        "start": 80.313,
+        "end": 80.516
+      },
+      {
+        "word": "devices",
+        "start": 80.516,
+        "end": 81.06
+      },
+      {
+        "word": "and",
+        "start": 81.06,
+        "end": 81.331
+      },
+      {
+        "word": "operate",
+        "start": 81.331,
+        "end": 81.874
+      },
+      {
+        "word": "them",
+        "start": 81.874,
+        "end": 82.214
+      },
+      {
+        "word": "as",
+        "start": 82.214,
+        "end": 82.417
+      },
+      {
+        "word": "a",
+        "start": 82.417,
+        "end": 82.553
+      },
+      {
+        "word": "single",
+        "start": 82.553,
+        "end": 83.028
+      },
+      {
+        "word": "controllable",
+        "start": 83.028,
+        "end": 83.911
+      },
+      {
+        "word": "unit.",
+        "start": 83.911,
+        "end": 84.318
+      }
+    ]
+  },
+  {
+    "text": "Another area where agents excel is predictive maintenance.",
+    "sent_start": 84.25,
+    "sent_end": 88.847,
+    "words": [
+      {
+        "word": "Another",
+        "start": 84.25,
+        "end": 84.884
+      },
+      {
+        "word": "area",
+        "start": 84.884,
+        "end": 85.28
+      },
+      {
+        "word": "where",
+        "start": 85.28,
+        "end": 85.756
+      },
+      {
+        "word": "agents",
+        "start": 85.756,
+        "end": 86.311
+      },
+      {
+        "word": "excel",
+        "start": 86.311,
+        "end": 86.786
+      },
+      {
+        "word": "is",
+        "start": 86.786,
+        "end": 87.024
+      },
+      {
+        "word": "predictive",
+        "start": 87.024,
+        "end": 87.896
+      },
+      {
+        "word": "maintenance.",
+        "start": 87.896,
+        "end": 88.926
+      }
+    ]
+  },
+  {
+    "text": "Instead of scheduling inspections on fixed calendars, AI agents continuously analyze vibration data, thermal images, and acoustic signals from transformers and substations.",
+    "sent_start": 88.847,
+    "sent_end": 101.472,
+    "words": [
+      {
+        "word": "Instead",
+        "start": 88.847,
+        "end": 89.434
+      },
+      {
+        "word": "of",
+        "start": 89.434,
+        "end": 89.655
+      },
+      {
+        "word": "scheduling",
+        "start": 89.655,
+        "end": 90.462
+      },
+      {
+        "word": "inspections",
+        "start": 90.462,
+        "end": 91.343
+      },
+      {
+        "word": "on",
+        "start": 91.343,
+        "end": 91.563
+      },
+      {
+        "word": "fixed",
+        "start": 91.563,
+        "end": 92.003
+      },
+      {
+        "word": "calendars,",
+        "start": 92.003,
+        "end": 92.811
+      },
+      {
+        "word": "AI",
+        "start": 92.811,
+        "end": 93.031
+      },
+      {
+        "word": "agents",
+        "start": 93.031,
+        "end": 93.545
+      },
+      {
+        "word": "continuously",
+        "start": 93.545,
+        "end": 94.499
+      },
+      {
+        "word": "analyze",
+        "start": 94.499,
+        "end": 95.086
+      },
+      {
+        "word": "vibration",
+        "start": 95.086,
+        "end": 95.82
+      },
+      {
+        "word": "data,",
+        "start": 95.82,
+        "end": 96.261
+      },
+      {
+        "word": "thermal",
+        "start": 96.261,
+        "end": 96.848
+      },
+      {
+        "word": "images,",
+        "start": 96.848,
+        "end": 97.435
+      },
+      {
+        "word": "and",
+        "start": 97.435,
+        "end": 97.729
+      },
+      {
+        "word": "acoustic",
+        "start": 97.729,
+        "end": 98.389
+      },
+      {
+        "word": "signals",
+        "start": 98.389,
+        "end": 98.977
+      },
+      {
+        "word": "from",
+        "start": 98.977,
+        "end": 99.344
+      },
+      {
+        "word": "transformers",
+        "start": 99.344,
+        "end": 100.298
+      },
+      {
+        "word": "and",
+        "start": 100.298,
+        "end": 100.591
+      },
+      {
+        "word": "substations.",
+        "start": 100.591,
+        "end": 101.546
+      }
+    ]
+  },
+  {
+    "text": "They learn to recognize patterns that precede equipment failures and can dispatch repair crews before outages occur.",
+    "sent_start": 101.472,
+    "sent_end": 109.236,
+    "words": [
+      {
+        "word": "They",
+        "start": 101.472,
+        "end": 101.807
+      },
+      {
+        "word": "learn",
+        "start": 101.807,
+        "end": 102.208
+      },
+      {
+        "word": "to",
+        "start": 102.208,
+        "end": 102.409
+      },
+      {
+        "word": "recognize",
+        "start": 102.409,
+        "end": 103.079
+      },
+      {
+        "word": "patterns",
+        "start": 103.079,
+        "end": 103.681
+      },
+      {
+        "word": "that",
+        "start": 103.681,
+        "end": 104.016
+      },
+      {
+        "word": "precede",
+        "start": 104.016,
+        "end": 104.551
+      },
+      {
+        "word": "equipment",
+        "start": 104.551,
+        "end": 105.22
+      },
+      {
+        "word": "failures",
+        "start": 105.22,
+        "end": 105.823
+      },
+      {
+        "word": "and",
+        "start": 105.823,
+        "end": 106.09
+      },
+      {
+        "word": "can",
+        "start": 106.09,
+        "end": 106.358
+      },
+      {
+        "word": "dispatch",
+        "start": 106.358,
+        "end": 106.96
+      },
+      {
+        "word": "repair",
+        "start": 106.96,
+        "end": 107.429
+      },
+      {
+        "word": "crews",
+        "start": 107.429,
+        "end": 107.831
+      },
+      {
+        "word": "before",
+        "start": 107.831,
+        "end": 108.299
+      },
+      {
+        "word": "outages",
+        "start": 108.299,
+        "end": 108.835
+      },
+      {
+        "word": "occur.",
+        "start": 108.835,
+        "end": 109.303
+      }
+    ]
+  },
+  {
+    "text": "This approach has been shown to reduce unplanned downtime by up to forty percent in pilot projects.",
+    "sent_start": 109.236,
+    "sent_end": 115.972,
+    "words": [
+      {
+        "word": "This",
+        "start": 109.236,
+        "end": 109.576
+      },
+      {
+        "word": "approach",
+        "start": 109.576,
+        "end": 110.189
+      },
+      {
+        "word": "has",
+        "start": 110.189,
+        "end": 110.461
+      },
+      {
+        "word": "been",
+        "start": 110.461,
+        "end": 110.801
+      },
+      {
+        "word": "shown",
+        "start": 110.801,
+        "end": 111.209
+      },
+      {
+        "word": "to",
+        "start": 111.209,
+        "end": 111.413
+      },
+      {
+        "word": "reduce",
+        "start": 111.413,
+        "end": 111.89
+      },
+      {
+        "word": "unplanned",
+        "start": 111.89,
+        "end": 112.57
+      },
+      {
+        "word": "downtime",
+        "start": 112.57,
+        "end": 113.183
+      },
+      {
+        "word": "by",
+        "start": 113.183,
+        "end": 113.387
+      },
+      {
+        "word": "up",
+        "start": 113.387,
+        "end": 113.591
+      },
+      {
+        "word": "to",
+        "start": 113.591,
+        "end": 113.795
+      },
+      {
+        "word": "forty",
+        "start": 113.795,
+        "end": 114.203
+      },
+      {
+        "word": "percent",
+        "start": 114.203,
+        "end": 114.747
+      },
+      {
+        "word": "in",
+        "start": 114.747,
+        "end": 114.952
+      },
+      {
+        "word": "pilot",
+        "start": 114.952,
+        "end": 115.36
+      },
+      {
+        "word": "projects.",
+        "start": 115.36,
+        "end": 116.04
+      }
+    ]
+  },
+  {
+    "text": "Cybersecurity is also being transformed by AI agents.",
+    "sent_start": 115.972,
+    "sent_end": 120.736,
+    "words": [
+      {
+        "word": "Cybersecurity",
+        "start": 115.972,
+        "end": 117.231
+      },
+      {
+        "word": "is",
+        "start": 117.231,
+        "end": 117.5
+      },
+      {
+        "word": "also",
+        "start": 117.5,
+        "end": 117.95
+      },
+      {
+        "word": "being",
+        "start": 117.95,
+        "end": 118.489
+      },
+      {
+        "word": "transformed",
+        "start": 118.489,
+        "end": 119.568
+      },
+      {
+        "word": "by",
+        "start": 119.568,
+        "end": 119.837
+      },
+      {
+        "word": "AI",
+        "start": 119.837,
+        "end": 120.107
+      },
+      {
+        "word": "agents.",
+        "start": 120.107,
+        "end": 120.826
+      }
+    ]
+  },
+  {
+    "text": "Grid operators face constant threats from hackers who could disrupt power to entire cities.",
+    "sent_start": 120.736,
+    "sent_end": 127.139,
+    "words": [
+      {
+        "word": "Grid",
+        "start": 120.736,
+        "end": 121.088
+      },
+      {
+        "word": "operators",
+        "start": 121.088,
+        "end": 121.792
+      },
+      {
+        "word": "face",
+        "start": 121.792,
+        "end": 122.143
+      },
+      {
+        "word": "constant",
+        "start": 122.143,
+        "end": 122.777
+      },
+      {
+        "word": "threats",
+        "start": 122.777,
+        "end": 123.339
+      },
+      {
+        "word": "from",
+        "start": 123.339,
+        "end": 123.691
+      },
+      {
+        "word": "hackers",
+        "start": 123.691,
+        "end": 124.254
+      },
+      {
+        "word": "who",
+        "start": 124.254,
+        "end": 124.536
+      },
+      {
+        "word": "could",
+        "start": 124.536,
+        "end": 124.958
+      },
+      {
+        "word": "disrupt",
+        "start": 124.958,
+        "end": 125.521
+      },
+      {
+        "word": "power",
+        "start": 125.521,
+        "end": 125.943
+      },
+      {
+        "word": "to",
+        "start": 125.943,
+        "end": 126.154
+      },
+      {
+        "word": "entire",
+        "start": 126.154,
+        "end": 126.646
+      },
+      {
+        "word": "cities.",
+        "start": 126.646,
+        "end": 127.209
+      }
+    ]
+  },
+  {
+    "text": "Autonomous defense agents patrol the network around the clock, detecting suspicious traffic patterns and isolating compromised segments before attacks spread.",
+    "sent_start": 127.139,
+    "sent_end": 137.764,
+    "words": [
+      {
+        "word": "Autonomous",
+        "start": 127.139,
+        "end": 127.879
+      },
+      {
+        "word": "defense",
+        "start": 127.879,
+        "end": 128.417
+      },
+      {
+        "word": "agents",
+        "start": 128.417,
+        "end": 128.887
+      },
+      {
+        "word": "patrol",
+        "start": 128.887,
+        "end": 129.358
+      },
+      {
+        "word": "the",
+        "start": 129.358,
+        "end": 129.627
+      },
+      {
+        "word": "network",
+        "start": 129.627,
+        "end": 130.165
+      },
+      {
+        "word": "around",
+        "start": 130.165,
+        "end": 130.636
+      },
+      {
+        "word": "the",
+        "start": 130.636,
+        "end": 130.905
+      },
+      {
+        "word": "clock,",
+        "start": 130.905,
+        "end": 131.375
+      },
+      {
+        "word": "detecting",
+        "start": 131.375,
+        "end": 132.048
+      },
+      {
+        "word": "suspicious",
+        "start": 132.048,
+        "end": 132.788
+      },
+      {
+        "word": "traffic",
+        "start": 132.788,
+        "end": 133.326
+      },
+      {
+        "word": "patterns",
+        "start": 133.326,
+        "end": 133.931
+      },
+      {
+        "word": "and",
+        "start": 133.931,
+        "end": 134.2
+      },
+      {
+        "word": "isolating",
+        "start": 134.2,
+        "end": 134.872
+      },
+      {
+        "word": "compromised",
+        "start": 134.872,
+        "end": 135.679
+      },
+      {
+        "word": "segments",
+        "start": 135.679,
+        "end": 136.284
+      },
+      {
+        "word": "before",
+        "start": 136.284,
+        "end": 136.755
+      },
+      {
+        "word": "attacks",
+        "start": 136.755,
+        "end": 137.293
+      },
+      {
+        "word": "spread.",
+        "start": 137.293,
+        "end": 137.831
+      }
+    ]
+  },
+  {
+    "text": "These systems can respond faster than any human analyst, making them essential for critical infrastructure protection.",
+    "sent_start": 137.764,
+    "sent_end": 146.028,
+    "words": [
+      {
+        "word": "These",
+        "start": 137.764,
+        "end": 138.184
+      },
+      {
+        "word": "systems",
+        "start": 138.184,
+        "end": 138.744
+      },
+      {
+        "word": "can",
+        "start": 138.744,
+        "end": 139.024
+      },
+      {
+        "word": "respond",
+        "start": 139.024,
+        "end": 139.585
+      },
+      {
+        "word": "faster",
+        "start": 139.585,
+        "end": 140.075
+      },
+      {
+        "word": "than",
+        "start": 140.075,
+        "end": 140.425
+      },
+      {
+        "word": "any",
+        "start": 140.425,
+        "end": 140.705
+      },
+      {
+        "word": "human",
+        "start": 140.705,
+        "end": 141.125
+      },
+      {
+        "word": "analyst,",
+        "start": 141.125,
+        "end": 141.756
+      },
+      {
+        "word": "making",
+        "start": 141.756,
+        "end": 142.246
+      },
+      {
+        "word": "them",
+        "start": 142.246,
+        "end": 142.596
+      },
+      {
+        "word": "essential",
+        "start": 142.596,
+        "end": 143.296
+      },
+      {
+        "word": "for",
+        "start": 143.296,
+        "end": 143.577
+      },
+      {
+        "word": "critical",
+        "start": 143.577,
+        "end": 144.207
+      },
+      {
+        "word": "infrastructure",
+        "start": 144.207,
+        "end": 145.257
+      },
+      {
+        "word": "protection.",
+        "start": 145.257,
+        "end": 146.098
+      }
+    ]
+  },
+  {
+    "text": "Looking ahead, the grid of the future will likely operate as a multi-agent system where hundreds of specialized AI agents collaborate in real time.",
+    "sent_start": 146.028,
+    "sent_end": 155.722,
+    "words": [
+      {
+        "word": "Looking",
+        "start": 146.028,
+        "end": 146.555
+      },
+      {
+        "word": "ahead,",
+        "start": 146.555,
+        "end": 147.017
+      },
+      {
+        "word": "the",
+        "start": 147.017,
+        "end": 147.281
+      },
+      {
+        "word": "grid",
+        "start": 147.281,
+        "end": 147.611
+      },
+      {
+        "word": "of",
+        "start": 147.611,
+        "end": 147.808
+      },
+      {
+        "word": "the",
+        "start": 147.808,
+        "end": 148.072
+      },
+      {
+        "word": "future",
+        "start": 148.072,
+        "end": 148.534
+      },
+      {
+        "word": "will",
+        "start": 148.534,
+        "end": 148.864
+      },
+      {
+        "word": "likely",
+        "start": 148.864,
+        "end": 149.325
+      },
+      {
+        "word": "operate",
+        "start": 149.325,
+        "end": 149.853
+      },
+      {
+        "word": "as",
+        "start": 149.853,
+        "end": 150.051
+      },
+      {
+        "word": "a",
+        "start": 150.051,
+        "end": 150.183
+      },
+      {
+        "word": "multi-agent",
+        "start": 150.183,
+        "end": 150.974
+      },
+      {
+        "word": "system",
+        "start": 150.974,
+        "end": 151.436
+      },
+      {
+        "word": "where",
+        "start": 151.436,
+        "end": 151.831
+      },
+      {
+        "word": "hundreds",
+        "start": 151.831,
+        "end": 152.425
+      },
+      {
+        "word": "of",
+        "start": 152.425,
+        "end": 152.623
+      },
+      {
+        "word": "specialized",
+        "start": 152.623,
+        "end": 153.414
+      },
+      {
+        "word": "AI",
+        "start": 153.414,
+        "end": 153.612
+      },
+      {
+        "word": "agents",
+        "start": 153.612,
+        "end": 154.074
+      },
+      {
+        "word": "collaborate",
+        "start": 154.074,
+        "end": 154.865
+      },
+      {
+        "word": "in",
+        "start": 154.865,
+        "end": 155.063
+      },
+      {
+        "word": "real",
+        "start": 155.063,
+        "end": 155.392
+      },
+      {
+        "word": "time.",
+        "start": 155.392,
+        "end": 155.788
+      }
+    ]
+  },
+  {
+    "text": "Some will optimize energy trading, others will manage load balancing, and still others will ensure regulatory compliance.",
+    "sent_start": 155.722,
+    "sent_end": 164.347,
+    "words": [
+      {
+        "word": "Some",
+        "start": 155.722,
+        "end": 156.079
+      },
+      {
+        "word": "will",
+        "start": 156.079,
+        "end": 156.435
+      },
+      {
+        "word": "optimize",
+        "start": 156.435,
+        "end": 157.077
+      },
+      {
+        "word": "energy",
+        "start": 157.077,
+        "end": 157.576
+      },
+      {
+        "word": "trading,",
+        "start": 157.576,
+        "end": 158.217
+      },
+      {
+        "word": "others",
+        "start": 158.217,
+        "end": 158.716
+      },
+      {
+        "word": "will",
+        "start": 158.716,
+        "end": 159.072
+      },
+      {
+        "word": "manage",
+        "start": 159.072,
+        "end": 159.571
+      },
+      {
+        "word": "load",
+        "start": 159.571,
+        "end": 159.928
+      },
+      {
+        "word": "balancing,",
+        "start": 159.928,
+        "end": 160.712
+      },
+      {
+        "word": "and",
+        "start": 160.712,
+        "end": 160.997
+      },
+      {
+        "word": "still",
+        "start": 160.997,
+        "end": 161.425
+      },
+      {
+        "word": "others",
+        "start": 161.425,
+        "end": 161.924
+      },
+      {
+        "word": "will",
+        "start": 161.924,
+        "end": 162.28
+      },
+      {
+        "word": "ensure",
+        "start": 162.28,
+        "end": 162.779
+      },
+      {
+        "word": "regulatory",
+        "start": 162.779,
+        "end": 163.563
+      },
+      {
+        "word": "compliance.",
+        "start": 163.563,
+        "end": 164.419
+      }
+    ]
+  },
+  {
+    "text": "For B-end product managers in the energy sector, understanding how to design platforms that support these intelligent agents is becoming a core competency.",
+    "sent_start": 164.347,
+    "sent_end": 174.569,
+    "words": [
+      {
+        "word": "For",
+        "start": 164.347,
+        "end": 164.611
+      },
+      {
+        "word": "B-end",
+        "start": 164.611,
+        "end": 165.007
+      },
+      {
+        "word": "product",
+        "start": 165.007,
+        "end": 165.534
+      },
+      {
+        "word": "managers",
+        "start": 165.534,
+        "end": 166.128
+      },
+      {
+        "word": "in",
+        "start": 166.128,
+        "end": 166.326
+      },
+      {
+        "word": "the",
+        "start": 166.326,
+        "end": 166.59
+      },
+      {
+        "word": "energy",
+        "start": 166.59,
+        "end": 167.051
+      },
+      {
+        "word": "sector,",
+        "start": 167.051,
+        "end": 167.579
+      },
+      {
+        "word": "understanding",
+        "start": 167.579,
+        "end": 168.502
+      },
+      {
+        "word": "how",
+        "start": 168.502,
+        "end": 168.766
+      },
+      {
+        "word": "to",
+        "start": 168.766,
+        "end": 168.964
+      },
+      {
+        "word": "design",
+        "start": 168.964,
+        "end": 169.425
+      },
+      {
+        "word": "platforms",
+        "start": 169.425,
+        "end": 170.085
+      },
+      {
+        "word": "that",
+        "start": 170.085,
+        "end": 170.415
+      },
+      {
+        "word": "support",
+        "start": 170.415,
+        "end": 170.942
+      },
+      {
+        "word": "these",
+        "start": 170.942,
+        "end": 171.338
+      },
+      {
+        "word": "intelligent",
+        "start": 171.338,
+        "end": 172.129
+      },
+      {
+        "word": "agents",
+        "start": 172.129,
+        "end": 172.591
+      },
+      {
+        "word": "is",
+        "start": 172.591,
+        "end": 172.789
+      },
+      {
+        "word": "becoming",
+        "start": 172.789,
+        "end": 173.382
+      },
+      {
+        "word": "a",
+        "start": 173.382,
+        "end": 173.514
+      },
+      {
+        "word": "core",
+        "start": 173.514,
+        "end": 173.844
+      },
+      {
+        "word": "competency.",
+        "start": 173.844,
+        "end": 174.635
+      }
+    ]
+  }
+]
