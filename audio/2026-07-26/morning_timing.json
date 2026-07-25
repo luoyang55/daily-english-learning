@@ -1,0 +1,2305 @@
+[
+  {
+    "text": "Tea is one of the most popular drinks in the world.",
+    "sent_start": 0.0,
+    "sent_end": 3.853,
+    "words": [
+      {
+        "word": "Tea",
+        "start": 0.0,
+        "end": 0.289
+      },
+      {
+        "word": "is",
+        "start": 0.329,
+        "end": 0.522
+      },
+      {
+        "word": "one",
+        "start": 0.562,
+        "end": 0.851
+      },
+      {
+        "word": "of",
+        "start": 0.891,
+        "end": 1.083
+      },
+      {
+        "word": "the",
+        "start": 1.123,
+        "end": 1.412
+      },
+      {
+        "word": "most",
+        "start": 1.452,
+        "end": 1.837
+      },
+      {
+        "word": "popular",
+        "start": 1.877,
+        "end": 2.552
+      },
+      {
+        "word": "drinks",
+        "start": 2.592,
+        "end": 3.17
+      },
+      {
+        "word": "in",
+        "start": 3.21,
+        "end": 3.402
+      },
+      {
+        "word": "the",
+        "start": 3.442,
+        "end": 3.731
+      },
+      {
+        "word": "world",
+        "start": 3.771,
+        "end": 4.253
+      }
+    ]
+  },
+  {
+    "text": "Every day, billions of people enjoy a cup of tea in various forms.",
+    "sent_start": 3.853,
+    "sent_end": 9.511,
+    "words": [
+      {
+        "word": "Every",
+        "start": 3.853,
+        "end": 4.397
+      },
+      {
+        "word": "day",
+        "start": 4.437,
+        "end": 4.763
+      },
+      {
+        "word": "billions",
+        "start": 4.803,
+        "end": 5.674
+      },
+      {
+        "word": "of",
+        "start": 5.714,
+        "end": 5.931
+      },
+      {
+        "word": "people",
+        "start": 5.971,
+        "end": 6.624
+      },
+      {
+        "word": "enjoy",
+        "start": 6.664,
+        "end": 7.208
+      },
+      {
+        "word": "a",
+        "start": 7.248,
+        "end": 7.357
+      },
+      {
+        "word": "cup",
+        "start": 7.397,
+        "end": 7.724
+      },
+      {
+        "word": "of",
+        "start": 7.764,
+        "end": 7.981
+      },
+      {
+        "word": "tea",
+        "start": 8.021,
+        "end": 8.348
+      },
+      {
+        "word": "in",
+        "start": 8.388,
+        "end": 8.605
+      },
+      {
+        "word": "various",
+        "start": 8.645,
+        "end": 9.407
+      },
+      {
+        "word": "forms",
+        "start": 9.447,
+        "end": 9.991
+      }
+    ]
+  },
+  {
+    "text": "But the story of tea goes back thousands of years, and its cultural influence extends far beyond the simple act of drinking a warm beverage.",
+    "sent_start": 9.511,
+    "sent_end": 19.239,
+    "words": [
+      {
+        "word": "But",
+        "start": 9.511,
+        "end": 9.767
+      },
+      {
+        "word": "the",
+        "start": 9.807,
+        "end": 10.063
+      },
+      {
+        "word": "story",
+        "start": 10.103,
+        "end": 10.53
+      },
+      {
+        "word": "of",
+        "start": 10.57,
+        "end": 10.74
+      },
+      {
+        "word": "tea",
+        "start": 10.78,
+        "end": 11.036
+      },
+      {
+        "word": "goes",
+        "start": 11.076,
+        "end": 11.418
+      },
+      {
+        "word": "back",
+        "start": 11.458,
+        "end": 11.799
+      },
+      {
+        "word": "thousands",
+        "start": 11.839,
+        "end": 12.607
+      },
+      {
+        "word": "of",
+        "start": 12.647,
+        "end": 12.818
+      },
+      {
+        "word": "years",
+        "start": 12.858,
+        "end": 13.284
+      },
+      {
+        "word": "and",
+        "start": 13.324,
+        "end": 13.58
+      },
+      {
+        "word": "its",
+        "start": 13.62,
+        "end": 13.876
+      },
+      {
+        "word": "cultural",
+        "start": 13.916,
+        "end": 14.599
+      },
+      {
+        "word": "influence",
+        "start": 14.639,
+        "end": 15.407
+      },
+      {
+        "word": "extends",
+        "start": 15.447,
+        "end": 16.044
+      },
+      {
+        "word": "far",
+        "start": 16.084,
+        "end": 16.34
+      },
+      {
+        "word": "beyond",
+        "start": 16.38,
+        "end": 16.892
+      },
+      {
+        "word": "the",
+        "start": 16.932,
+        "end": 17.188
+      },
+      {
+        "word": "simple",
+        "start": 17.228,
+        "end": 17.74
+      },
+      {
+        "word": "act",
+        "start": 17.78,
+        "end": 18.036
+      },
+      {
+        "word": "of",
+        "start": 18.076,
+        "end": 18.247
+      },
+      {
+        "word": "drinking",
+        "start": 18.287,
+        "end": 18.97
+      },
+      {
+        "word": "a",
+        "start": 19.01,
+        "end": 19.095
+      },
+      {
+        "word": "warm",
+        "start": 19.135,
+        "end": 19.476
+      },
+      {
+        "word": "beverage",
+        "start": 19.516,
+        "end": 20.199
+      }
+    ]
+  },
+  {
+    "text": "According to legend, tea was first discovered by the Chinese emperor Shen Nong in 2737 BC.",
+    "sent_start": 19.239,
+    "sent_end": 27.411,
+    "words": [
+      {
+        "word": "According",
+        "start": 19.239,
+        "end": 20.305
+      },
+      {
+        "word": "to",
+        "start": 20.345,
+        "end": 20.582
+      },
+      {
+        "word": "legend",
+        "start": 20.622,
+        "end": 21.332
+      },
+      {
+        "word": "tea",
+        "start": 21.372,
+        "end": 21.728
+      },
+      {
+        "word": "was",
+        "start": 21.768,
+        "end": 22.123
+      },
+      {
+        "word": "first",
+        "start": 22.163,
+        "end": 22.755
+      },
+      {
+        "word": "discovered",
+        "start": 22.795,
+        "end": 23.98
+      },
+      {
+        "word": "by",
+        "start": 24.02,
+        "end": 24.256
+      },
+      {
+        "word": "the",
+        "start": 24.296,
+        "end": 24.652
+      },
+      {
+        "word": "Chinese",
+        "start": 24.692,
+        "end": 25.521
+      },
+      {
+        "word": "emperor",
+        "start": 25.561,
+        "end": 26.39
+      },
+      {
+        "word": "Shen",
+        "start": 26.43,
+        "end": 26.904
+      },
+      {
+        "word": "Nong",
+        "start": 26.944,
+        "end": 27.417
+      },
+      {
+        "word": "in",
+        "start": 27.457,
+        "end": 27.694
+      },
+      {
+        "word": "BC",
+        "start": 27.734,
+        "end": 27.971
+      }
+    ]
+  },
+  {
+    "text": "The story says that while he was boiling water outdoors, a leaf from a wild tea tree blew into his pot.",
+    "sent_start": 27.411,
+    "sent_end": 34.792,
+    "words": [
+      {
+        "word": "The",
+        "start": 27.411,
+        "end": 27.684
+      },
+      {
+        "word": "story",
+        "start": 27.724,
+        "end": 28.18
+      },
+      {
+        "word": "says",
+        "start": 28.22,
+        "end": 28.585
+      },
+      {
+        "word": "that",
+        "start": 28.625,
+        "end": 28.989
+      },
+      {
+        "word": "while",
+        "start": 29.029,
+        "end": 29.485
+      },
+      {
+        "word": "he",
+        "start": 29.525,
+        "end": 29.707
+      },
+      {
+        "word": "was",
+        "start": 29.747,
+        "end": 30.02
+      },
+      {
+        "word": "boiling",
+        "start": 30.06,
+        "end": 30.698
+      },
+      {
+        "word": "water",
+        "start": 30.738,
+        "end": 31.194
+      },
+      {
+        "word": "outdoors",
+        "start": 31.234,
+        "end": 31.963
+      },
+      {
+        "word": "a",
+        "start": 32.003,
+        "end": 32.094
+      },
+      {
+        "word": "leaf",
+        "start": 32.134,
+        "end": 32.498
+      },
+      {
+        "word": "from",
+        "start": 32.538,
+        "end": 32.903
+      },
+      {
+        "word": "a",
+        "start": 32.943,
+        "end": 33.034
+      },
+      {
+        "word": "wild",
+        "start": 33.074,
+        "end": 33.438
+      },
+      {
+        "word": "tea",
+        "start": 33.478,
+        "end": 33.752
+      },
+      {
+        "word": "tree",
+        "start": 33.792,
+        "end": 34.156
+      },
+      {
+        "word": "blew",
+        "start": 34.196,
+        "end": 34.56
+      },
+      {
+        "word": "into",
+        "start": 34.6,
+        "end": 34.965
+      },
+      {
+        "word": "his",
+        "start": 35.005,
+        "end": 35.278
+      },
+      {
+        "word": "pot",
+        "start": 35.318,
+        "end": 35.592
+      }
+    ]
+  },
+  {
+    "text": "Curious about the pleasant smell, he tasted the drink and found it refreshing.",
+    "sent_start": 34.792,
+    "sent_end": 40.311,
+    "words": [
+      {
+        "word": "Curious",
+        "start": 34.792,
+        "end": 35.395
+      },
+      {
+        "word": "about",
+        "start": 35.435,
+        "end": 35.867
+      },
+      {
+        "word": "the",
+        "start": 35.907,
+        "end": 36.165
+      },
+      {
+        "word": "pleasant",
+        "start": 36.205,
+        "end": 36.895
+      },
+      {
+        "word": "smell",
+        "start": 36.935,
+        "end": 37.366
+      },
+      {
+        "word": "he",
+        "start": 37.406,
+        "end": 37.579
+      },
+      {
+        "word": "tasted",
+        "start": 37.619,
+        "end": 38.136
+      },
+      {
+        "word": "the",
+        "start": 38.176,
+        "end": 38.435
+      },
+      {
+        "word": "drink",
+        "start": 38.475,
+        "end": 38.906
+      },
+      {
+        "word": "and",
+        "start": 38.946,
+        "end": 39.205
+      },
+      {
+        "word": "found",
+        "start": 39.245,
+        "end": 39.676
+      },
+      {
+        "word": "it",
+        "start": 39.716,
+        "end": 39.889
+      },
+      {
+        "word": "refreshing",
+        "start": 39.929,
+        "end": 40.791
+      }
+    ]
+  },
+  {
+    "text": "From that moment, tea became part of Chinese daily life.",
+    "sent_start": 40.311,
+    "sent_end": 44.914,
+    "words": [
+      {
+        "word": "From",
+        "start": 40.311,
+        "end": 40.72
+      },
+      {
+        "word": "that",
+        "start": 40.76,
+        "end": 41.169
+      },
+      {
+        "word": "moment",
+        "start": 41.209,
+        "end": 41.823
+      },
+      {
+        "word": "tea",
+        "start": 41.863,
+        "end": 42.17
+      },
+      {
+        "word": "became",
+        "start": 42.21,
+        "end": 42.824
+      },
+      {
+        "word": "part",
+        "start": 42.864,
+        "end": 43.273
+      },
+      {
+        "word": "of",
+        "start": 43.313,
+        "end": 43.517
+      },
+      {
+        "word": "Chinese",
+        "start": 43.557,
+        "end": 44.273
+      },
+      {
+        "word": "daily",
+        "start": 44.313,
+        "end": 44.825
+      },
+      {
+        "word": "life",
+        "start": 44.865,
+        "end": 45.274
+      }
+    ]
+  },
+  {
+    "text": "Over the centuries, tea drinking evolved from a medicinal practice into an art form.",
+    "sent_start": 44.914,
+    "sent_end": 51.128,
+    "words": [
+      {
+        "word": "Over",
+        "start": 44.914,
+        "end": 45.274
+      },
+      {
+        "word": "the",
+        "start": 45.314,
+        "end": 45.584
+      },
+      {
+        "word": "centuries",
+        "start": 45.624,
+        "end": 46.435
+      },
+      {
+        "word": "tea",
+        "start": 46.475,
+        "end": 46.745
+      },
+      {
+        "word": "drinking",
+        "start": 46.785,
+        "end": 47.505
+      },
+      {
+        "word": "evolved",
+        "start": 47.545,
+        "end": 48.176
+      },
+      {
+        "word": "from",
+        "start": 48.216,
+        "end": 48.576
+      },
+      {
+        "word": "a",
+        "start": 48.616,
+        "end": 48.706
+      },
+      {
+        "word": "medicinal",
+        "start": 48.746,
+        "end": 49.557
+      },
+      {
+        "word": "practice",
+        "start": 49.597,
+        "end": 50.317
+      },
+      {
+        "word": "into",
+        "start": 50.357,
+        "end": 50.717
+      },
+      {
+        "word": "an",
+        "start": 50.757,
+        "end": 50.937
+      },
+      {
+        "word": "art",
+        "start": 50.977,
+        "end": 51.248
+      },
+      {
+        "word": "form",
+        "start": 51.288,
+        "end": 51.648
+      }
+    ]
+  },
+  {
+    "text": "During the Tang Dynasty, a writer named Lu Yu wrote the first book entirely about tea, called Cha Jing or The Classic of Tea.",
+    "sent_start": 51.128,
+    "sent_end": 60.369,
+    "words": [
+      {
+        "word": "During",
+        "start": 51.128,
+        "end": 51.688
+      },
+      {
+        "word": "the",
+        "start": 51.728,
+        "end": 52.008
+      },
+      {
+        "word": "Tang",
+        "start": 52.048,
+        "end": 52.421
+      },
+      {
+        "word": "Dynasty",
+        "start": 52.461,
+        "end": 53.115
+      },
+      {
+        "word": "a",
+        "start": 53.155,
+        "end": 53.248
+      },
+      {
+        "word": "writer",
+        "start": 53.288,
+        "end": 53.848
+      },
+      {
+        "word": "named",
+        "start": 53.888,
+        "end": 54.355
+      },
+      {
+        "word": "Lu",
+        "start": 54.395,
+        "end": 54.582
+      },
+      {
+        "word": "Yu",
+        "start": 54.622,
+        "end": 54.808
+      },
+      {
+        "word": "wrote",
+        "start": 54.848,
+        "end": 55.315
+      },
+      {
+        "word": "the",
+        "start": 55.355,
+        "end": 55.635
+      },
+      {
+        "word": "first",
+        "start": 55.675,
+        "end": 56.142
+      },
+      {
+        "word": "book",
+        "start": 56.182,
+        "end": 56.555
+      },
+      {
+        "word": "entirely",
+        "start": 56.595,
+        "end": 57.342
+      },
+      {
+        "word": "about",
+        "start": 57.382,
+        "end": 57.849
+      },
+      {
+        "word": "tea",
+        "start": 57.889,
+        "end": 58.169
+      },
+      {
+        "word": "called",
+        "start": 58.209,
+        "end": 58.769
+      },
+      {
+        "word": "Cha",
+        "start": 58.809,
+        "end": 59.089
+      },
+      {
+        "word": "Jing",
+        "start": 59.129,
+        "end": 59.502
+      },
+      {
+        "word": "or",
+        "start": 59.542,
+        "end": 59.729
+      },
+      {
+        "word": "The",
+        "start": 59.769,
+        "end": 60.049
+      },
+      {
+        "word": "Classic",
+        "start": 60.089,
+        "end": 60.743
+      },
+      {
+        "word": "of",
+        "start": 60.783,
+        "end": 60.969
+      },
+      {
+        "word": "Tea",
+        "start": 61.009,
+        "end": 61.289
+      }
+    ]
+  },
+  {
+    "text": "This work described the proper methods for growing, preparing, and drinking tea.",
+    "sent_start": 60.369,
+    "sent_end": 66.278,
+    "words": [
+      {
+        "word": "This",
+        "start": 60.369,
+        "end": 60.728
+      },
+      {
+        "word": "work",
+        "start": 60.768,
+        "end": 61.126
+      },
+      {
+        "word": "described",
+        "start": 61.166,
+        "end": 61.971
+      },
+      {
+        "word": "the",
+        "start": 62.011,
+        "end": 62.28
+      },
+      {
+        "word": "proper",
+        "start": 62.32,
+        "end": 62.857
+      },
+      {
+        "word": "methods",
+        "start": 62.897,
+        "end": 63.524
+      },
+      {
+        "word": "for",
+        "start": 63.564,
+        "end": 63.832
+      },
+      {
+        "word": "growing",
+        "start": 63.872,
+        "end": 64.499
+      },
+      {
+        "word": "preparing",
+        "start": 64.539,
+        "end": 65.344
+      },
+      {
+        "word": "and",
+        "start": 65.384,
+        "end": 65.653
+      },
+      {
+        "word": "drinking",
+        "start": 65.693,
+        "end": 66.409
+      },
+      {
+        "word": "tea",
+        "start": 66.449,
+        "end": 66.718
+      }
+    ]
+  },
+  {
+    "text": "It elevated tea from a simple drink to something that represented harmony, respect, and tranquility.",
+    "sent_start": 66.278,
+    "sent_end": 73.686,
+    "words": [
+      {
+        "word": "It",
+        "start": 66.278,
+        "end": 66.456
+      },
+      {
+        "word": "elevated",
+        "start": 66.496,
+        "end": 67.21
+      },
+      {
+        "word": "tea",
+        "start": 67.25,
+        "end": 67.518
+      },
+      {
+        "word": "from",
+        "start": 67.558,
+        "end": 67.915
+      },
+      {
+        "word": "a",
+        "start": 67.955,
+        "end": 68.044
+      },
+      {
+        "word": "simple",
+        "start": 68.084,
+        "end": 68.62
+      },
+      {
+        "word": "drink",
+        "start": 68.66,
+        "end": 69.106
+      },
+      {
+        "word": "to",
+        "start": 69.146,
+        "end": 69.325
+      },
+      {
+        "word": "something",
+        "start": 69.365,
+        "end": 70.168
+      },
+      {
+        "word": "that",
+        "start": 70.208,
+        "end": 70.565
+      },
+      {
+        "word": "represented",
+        "start": 70.605,
+        "end": 71.587
+      },
+      {
+        "word": "harmony",
+        "start": 71.627,
+        "end": 72.252
+      },
+      {
+        "word": "respect",
+        "start": 72.292,
+        "end": 72.917
+      },
+      {
+        "word": "and",
+        "start": 72.957,
+        "end": 73.224
+      },
+      {
+        "word": "tranquility",
+        "start": 73.264,
+        "end": 74.246
+      }
+    ]
+  },
+  {
+    "text": "Tea spread beyond China through trade routes and cultural exchange.",
+    "sent_start": 73.686,
+    "sent_end": 78.817,
+    "words": [
+      {
+        "word": "Tea",
+        "start": 73.686,
+        "end": 73.956
+      },
+      {
+        "word": "spread",
+        "start": 73.996,
+        "end": 74.536
+      },
+      {
+        "word": "beyond",
+        "start": 74.576,
+        "end": 75.116
+      },
+      {
+        "word": "China",
+        "start": 75.156,
+        "end": 75.606
+      },
+      {
+        "word": "through",
+        "start": 75.646,
+        "end": 76.276
+      },
+      {
+        "word": "trade",
+        "start": 76.316,
+        "end": 76.766
+      },
+      {
+        "word": "routes",
+        "start": 76.806,
+        "end": 77.346
+      },
+      {
+        "word": "and",
+        "start": 77.386,
+        "end": 77.657
+      },
+      {
+        "word": "cultural",
+        "start": 77.697,
+        "end": 78.417
+      },
+      {
+        "word": "exchange",
+        "start": 78.457,
+        "end": 79.177
+      }
+    ]
+  },
+  {
+    "text": "Buddhist monks brought tea seeds to Japan, where tea eventually developed its own unique traditions, including the famous Japanese tea ceremony.",
+    "sent_start": 78.817,
+    "sent_end": 89.044,
+    "words": [
+      {
+        "word": "Buddhist",
+        "start": 78.817,
+        "end": 79.493
+      },
+      {
+        "word": "monks",
+        "start": 79.533,
+        "end": 79.956
+      },
+      {
+        "word": "brought",
+        "start": 79.996,
+        "end": 80.587
+      },
+      {
+        "word": "tea",
+        "start": 80.627,
+        "end": 80.881
+      },
+      {
+        "word": "seeds",
+        "start": 80.921,
+        "end": 81.343
+      },
+      {
+        "word": "to",
+        "start": 81.383,
+        "end": 81.552
+      },
+      {
+        "word": "Japan",
+        "start": 81.592,
+        "end": 82.015
+      },
+      {
+        "word": "where",
+        "start": 82.055,
+        "end": 82.478
+      },
+      {
+        "word": "tea",
+        "start": 82.518,
+        "end": 82.771
+      },
+      {
+        "word": "eventually",
+        "start": 82.811,
+        "end": 83.657
+      },
+      {
+        "word": "developed",
+        "start": 83.697,
+        "end": 84.457
+      },
+      {
+        "word": "its",
+        "start": 84.497,
+        "end": 84.751
+      },
+      {
+        "word": "own",
+        "start": 84.791,
+        "end": 85.045
+      },
+      {
+        "word": "unique",
+        "start": 85.085,
+        "end": 85.592
+      },
+      {
+        "word": "traditions",
+        "start": 85.632,
+        "end": 86.477
+      },
+      {
+        "word": "including",
+        "start": 86.517,
+        "end": 87.278
+      },
+      {
+        "word": "the",
+        "start": 87.318,
+        "end": 87.571
+      },
+      {
+        "word": "famous",
+        "start": 87.611,
+        "end": 88.118
+      },
+      {
+        "word": "Japanese",
+        "start": 88.158,
+        "end": 88.835
+      },
+      {
+        "word": "tea",
+        "start": 88.875,
+        "end": 89.128
+      },
+      {
+        "word": "ceremony",
+        "start": 89.168,
+        "end": 89.844
+      }
+    ]
+  },
+  {
+    "text": "In the 17th century, European merchants introduced tea to the Western world, and it quickly became fashionable among the upper classes in countries like England and the Netherlands.",
+    "sent_start": 89.044,
+    "sent_end": 101.3,
+    "words": [
+      {
+        "word": "In",
+        "start": 89.044,
+        "end": 89.209
+      },
+      {
+        "word": "the",
+        "start": 89.249,
+        "end": 89.496
+      },
+      {
+        "word": "th",
+        "start": 89.536,
+        "end": 89.7
+      },
+      {
+        "word": "century",
+        "start": 89.74,
+        "end": 90.316
+      },
+      {
+        "word": "European",
+        "start": 90.356,
+        "end": 91.014
+      },
+      {
+        "word": "merchants",
+        "start": 91.054,
+        "end": 91.794
+      },
+      {
+        "word": "introduced",
+        "start": 91.834,
+        "end": 92.657
+      },
+      {
+        "word": "tea",
+        "start": 92.697,
+        "end": 92.944
+      },
+      {
+        "word": "to",
+        "start": 92.984,
+        "end": 93.148
+      },
+      {
+        "word": "the",
+        "start": 93.188,
+        "end": 93.435
+      },
+      {
+        "word": "Western",
+        "start": 93.475,
+        "end": 94.051
+      },
+      {
+        "word": "world",
+        "start": 94.091,
+        "end": 94.502
+      },
+      {
+        "word": "and",
+        "start": 94.542,
+        "end": 94.789
+      },
+      {
+        "word": "it",
+        "start": 94.829,
+        "end": 94.993
+      },
+      {
+        "word": "quickly",
+        "start": 95.033,
+        "end": 95.609
+      },
+      {
+        "word": "became",
+        "start": 95.649,
+        "end": 96.142
+      },
+      {
+        "word": "fashionable",
+        "start": 96.182,
+        "end": 97.087
+      },
+      {
+        "word": "among",
+        "start": 97.127,
+        "end": 97.538
+      },
+      {
+        "word": "the",
+        "start": 97.578,
+        "end": 97.825
+      },
+      {
+        "word": "upper",
+        "start": 97.865,
+        "end": 98.276
+      },
+      {
+        "word": "classes",
+        "start": 98.316,
+        "end": 98.892
+      },
+      {
+        "word": "in",
+        "start": 98.932,
+        "end": 99.097
+      },
+      {
+        "word": "countries",
+        "start": 99.137,
+        "end": 99.877
+      },
+      {
+        "word": "like",
+        "start": 99.917,
+        "end": 100.246
+      },
+      {
+        "word": "England",
+        "start": 100.286,
+        "end": 100.862
+      },
+      {
+        "word": "and",
+        "start": 100.902,
+        "end": 101.148
+      },
+      {
+        "word": "the",
+        "start": 101.188,
+        "end": 101.435
+      },
+      {
+        "word": "Netherlands",
+        "start": 101.475,
+        "end": 102.38
+      }
+    ]
+  },
+  {
+    "text": "In Britain, tea became such an important part of daily life that the afternoon tea tradition was born.",
+    "sent_start": 101.3,
+    "sent_end": 108.458,
+    "words": [
+      {
+        "word": "In",
+        "start": 101.3,
+        "end": 101.472
+      },
+      {
+        "word": "Britain",
+        "start": 101.512,
+        "end": 102.116
+      },
+      {
+        "word": "tea",
+        "start": 102.156,
+        "end": 102.415
+      },
+      {
+        "word": "became",
+        "start": 102.455,
+        "end": 102.972
+      },
+      {
+        "word": "such",
+        "start": 103.012,
+        "end": 103.357
+      },
+      {
+        "word": "an",
+        "start": 103.397,
+        "end": 103.57
+      },
+      {
+        "word": "important",
+        "start": 103.61,
+        "end": 104.386
+      },
+      {
+        "word": "part",
+        "start": 104.426,
+        "end": 104.771
+      },
+      {
+        "word": "of",
+        "start": 104.811,
+        "end": 104.984
+      },
+      {
+        "word": "daily",
+        "start": 105.024,
+        "end": 105.455
+      },
+      {
+        "word": "life",
+        "start": 105.495,
+        "end": 105.84
+      },
+      {
+        "word": "that",
+        "start": 105.88,
+        "end": 106.225
+      },
+      {
+        "word": "the",
+        "start": 106.265,
+        "end": 106.523
+      },
+      {
+        "word": "afternoon",
+        "start": 106.563,
+        "end": 107.34
+      },
+      {
+        "word": "tea",
+        "start": 107.38,
+        "end": 107.638
+      },
+      {
+        "word": "tradition",
+        "start": 107.678,
+        "end": 108.455
+      },
+      {
+        "word": "was",
+        "start": 108.495,
+        "end": 108.753
+      },
+      {
+        "word": "born",
+        "start": 108.793,
+        "end": 109.138
+      }
+    ]
+  },
+  {
+    "text": "In the 1840s, the Duchess of Bedford began having tea and light snacks in the afternoon to bridge the gap between lunch and dinner.",
+    "sent_start": 108.458,
+    "sent_end": 117.478,
+    "words": [
+      {
+        "word": "In",
+        "start": 108.458,
+        "end": 108.635
+      },
+      {
+        "word": "the",
+        "start": 108.675,
+        "end": 108.94
+      },
+      {
+        "word": "s",
+        "start": 108.98,
+        "end": 109.069
+      },
+      {
+        "word": "the",
+        "start": 109.109,
+        "end": 109.374
+      },
+      {
+        "word": "Duchess",
+        "start": 109.414,
+        "end": 110.033
+      },
+      {
+        "word": "of",
+        "start": 110.073,
+        "end": 110.25
+      },
+      {
+        "word": "Bedford",
+        "start": 110.29,
+        "end": 110.909
+      },
+      {
+        "word": "began",
+        "start": 110.949,
+        "end": 111.391
+      },
+      {
+        "word": "having",
+        "start": 111.431,
+        "end": 111.962
+      },
+      {
+        "word": "tea",
+        "start": 112.002,
+        "end": 112.267
+      },
+      {
+        "word": "and",
+        "start": 112.307,
+        "end": 112.572
+      },
+      {
+        "word": "light",
+        "start": 112.612,
+        "end": 113.054
+      },
+      {
+        "word": "snacks",
+        "start": 113.094,
+        "end": 113.625
+      },
+      {
+        "word": "in",
+        "start": 113.665,
+        "end": 113.842
+      },
+      {
+        "word": "the",
+        "start": 113.882,
+        "end": 114.147
+      },
+      {
+        "word": "afternoon",
+        "start": 114.187,
+        "end": 114.983
+      },
+      {
+        "word": "to",
+        "start": 115.023,
+        "end": 115.2
+      },
+      {
+        "word": "bridge",
+        "start": 115.24,
+        "end": 115.77
+      },
+      {
+        "word": "the",
+        "start": 115.81,
+        "end": 116.076
+      },
+      {
+        "word": "gap",
+        "start": 116.116,
+        "end": 116.381
+      },
+      {
+        "word": "between",
+        "start": 116.421,
+        "end": 117.04
+      },
+      {
+        "word": "lunch",
+        "start": 117.08,
+        "end": 117.522
+      },
+      {
+        "word": "and",
+        "start": 117.562,
+        "end": 117.827
+      },
+      {
+        "word": "dinner",
+        "start": 117.867,
+        "end": 118.398
+      }
+    ]
+  },
+  {
+    "text": "This practice spread quickly through society and remains a beloved British custom today.",
+    "sent_start": 117.478,
+    "sent_end": 123.719,
+    "words": [
+      {
+        "word": "This",
+        "start": 117.478,
+        "end": 117.811
+      },
+      {
+        "word": "practice",
+        "start": 117.851,
+        "end": 118.516
+      },
+      {
+        "word": "spread",
+        "start": 118.556,
+        "end": 119.056
+      },
+      {
+        "word": "quickly",
+        "start": 119.096,
+        "end": 119.678
+      },
+      {
+        "word": "through",
+        "start": 119.718,
+        "end": 120.301
+      },
+      {
+        "word": "society",
+        "start": 120.341,
+        "end": 120.923
+      },
+      {
+        "word": "and",
+        "start": 120.963,
+        "end": 121.213
+      },
+      {
+        "word": "remains",
+        "start": 121.253,
+        "end": 121.836
+      },
+      {
+        "word": "a",
+        "start": 121.876,
+        "end": 121.959
+      },
+      {
+        "word": "beloved",
+        "start": 121.999,
+        "end": 122.581
+      },
+      {
+        "word": "British",
+        "start": 122.621,
+        "end": 123.204
+      },
+      {
+        "word": "custom",
+        "start": 123.244,
+        "end": 123.743
+      },
+      {
+        "word": "today",
+        "start": 123.783,
+        "end": 124.199
+      }
+    ]
+  },
+  {
+    "text": "The history of tea is also connected to global trade and politics.",
+    "sent_start": 123.719,
+    "sent_end": 128.85,
+    "words": [
+      {
+        "word": "The",
+        "start": 123.719,
+        "end": 124.004
+      },
+      {
+        "word": "history",
+        "start": 124.044,
+        "end": 124.71
+      },
+      {
+        "word": "of",
+        "start": 124.75,
+        "end": 124.94
+      },
+      {
+        "word": "tea",
+        "start": 124.98,
+        "end": 125.265
+      },
+      {
+        "word": "is",
+        "start": 125.305,
+        "end": 125.495
+      },
+      {
+        "word": "also",
+        "start": 125.535,
+        "end": 125.915
+      },
+      {
+        "word": "connected",
+        "start": 125.955,
+        "end": 126.81
+      },
+      {
+        "word": "to",
+        "start": 126.85,
+        "end": 127.04
+      },
+      {
+        "word": "global",
+        "start": 127.08,
+        "end": 127.65
+      },
+      {
+        "word": "trade",
+        "start": 127.69,
+        "end": 128.165
+      },
+      {
+        "word": "and",
+        "start": 128.205,
+        "end": 128.49
+      },
+      {
+        "word": "politics",
+        "start": 128.53,
+        "end": 129.29
+      }
+    ]
+  },
+  {
+    "text": "The British demand for Chinese tea led to a trade imbalance, which ultimately caused the Opium Wars in the 19th century.",
+    "sent_start": 128.85,
+    "sent_end": 137.536,
+    "words": [
+      {
+        "word": "The",
+        "start": 128.85,
+        "end": 129.121
+      },
+      {
+        "word": "British",
+        "start": 129.161,
+        "end": 129.795
+      },
+      {
+        "word": "demand",
+        "start": 129.835,
+        "end": 130.378
+      },
+      {
+        "word": "for",
+        "start": 130.418,
+        "end": 130.689
+      },
+      {
+        "word": "Chinese",
+        "start": 130.729,
+        "end": 131.362
+      },
+      {
+        "word": "tea",
+        "start": 131.402,
+        "end": 131.674
+      },
+      {
+        "word": "led",
+        "start": 131.714,
+        "end": 131.985
+      },
+      {
+        "word": "to",
+        "start": 132.025,
+        "end": 132.206
+      },
+      {
+        "word": "a",
+        "start": 132.246,
+        "end": 132.337
+      },
+      {
+        "word": "trade",
+        "start": 132.377,
+        "end": 132.829
+      },
+      {
+        "word": "imbalance",
+        "start": 132.869,
+        "end": 133.684
+      },
+      {
+        "word": "which",
+        "start": 133.724,
+        "end": 134.176
+      },
+      {
+        "word": "ultimately",
+        "start": 134.216,
+        "end": 135.121
+      },
+      {
+        "word": "caused",
+        "start": 135.161,
+        "end": 135.704
+      },
+      {
+        "word": "the",
+        "start": 135.744,
+        "end": 136.015
+      },
+      {
+        "word": "Opium",
+        "start": 136.055,
+        "end": 136.507
+      },
+      {
+        "word": "Wars",
+        "start": 136.547,
+        "end": 136.909
+      },
+      {
+        "word": "in",
+        "start": 136.949,
+        "end": 137.13
+      },
+      {
+        "word": "the",
+        "start": 137.17,
+        "end": 137.442
+      },
+      {
+        "word": "th",
+        "start": 137.482,
+        "end": 137.663
+      },
+      {
+        "word": "century",
+        "start": 137.703,
+        "end": 138.336
+      }
+    ]
+  },
+  {
+    "text": "Tea also played a central role in American history, most notably in the Boston Tea Party of 1773, when colonists protested against British tax policies by throwing tea into the harbor.",
+    "sent_start": 137.536,
+    "sent_end": 151.5,
+    "words": [
+      {
+        "word": "Tea",
+        "start": 137.536,
+        "end": 137.821
+      },
+      {
+        "word": "also",
+        "start": 137.861,
+        "end": 138.241
+      },
+      {
+        "word": "played",
+        "start": 138.281,
+        "end": 138.851
+      },
+      {
+        "word": "a",
+        "start": 138.891,
+        "end": 138.986
+      },
+      {
+        "word": "central",
+        "start": 139.026,
+        "end": 139.691
+      },
+      {
+        "word": "role",
+        "start": 139.731,
+        "end": 140.111
+      },
+      {
+        "word": "in",
+        "start": 140.151,
+        "end": 140.341
+      },
+      {
+        "word": "American",
+        "start": 140.381,
+        "end": 141.141
+      },
+      {
+        "word": "history",
+        "start": 141.181,
+        "end": 141.846
+      },
+      {
+        "word": "most",
+        "start": 141.886,
+        "end": 142.266
+      },
+      {
+        "word": "notably",
+        "start": 142.306,
+        "end": 142.971
+      },
+      {
+        "word": "in",
+        "start": 143.011,
+        "end": 143.201
+      },
+      {
+        "word": "the",
+        "start": 143.241,
+        "end": 143.526
+      },
+      {
+        "word": "Boston",
+        "start": 143.566,
+        "end": 144.136
+      },
+      {
+        "word": "Tea",
+        "start": 144.176,
+        "end": 144.461
+      },
+      {
+        "word": "Party",
+        "start": 144.501,
+        "end": 144.976
+      },
+      {
+        "word": "of",
+        "start": 145.016,
+        "end": 145.206
+      },
+      {
+        "word": "when",
+        "start": 145.246,
+        "end": 145.626
+      },
+      {
+        "word": "colonists",
+        "start": 145.666,
+        "end": 146.52
+      },
+      {
+        "word": "protested",
+        "start": 146.56,
+        "end": 147.415
+      },
+      {
+        "word": "against",
+        "start": 147.455,
+        "end": 148.12
+      },
+      {
+        "word": "British",
+        "start": 148.16,
+        "end": 148.825
+      },
+      {
+        "word": "tax",
+        "start": 148.865,
+        "end": 149.15
+      },
+      {
+        "word": "policies",
+        "start": 149.19,
+        "end": 149.95
+      },
+      {
+        "word": "by",
+        "start": 149.99,
+        "end": 150.18
+      },
+      {
+        "word": "throwing",
+        "start": 150.22,
+        "end": 150.98
+      },
+      {
+        "word": "tea",
+        "start": 151.02,
+        "end": 151.305
+      },
+      {
+        "word": "into",
+        "start": 151.345,
+        "end": 151.725
+      },
+      {
+        "word": "the",
+        "start": 151.765,
+        "end": 152.05
+      },
+      {
+        "word": "harbor",
+        "start": 152.09,
+        "end": 152.66
+      }
+    ]
+  },
+  {
+    "text": "Today, tea is enjoyed in countless varieties around the world.",
+    "sent_start": 151.5,
+    "sent_end": 156.575,
+    "words": [
+      {
+        "word": "Today",
+        "start": 151.5,
+        "end": 151.998
+      },
+      {
+        "word": "tea",
+        "start": 152.038,
+        "end": 152.336
+      },
+      {
+        "word": "is",
+        "start": 152.376,
+        "end": 152.575
+      },
+      {
+        "word": "enjoyed",
+        "start": 152.615,
+        "end": 153.312
+      },
+      {
+        "word": "in",
+        "start": 153.352,
+        "end": 153.551
+      },
+      {
+        "word": "countless",
+        "start": 153.591,
+        "end": 154.486
+      },
+      {
+        "word": "varieties",
+        "start": 154.526,
+        "end": 155.422
+      },
+      {
+        "word": "around",
+        "start": 155.462,
+        "end": 156.059
+      },
+      {
+        "word": "the",
+        "start": 156.099,
+        "end": 156.397
+      },
+      {
+        "word": "world",
+        "start": 156.437,
+        "end": 156.935
+      }
+    ]
+  },
+  {
+    "text": "Green tea, black tea, oolong tea, and white tea each offer different flavors and health benefits.",
+    "sent_start": 156.575,
+    "sent_end": 164.219,
+    "words": [
+      {
+        "word": "Green",
+        "start": 156.575,
+        "end": 157.065
+      },
+      {
+        "word": "tea",
+        "start": 157.105,
+        "end": 157.399
+      },
+      {
+        "word": "black",
+        "start": 157.439,
+        "end": 157.929
+      },
+      {
+        "word": "tea",
+        "start": 157.969,
+        "end": 158.263
+      },
+      {
+        "word": "oolong",
+        "start": 158.303,
+        "end": 158.891
+      },
+      {
+        "word": "tea",
+        "start": 158.931,
+        "end": 159.225
+      },
+      {
+        "word": "and",
+        "start": 159.265,
+        "end": 159.559
+      },
+      {
+        "word": "white",
+        "start": 159.599,
+        "end": 160.089
+      },
+      {
+        "word": "tea",
+        "start": 160.129,
+        "end": 160.423
+      },
+      {
+        "word": "each",
+        "start": 160.463,
+        "end": 160.855
+      },
+      {
+        "word": "offer",
+        "start": 160.895,
+        "end": 161.385
+      },
+      {
+        "word": "different",
+        "start": 161.425,
+        "end": 162.307
+      },
+      {
+        "word": "flavors",
+        "start": 162.347,
+        "end": 163.033
+      },
+      {
+        "word": "and",
+        "start": 163.073,
+        "end": 163.367
+      },
+      {
+        "word": "health",
+        "start": 163.407,
+        "end": 163.995
+      },
+      {
+        "word": "benefits",
+        "start": 164.035,
+        "end": 164.819
+      }
+    ]
+  },
+  {
+    "text": "Scientists have studied tea extensively and found that it contains antioxidants that may help reduce the risk of heart disease and certain cancers.",
+    "sent_start": 164.219,
+    "sent_end": 173.906,
+    "words": [
+      {
+        "word": "Scientists",
+        "start": 164.219,
+        "end": 165.001
+      },
+      {
+        "word": "have",
+        "start": 165.041,
+        "end": 165.353
+      },
+      {
+        "word": "studied",
+        "start": 165.393,
+        "end": 165.94
+      },
+      {
+        "word": "tea",
+        "start": 165.98,
+        "end": 166.214
+      },
+      {
+        "word": "extensively",
+        "start": 166.254,
+        "end": 167.113
+      },
+      {
+        "word": "and",
+        "start": 167.153,
+        "end": 167.388
+      },
+      {
+        "word": "found",
+        "start": 167.428,
+        "end": 167.818
+      },
+      {
+        "word": "that",
+        "start": 167.858,
+        "end": 168.171
+      },
+      {
+        "word": "it",
+        "start": 168.211,
+        "end": 168.367
+      },
+      {
+        "word": "contains",
+        "start": 168.407,
+        "end": 169.032
+      },
+      {
+        "word": "antioxidants",
+        "start": 169.072,
+        "end": 170.009
+      },
+      {
+        "word": "that",
+        "start": 170.049,
+        "end": 170.362
+      },
+      {
+        "word": "may",
+        "start": 170.402,
+        "end": 170.636
+      },
+      {
+        "word": "help",
+        "start": 170.676,
+        "end": 170.989
+      },
+      {
+        "word": "reduce",
+        "start": 171.029,
+        "end": 171.497
+      },
+      {
+        "word": "the",
+        "start": 171.537,
+        "end": 171.772
+      },
+      {
+        "word": "risk",
+        "start": 171.812,
+        "end": 172.124
+      },
+      {
+        "word": "of",
+        "start": 172.164,
+        "end": 172.32
+      },
+      {
+        "word": "heart",
+        "start": 172.36,
+        "end": 172.751
+      },
+      {
+        "word": "disease",
+        "start": 172.791,
+        "end": 173.338
+      },
+      {
+        "word": "and",
+        "start": 173.378,
+        "end": 173.612
+      },
+      {
+        "word": "certain",
+        "start": 173.652,
+        "end": 174.199
+      },
+      {
+        "word": "cancers",
+        "start": 174.239,
+        "end": 174.786
+      }
+    ]
+  },
+  {
+    "text": "Whether you prefer a strong cup of Earl Grey in the morning or a calming chamomile before bed, tea continues to bring comfort and connection to people everywhere.",
+    "sent_start": 173.906,
+    "sent_end": 184.328,
+    "words": [
+      {
+        "word": "Whether",
+        "start": 173.906,
+        "end": 174.454
+      },
+      {
+        "word": "you",
+        "start": 174.494,
+        "end": 174.729
+      },
+      {
+        "word": "prefer",
+        "start": 174.769,
+        "end": 175.239
+      },
+      {
+        "word": "a",
+        "start": 175.279,
+        "end": 175.358
+      },
+      {
+        "word": "strong",
+        "start": 175.398,
+        "end": 175.868
+      },
+      {
+        "word": "cup",
+        "start": 175.908,
+        "end": 176.143
+      },
+      {
+        "word": "of",
+        "start": 176.183,
+        "end": 176.34
+      },
+      {
+        "word": "Earl",
+        "start": 176.38,
+        "end": 176.693
+      },
+      {
+        "word": "Grey",
+        "start": 176.733,
+        "end": 177.047
+      },
+      {
+        "word": "in",
+        "start": 177.087,
+        "end": 177.243
+      },
+      {
+        "word": "the",
+        "start": 177.283,
+        "end": 177.518
+      },
+      {
+        "word": "morning",
+        "start": 177.558,
+        "end": 178.107
+      },
+      {
+        "word": "or",
+        "start": 178.147,
+        "end": 178.304
+      },
+      {
+        "word": "a",
+        "start": 178.344,
+        "end": 178.422
+      },
+      {
+        "word": "calming",
+        "start": 178.462,
+        "end": 179.011
+      },
+      {
+        "word": "chamomile",
+        "start": 179.051,
+        "end": 179.756
+      },
+      {
+        "word": "before",
+        "start": 179.796,
+        "end": 180.266
+      },
+      {
+        "word": "bed",
+        "start": 180.306,
+        "end": 180.541
+      },
+      {
+        "word": "tea",
+        "start": 180.581,
+        "end": 180.816
+      },
+      {
+        "word": "continues",
+        "start": 180.856,
+        "end": 181.561
+      },
+      {
+        "word": "to",
+        "start": 181.601,
+        "end": 181.758
+      },
+      {
+        "word": "bring",
+        "start": 181.798,
+        "end": 182.19
+      },
+      {
+        "word": "comfort",
+        "start": 182.23,
+        "end": 182.779
+      },
+      {
+        "word": "and",
+        "start": 182.819,
+        "end": 183.054
+      },
+      {
+        "word": "connection",
+        "start": 183.094,
+        "end": 183.877
+      },
+      {
+        "word": "to",
+        "start": 183.917,
+        "end": 184.074
+      },
+      {
+        "word": "people",
+        "start": 184.114,
+        "end": 184.584
+      },
+      {
+        "word": "everywhere",
+        "start": 184.624,
+        "end": 185.408
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+    "morning": {
+        "title_en": "The History and Culture of Tea",
+        "title_cn": "茶的历史与文化",
+        "level": "CET-4",
+        "content_en": "Tea is one of the most popular drinks in the world. Every day, billions of people enjoy a cup of tea in various forms. But the story of tea goes back thousands of years, and its cultural influence extends far beyond the simple act of drinking a warm beverage.\n\nAccording to legend, tea was first discovered by the Chinese emperor Shen Nong in 2737 BC. The story says that while he was boiling water outdoors, a leaf from a wild tea tree blew into his pot. Curious about the pleasant smell, he tasted the drink and found it refreshing. From that moment, tea became part of Chinese daily life.\n\nOver the centuries, tea drinking evolved from a medicinal practice into an art form. During the Tang Dynasty, a writer named Lu Yu wrote the first book entirely about tea, called Cha Jing or The Classic of Tea. This work described the proper methods for growing, preparing, and drinking tea. It elevated tea from a simple drink to something that represented harmony, respect, and tranquility.\n\nTea spread beyond China through trade routes and cultural exchange. Buddhist monks brought tea seeds to Japan, where tea eventually developed its own unique traditions, including the famous Japanese tea ceremony. In the 17th century, European merchants introduced tea to the Western world, and it quickly became fashionable among the upper classes in countries like England and the Netherlands.\n\nIn Britain, tea became such an important part of daily life that the afternoon tea tradition was born. In the 1840s, the Duchess of Bedford began having tea and light snacks in the afternoon to bridge the gap between lunch and dinner. This practice spread quickly through society and remains a beloved British custom today.\n\nThe history of tea is also connected to global trade and politics. The British demand for Chinese tea led to a trade imbalance, which ultimately caused the Opium Wars in the 19th century. Tea also played a central role in American history, most notably in the Boston Tea Party of 1773, when colonists protested against British tax policies by throwing tea into the harbor.\n\nToday, tea is enjoyed in countless varieties around the world. Green tea, black tea, oolong tea, and white tea each offer different flavors and health benefits. Scientists have studied tea extensively and found that it contains antioxidants that may help reduce the risk of heart disease and certain cancers. Whether you prefer a strong cup of Earl Grey in the morning or a calming chamomile before bed, tea continues to bring comfort and connection to people everywhere.",
+        "content_cn": "茶是世界上最受欢迎的饮品之一。每天有数十亿人以各种形式享用一杯茶。但茶的历史可以追溯到几千年前，它的文化影响远远超出了简单地喝一种温热饮料的行为。\n\n根据传说，茶最早是由中国皇帝神农在公元前2737年发现的。故事说，当他在户外烧水时，一片野生茶树的叶子飘进了他的锅里。他对这种宜人的气味很好奇，便品尝了一下，发现它令人精神清爽。从那一刻起，茶成为了中国人日常生活的一部分。\n\n经过几个世纪的发展，饮茶从一种药用习俗演变成了一种艺术形式。在唐代，一位名叫陆羽的作家撰写了世界上第一部专门关于茶的著作——《茶经》。这部作品描述了种植、制备和品饮茶的正确方法，将茶从一种简单的饮品升华为代表和谐、尊重和宁静的文化象征。\n\n茶通过贸易路线和文化交流传播到中国以外的地区。佛教僧侣将茶种带到了日本，在那里茶最终发展出了自己独特的传统，包括著名的日本茶道。17世纪，欧洲商人将茶引入了西方世界，它在英国和荷兰等国家迅速成为上流社会的时尚饮品。\n\n在英国，茶成为了日常生活中如此重要的一部分，以至于下午茶的传统由此诞生。19世纪40年代，贝德福德公爵夫人开始在下午喝茶吃点心，以填补午餐和晚餐之间的空隙。这种做法很快在社会中传播开来，至今仍是英国人喜爱的习俗。\n\n茶的历史也与全球贸易和政治紧密相连。英国对中国茶叶的需求导致了贸易失衡，最终引发了19世纪的鸦片战争。茶在美国历史中也扮演了核心角色，最著名的是1773年的波士顿倾茶事件，当时殖民地居民通过将茶叶倒入港口来抗议英国的税收政策。\n\n如今，世界各地的人们享用着无数品种的茶。绿茶、红茶、乌龙茶和白茶各自提供不同的风味和健康益处。科学家们对茶进行了大量研究，发现它含有抗氧化剂，可能有助于降低心脏病和某些癌症的风险。无论你喜欢早晨来一杯浓烈的伯爵茶，还是睡前喝一杯舒缓的洋甘菊茶，茶都继续为各地的人们带来舒适与连接。",
+        "vocabulary": [
+            {
+                "word": "legend",
+                "phonetic": "/ˈledʒənd/",
+                "meaning": "传说，传奇故事"
+            },
+            {
+                "word": "refreshing",
+                "phonetic": "/rɪˈfreʃɪŋ/",
+                "meaning": "令人清爽的，提神的"
+            },
+            {
+                "word": "medicinal",
+                "phonetic": "/məˈdɪsɪnl/",
+                "meaning": "药用的，有医疗功效的"
+            },
+            {
+                "word": "tranquility",
+                "phonetic": "/træŋˈkwɪləti/",
+                "meaning": "宁静，平静"
+            },
+            {
+                "word": "monk",
+                "phonetic": "/mʌŋk/",
+                "meaning": "僧侄，修道士"
+            },
+            {
+                "word": "ceremony",
+                "phonetic": "/ˈserəməni/",
+                "meaning": "典礼，仪式"
+            },
+            {
+                "word": "fashionable",
+                "phonetic": "/ˈfæʃənəbl/",
+                "meaning": "时尚的，流行的"
+            },
+            {
+                "word": "Duchess",
+                "phonetic": "/ˈdʌtʃəs/",
+                "meaning": "公爵夫人"
+            },
+            {
+                "word": "colonist",
+                "phonetic": "/ˈkɒlənɪst/",
+                "meaning": "殖民地居民"
+            },
+            {
+                "word": "antioxidant",
+                "phonetic": "/ˌæntiˈɒksɪdənt/",
+                "meaning": "抗氧化剂"
+            }
+        ],
+        "key_sentences": [
+            {
+                "en": "During the Tang Dynasty, a writer named Lu Yu wrote the first book entirely about tea, called Cha Jing or The Classic of Tea.",
+                "cn": "在唐代，一位名叫陆羽的作家撰写了世界上第一部专门关于茶的著作——《茶经》。",
+                "grammar": "named Lu Yu 是过去分词短语作后置定语修饰 writer；called Cha Jing 同样是过去分词短语作后置定语，修饰 book。"
+            },
+            {
+                "en": "In Britain, tea became such an important part of daily life that the afternoon tea tradition was born.",
+                "cn": "在英国，茶成为了日常生活中如此重要的一部分，以至于下午茶的传统由此诞生。",
+                "grammar": "such...that 构成结果状语从句，表示“如此……以至于……”；became 是系动词，后接名词短语作表语。"
+            },
+            {
+                "en": "Tea also played a central role in American history, most notably in the Boston Tea Party of 1773, when colonists protested against British tax policies by throwing tea into the harbor.",
+                "cn": "茶在美国历史中也扮演了核心角色，最著名的是1773年的波士顿倾茶事件，当时殖民地居民通过将茶叶倒入港口来抗议英国的税收政策。",
+                "grammar": "play a role in 意为“在……中扮演角色”；when 引导非限制性定语从句修饰 Boston Tea Party；by doing 表示方式手段。"
+            }
+        ]
+    }
+}
