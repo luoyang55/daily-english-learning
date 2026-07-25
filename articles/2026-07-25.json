@@ -74,5 +74,81 @@
         "grammar": "compare A to B 意为\"将A比作B\"；because 引导原因状语从句；focus on 为固定搭配，意为\"专注于\"。"
       }
     ]
+  },
+  "afternoon": {
+    "title_en": "How Industrial IoT Is Enabling Predictive Maintenance in Solar Farms",
+    "title_cn": "工业物联网如何赋能光伏电站预测性维护",
+    "level": "IT工作篇",
+    "content_en": "Solar farms are spreading across deserts, hills, and rooftops around the world. As installations grow larger, keeping thousands of panels running efficiently has become a serious challenge. Traditional maintenance relies on fixed schedules or waiting for failures to occur. Today, industrial IoT technology is changing this approach by enabling predictive maintenance that catches problems before they cause real damage.\n\nAt the heart of this system are smart sensors deployed across the solar farm. These devices continuously monitor key parameters such as panel temperature, voltage output, current flow, and ambient conditions like humidity and dust levels. The data is transmitted in real time through wireless networks to a centralized cloud platform. This platform collects information from every panel and creates a digital overview of the entire installation.\n\nThe real power comes from the analytics layer. Machine learning algorithms analyze the sensor data to identify patterns that indicate potential failures. For example, if a particular panel shows a gradual drop in voltage output while temperature readings remain normal, the system might predict that the panel is developing a micro-crack. This kind of early detection allows maintenance teams to plan repairs during scheduled downtime rather than responding to emergency breakdowns.\n\nAnother important capability is soiling detection. Dust and dirt accumulation on panels can reduce energy output by up to thirty percent. IoT sensors can measure the degree of soiling on different sections of the farm and automatically trigger cleaning schedules when efficiency drops below a certain threshold. This approach saves water and labor compared to routine cleaning cycles that run regardless of actual need.\n\nFrom a product management perspective, building these IoT platforms requires careful thinking about data architecture. Engineers must decide how to handle millions of data points per day, design dashboards that make complex information easy to understand, and build alert systems that notify the right people at the right time. The best platforms combine real-time monitoring with long-term trend analysis to support both operational and strategic decisions.\n\nLooking forward, the integration of IoT with digital twin technology will make solar farm management even smarter. A digital twin is a virtual replica of the physical installation that simulates how the system should perform under different conditions. By comparing actual sensor data against the digital twin model, operators can quickly identify anomalies and optimize performance across the entire fleet.",
+    "content_cn": "光伏电站正在世界各地的沙漠、山丘和屋顶上不断扩展。随着装机规模的增大，保持数千块光伏组件高效运行已成为一个严峻挑战。传统维护依赖固定周期或等到故障发生才处理。如今，工业物联网技术正在改变这种方式，通过预测性维护在问题造成实际损害之前将其捕获。\n\n这套系统的核心是部署在光伏电站各处的智能传感器。这些设备持续监测关键参数，如组件温度、电压输出、电流以及湿度和灰尘等环境条件。数据通过无线网络实时传输到集中的云平台。该平台采集每块组件的数据，创建整个电站的数字概览。\n\n真正的力量在于分析层。机器学习算法分析传感器数据，识别出指示潜在故障的模式。例如，如果某块组件显示出电压输出逐渐下降，而温度读数保持正常，系统可能会预测该组件正在产生隐裂。这种早期检测使维护团队能够在计划停机期间安排维修，而不是应对紧急故障。\n\n另一个重要能力是积灰检测。组件上的灰尘和污垢积聚可使发电量降低多达30%。物联网传感器可以测量电站不同区域的积灰程度，并在效率低于某个阈值时自动触发清洁计划。与不论实际需求都执行的定期清洁周期相比，这种方式节约了水和人工。\n\n从产品管理的角度来看，构建这些物联网平台需要仔细思考数据架构。工程师必须决定如何处理每天数百万条数据点，设计让复杂信息易于理解的仪表板，并构建在正确的时间通知正确人员的告警系统。最优秀的平台将实时监控与长期趋势分析相结合，支持运营和战略两个层面的决策。\n\n展望未来，物联网与数字孪生技术的融合将使光伏电站管理更加智能。数字孪生是物理设施的虚拟副本，模拟系统在不同条件下的运行方式。通过将实际传感器数据与数字孪生模型进行对比，运营商可以快速识别异常，优化整个电站群的运行性能。",
+    "vocabulary": [
+      {
+        "word": "predictive",
+        "phonetic": "/prɪdɪktɪv/",
+        "meaning": "预测性的"
+      },
+      {
+        "word": "sensor",
+        "phonetic": "/ˈsensər/",
+        "meaning": "传感器"
+      },
+      {
+        "word": "parameter",
+        "phonetic": "/pəˈræmɪtər/",
+        "meaning": "参数"
+      },
+      {
+        "word": "threshold",
+        "phonetic": "/ˈθreʃhoʊld/",
+        "meaning": "阈值，门槛"
+      },
+      {
+        "word": "anomaly",
+        "phonetic": "/əˈnɒməli/",
+        "meaning": "异常，反常"
+      },
+      {
+        "word": "soiling",
+        "phonetic": "/ˈsɔɪlɪŋ/",
+        "meaning": "积灰，污垢"
+      },
+      {
+        "word": "dashboard",
+        "phonetic": "/ˈdæʃbɔːrd/",
+        "meaning": "仪表板，控制面板"
+      },
+      {
+        "word": "architecture",
+        "phonetic": "/ˈɑːrkɪtektʃər/",
+        "meaning": "架构，体系"
+      },
+      {
+        "word": "replica",
+        "phonetic": "/ˈreplɪkə/",
+        "meaning": "副本，复制品"
+      },
+      {
+        "word": "fleet",
+        "phonetic": "/fliːt/",
+        "meaning": "（设备）群组，车队"
+      }
+    ],
+    "key_sentences": [
+      {
+        "en": "Machine learning algorithms analyze the sensor data to identify patterns that indicate potential failures.",
+        "cn": "机器学习算法分析传感器数据，识别出指示潜在故障的模式。",
+        "grammar": "analyze A to do B 表示分析A以完成B; that 引导定语从句修饰 patterns, 说明这些模式的功能是指示潜在故障。"
+      },
+      {
+        "en": "This kind of early detection allows maintenance teams to plan repairs during scheduled downtime rather than responding to emergency breakdowns.",
+        "cn": "这种早期检测使维护团队能够在计划停机期间安排维修，而不是应对紧急故障。",
+        "grammar": "allow sb to do sth 表示允许/使某人做某事; rather than 连接两个并列结构, 表示\"而不是\"; scheduled downtime 是运维领域的常用表达, 意为计划停机时间。"
+      },
+      {
+        "en": "By comparing actual sensor data against the digital twin model, operators can quickly identify anomalies and optimize performance across the entire fleet.",
+        "cn": "通过将实际传感器数据与数字孪生模型进行对比，运营商可以快速识别异常，优化整个电站群的运行性能。",
+        "grammar": "By doing..., operators can... 是典型的\"通过做某事, 主语能够...\"结构; compare A against B 意为将A与B对比; across the entire fleet 表示覆盖整个设备群组。"
+      }
+    ]
   }
 }

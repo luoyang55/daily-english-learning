@@ -1,0 +1,2091 @@
+[
+  {
+    "text": "Solar farms are spreading across deserts, hills, and rooftops around the world.",
+    "sent_start": 0.1,
+    "sent_end": 6.119,
+    "words": [
+      {
+        "word": "Solar",
+        "start": 0.1,
+        "end": 0.557
+      },
+      {
+        "word": "farms",
+        "start": 0.557,
+        "end": 1.014
+      },
+      {
+        "word": "are",
+        "start": 1.014,
+        "end": 1.319
+      },
+      {
+        "word": "spreading",
+        "start": 1.319,
+        "end": 2.081
+      },
+      {
+        "word": "across",
+        "start": 2.081,
+        "end": 2.614
+      },
+      {
+        "word": "deserts,",
+        "start": 2.614,
+        "end": 3.3
+      },
+      {
+        "word": "hills,",
+        "start": 3.3,
+        "end": 3.834
+      },
+      {
+        "word": "and",
+        "start": 3.834,
+        "end": 4.138
+      },
+      {
+        "word": "rooftops",
+        "start": 4.138,
+        "end": 4.824
+      },
+      {
+        "word": "around",
+        "start": 4.824,
+        "end": 5.357
+      },
+      {
+        "word": "the",
+        "start": 5.357,
+        "end": 5.662
+      },
+      {
+        "word": "world.",
+        "start": 5.662,
+        "end": 6.196
+      }
+    ]
+  },
+  {
+    "text": "As installations grow larger, keeping thousands of panels running efficiently has become a serious challenge.",
+    "sent_start": 6.069,
+    "sent_end": 13.639,
+    "words": [
+      {
+        "word": "As",
+        "start": 6.069,
+        "end": 6.278
+      },
+      {
+        "word": "installations",
+        "start": 6.278,
+        "end": 7.25
+      },
+      {
+        "word": "grow",
+        "start": 7.25,
+        "end": 7.597
+      },
+      {
+        "word": "larger,",
+        "start": 7.597,
+        "end": 8.153
+      },
+      {
+        "word": "keeping",
+        "start": 8.153,
+        "end": 8.708
+      },
+      {
+        "word": "thousands",
+        "start": 8.708,
+        "end": 9.403
+      },
+      {
+        "word": "of",
+        "start": 9.403,
+        "end": 9.611
+      },
+      {
+        "word": "panels",
+        "start": 9.611,
+        "end": 10.097
+      },
+      {
+        "word": "running",
+        "start": 10.097,
+        "end": 10.653
+      },
+      {
+        "word": "efficiently",
+        "start": 10.653,
+        "end": 11.486
+      },
+      {
+        "word": "has",
+        "start": 11.486,
+        "end": 11.764
+      },
+      {
+        "word": "become",
+        "start": 11.764,
+        "end": 12.25
+      },
+      {
+        "word": "a",
+        "start": 12.25,
+        "end": 12.389
+      },
+      {
+        "word": "serious",
+        "start": 12.389,
+        "end": 12.944
+      },
+      {
+        "word": "challenge.",
+        "start": 12.944,
+        "end": 13.708
+      }
+    ]
+  },
+  {
+    "text": "Traditional maintenance relies on fixed schedules or waiting for failures to occur.",
+    "sent_start": 13.639,
+    "sent_end": 19.514,
+    "words": [
+      {
+        "word": "Traditional",
+        "start": 13.639,
+        "end": 14.488
+      },
+      {
+        "word": "maintenance",
+        "start": 14.488,
+        "end": 15.338
+      },
+      {
+        "word": "relies",
+        "start": 15.338,
+        "end": 15.833
+      },
+      {
+        "word": "on",
+        "start": 15.833,
+        "end": 16.046
+      },
+      {
+        "word": "fixed",
+        "start": 16.046,
+        "end": 16.47
+      },
+      {
+        "word": "schedules",
+        "start": 16.47,
+        "end": 17.178
+      },
+      {
+        "word": "or",
+        "start": 17.178,
+        "end": 17.39
+      },
+      {
+        "word": "waiting",
+        "start": 17.39,
+        "end": 17.957
+      },
+      {
+        "word": "for",
+        "start": 17.957,
+        "end": 18.24
+      },
+      {
+        "word": "failures",
+        "start": 18.24,
+        "end": 18.877
+      },
+      {
+        "word": "to",
+        "start": 18.877,
+        "end": 19.089
+      },
+      {
+        "word": "occur.",
+        "start": 19.089,
+        "end": 19.585
+      }
+    ]
+  },
+  {
+    "text": "Today, industrial IoT technology is changing this approach by enabling predictive maintenance that catches problems before they cause real damage.",
+    "sent_start": 19.514,
+    "sent_end": 29.514,
+    "words": [
+      {
+        "word": "Today,",
+        "start": 19.514,
+        "end": 19.993
+      },
+      {
+        "word": "industrial",
+        "start": 19.993,
+        "end": 20.747
+      },
+      {
+        "word": "IoT",
+        "start": 20.747,
+        "end": 21.021
+      },
+      {
+        "word": "technology",
+        "start": 21.021,
+        "end": 21.774
+      },
+      {
+        "word": "is",
+        "start": 21.774,
+        "end": 21.98
+      },
+      {
+        "word": "changing",
+        "start": 21.98,
+        "end": 22.596
+      },
+      {
+        "word": "this",
+        "start": 22.596,
+        "end": 22.939
+      },
+      {
+        "word": "approach",
+        "start": 22.939,
+        "end": 23.555
+      },
+      {
+        "word": "by",
+        "start": 23.555,
+        "end": 23.76
+      },
+      {
+        "word": "enabling",
+        "start": 23.76,
+        "end": 24.377
+      },
+      {
+        "word": "predictive",
+        "start": 24.377,
+        "end": 25.13
+      },
+      {
+        "word": "maintenance",
+        "start": 25.13,
+        "end": 25.952
+      },
+      {
+        "word": "that",
+        "start": 25.952,
+        "end": 26.295
+      },
+      {
+        "word": "catches",
+        "start": 26.295,
+        "end": 26.843
+      },
+      {
+        "word": "problems",
+        "start": 26.843,
+        "end": 27.459
+      },
+      {
+        "word": "before",
+        "start": 27.459,
+        "end": 27.939
+      },
+      {
+        "word": "they",
+        "start": 27.939,
+        "end": 28.281
+      },
+      {
+        "word": "cause",
+        "start": 28.281,
+        "end": 28.692
+      },
+      {
+        "word": "real",
+        "start": 28.692,
+        "end": 29.034
+      },
+      {
+        "word": "damage.",
+        "start": 29.034,
+        "end": 29.582
+      }
+    ]
+  },
+  {
+    "text": "At the heart of this system are smart sensors deployed across the solar farm.",
+    "sent_start": 29.514,
+    "sent_end": 34.889,
+    "words": [
+      {
+        "word": "At",
+        "start": 29.514,
+        "end": 29.723
+      },
+      {
+        "word": "the",
+        "start": 29.723,
+        "end": 30.003
+      },
+      {
+        "word": "heart",
+        "start": 30.003,
+        "end": 30.421
+      },
+      {
+        "word": "of",
+        "start": 30.421,
+        "end": 30.631
+      },
+      {
+        "word": "this",
+        "start": 30.631,
+        "end": 30.98
+      },
+      {
+        "word": "system",
+        "start": 30.98,
+        "end": 31.468
+      },
+      {
+        "word": "are",
+        "start": 31.468,
+        "end": 31.748
+      },
+      {
+        "word": "smart",
+        "start": 31.748,
+        "end": 32.166
+      },
+      {
+        "word": "sensors",
+        "start": 32.166,
+        "end": 32.725
+      },
+      {
+        "word": "deployed",
+        "start": 32.725,
+        "end": 33.353
+      },
+      {
+        "word": "across",
+        "start": 33.353,
+        "end": 33.842
+      },
+      {
+        "word": "the",
+        "start": 33.842,
+        "end": 34.121
+      },
+      {
+        "word": "solar",
+        "start": 34.121,
+        "end": 34.54
+      },
+      {
+        "word": "farm.",
+        "start": 34.54,
+        "end": 34.959
+      }
+    ]
+  },
+  {
+    "text": "These devices continuously monitor key parameters such as panel temperature, voltage output, current flow, and ambient conditions like humidity and dust levels.",
+    "sent_start": 34.889,
+    "sent_end": 46.347,
+    "words": [
+      {
+        "word": "These",
+        "start": 34.889,
+        "end": 35.319
+      },
+      {
+        "word": "devices",
+        "start": 35.319,
+        "end": 35.891
+      },
+      {
+        "word": "continuously",
+        "start": 35.891,
+        "end": 36.822
+      },
+      {
+        "word": "monitor",
+        "start": 36.822,
+        "end": 37.395
+      },
+      {
+        "word": "key",
+        "start": 37.395,
+        "end": 37.682
+      },
+      {
+        "word": "parameters",
+        "start": 37.682,
+        "end": 38.47
+      },
+      {
+        "word": "such",
+        "start": 38.47,
+        "end": 38.828
+      },
+      {
+        "word": "as",
+        "start": 38.828,
+        "end": 39.043
+      },
+      {
+        "word": "panel",
+        "start": 39.043,
+        "end": 39.472
+      },
+      {
+        "word": "temperature,",
+        "start": 39.472,
+        "end": 40.403
+      },
+      {
+        "word": "voltage",
+        "start": 40.403,
+        "end": 40.976
+      },
+      {
+        "word": "output,",
+        "start": 40.976,
+        "end": 41.549
+      },
+      {
+        "word": "current",
+        "start": 41.549,
+        "end": 42.122
+      },
+      {
+        "word": "flow,",
+        "start": 42.122,
+        "end": 42.552
+      },
+      {
+        "word": "and",
+        "start": 42.552,
+        "end": 42.838
+      },
+      {
+        "word": "ambient",
+        "start": 42.838,
+        "end": 43.411
+      },
+      {
+        "word": "conditions",
+        "start": 43.411,
+        "end": 44.199
+      },
+      {
+        "word": "like",
+        "start": 44.199,
+        "end": 44.557
+      },
+      {
+        "word": "humidity",
+        "start": 44.557,
+        "end": 45.201
+      },
+      {
+        "word": "and",
+        "start": 45.201,
+        "end": 45.488
+      },
+      {
+        "word": "dust",
+        "start": 45.488,
+        "end": 45.846
+      },
+      {
+        "word": "levels.",
+        "start": 45.846,
+        "end": 46.419
+      }
+    ]
+  },
+  {
+    "text": "The data is transmitted in real time through wireless networks to a centralized cloud platform.",
+    "sent_start": 46.347,
+    "sent_end": 52.958,
+    "words": [
+      {
+        "word": "The",
+        "start": 46.347,
+        "end": 46.626
+      },
+      {
+        "word": "data",
+        "start": 46.626,
+        "end": 46.974
+      },
+      {
+        "word": "is",
+        "start": 46.974,
+        "end": 47.182
+      },
+      {
+        "word": "transmitted",
+        "start": 47.182,
+        "end": 48.017
+      },
+      {
+        "word": "in",
+        "start": 48.017,
+        "end": 48.226
+      },
+      {
+        "word": "real",
+        "start": 48.226,
+        "end": 48.574
+      },
+      {
+        "word": "time",
+        "start": 48.574,
+        "end": 48.922
+      },
+      {
+        "word": "through",
+        "start": 48.922,
+        "end": 49.479
+      },
+      {
+        "word": "wireless",
+        "start": 49.479,
+        "end": 50.105
+      },
+      {
+        "word": "networks",
+        "start": 50.105,
+        "end": 50.731
+      },
+      {
+        "word": "to",
+        "start": 50.731,
+        "end": 50.94
+      },
+      {
+        "word": "a",
+        "start": 50.94,
+        "end": 51.079
+      },
+      {
+        "word": "centralized",
+        "start": 51.079,
+        "end": 51.914
+      },
+      {
+        "word": "cloud",
+        "start": 51.914,
+        "end": 52.332
+      },
+      {
+        "word": "platform.",
+        "start": 52.332,
+        "end": 53.028
+      }
+    ]
+  },
+  {
+    "text": "This platform collects information from every panel and creates a digital overview of the entire installation.",
+    "sent_start": 52.958,
+    "sent_end": 60.444,
+    "words": [
+      {
+        "word": "This",
+        "start": 52.958,
+        "end": 53.299
+      },
+      {
+        "word": "platform",
+        "start": 53.299,
+        "end": 53.911
+      },
+      {
+        "word": "collects",
+        "start": 53.911,
+        "end": 54.524
+      },
+      {
+        "word": "information",
+        "start": 54.524,
+        "end": 55.34
+      },
+      {
+        "word": "from",
+        "start": 55.34,
+        "end": 55.681
+      },
+      {
+        "word": "every",
+        "start": 55.681,
+        "end": 56.089
+      },
+      {
+        "word": "panel",
+        "start": 56.089,
+        "end": 56.497
+      },
+      {
+        "word": "and",
+        "start": 56.497,
+        "end": 56.769
+      },
+      {
+        "word": "creates",
+        "start": 56.769,
+        "end": 57.314
+      },
+      {
+        "word": "a",
+        "start": 57.314,
+        "end": 57.45
+      },
+      {
+        "word": "digital",
+        "start": 57.45,
+        "end": 57.994
+      },
+      {
+        "word": "overview",
+        "start": 57.994,
+        "end": 58.607
+      },
+      {
+        "word": "of",
+        "start": 58.607,
+        "end": 58.811
+      },
+      {
+        "word": "the",
+        "start": 58.811,
+        "end": 59.083
+      },
+      {
+        "word": "entire",
+        "start": 59.083,
+        "end": 59.56
+      },
+      {
+        "word": "installation.",
+        "start": 59.56,
+        "end": 60.513
+      }
+    ]
+  },
+  {
+    "text": "The real power comes from the analytics layer.",
+    "sent_start": 60.444,
+    "sent_end": 64.083,
+    "words": [
+      {
+        "word": "The",
+        "start": 60.444,
+        "end": 60.761
+      },
+      {
+        "word": "real",
+        "start": 60.761,
+        "end": 61.156
+      },
+      {
+        "word": "power",
+        "start": 61.156,
+        "end": 61.631
+      },
+      {
+        "word": "comes",
+        "start": 61.631,
+        "end": 62.106
+      },
+      {
+        "word": "from",
+        "start": 62.106,
+        "end": 62.501
+      },
+      {
+        "word": "the",
+        "start": 62.501,
+        "end": 62.818
+      },
+      {
+        "word": "analytics",
+        "start": 62.818,
+        "end": 63.609
+      },
+      {
+        "word": "layer.",
+        "start": 63.609,
+        "end": 64.162
+      }
+    ]
+  },
+  {
+    "text": "Machine learning algorithms analyze the sensor data to identify patterns that indicate potential failures.",
+    "sent_start": 64.083,
+    "sent_end": 71.597,
+    "words": [
+      {
+        "word": "Machine",
+        "start": 64.083,
+        "end": 64.65
+      },
+      {
+        "word": "learning",
+        "start": 64.65,
+        "end": 65.288
+      },
+      {
+        "word": "algorithms",
+        "start": 65.288,
+        "end": 66.068
+      },
+      {
+        "word": "analyze",
+        "start": 66.068,
+        "end": 66.635
+      },
+      {
+        "word": "the",
+        "start": 66.635,
+        "end": 66.919
+      },
+      {
+        "word": "sensor",
+        "start": 66.919,
+        "end": 67.415
+      },
+      {
+        "word": "data",
+        "start": 67.415,
+        "end": 67.769
+      },
+      {
+        "word": "to",
+        "start": 67.769,
+        "end": 67.982
+      },
+      {
+        "word": "identify",
+        "start": 67.982,
+        "end": 68.62
+      },
+      {
+        "word": "patterns",
+        "start": 68.62,
+        "end": 69.258
+      },
+      {
+        "word": "that",
+        "start": 69.258,
+        "end": 69.612
+      },
+      {
+        "word": "indicate",
+        "start": 69.612,
+        "end": 70.25
+      },
+      {
+        "word": "potential",
+        "start": 70.25,
+        "end": 70.959
+      },
+      {
+        "word": "failures.",
+        "start": 70.959,
+        "end": 71.668
+      }
+    ]
+  },
+  {
+    "text": "For example, if a particular panel shows a gradual drop in voltage output while temperature readings remain normal, the system might predict that the panel is developing a micro-crack.",
+    "sent_start": 71.597,
+    "sent_end": 83.556,
+    "words": [
+      {
+        "word": "For",
+        "start": 71.597,
+        "end": 71.857
+      },
+      {
+        "word": "example,",
+        "start": 71.857,
+        "end": 72.442
+      },
+      {
+        "word": "if",
+        "start": 72.442,
+        "end": 72.637
+      },
+      {
+        "word": "a",
+        "start": 72.637,
+        "end": 72.767
+      },
+      {
+        "word": "particular",
+        "start": 72.767,
+        "end": 73.482
+      },
+      {
+        "word": "panel",
+        "start": 73.482,
+        "end": 73.872
+      },
+      {
+        "word": "shows",
+        "start": 73.872,
+        "end": 74.262
+      },
+      {
+        "word": "a",
+        "start": 74.262,
+        "end": 74.392
+      },
+      {
+        "word": "gradual",
+        "start": 74.392,
+        "end": 74.912
+      },
+      {
+        "word": "drop",
+        "start": 74.912,
+        "end": 75.237
+      },
+      {
+        "word": "in",
+        "start": 75.237,
+        "end": 75.432
+      },
+      {
+        "word": "voltage",
+        "start": 75.432,
+        "end": 75.952
+      },
+      {
+        "word": "output",
+        "start": 75.952,
+        "end": 76.407
+      },
+      {
+        "word": "while",
+        "start": 76.407,
+        "end": 76.796
+      },
+      {
+        "word": "temperature",
+        "start": 76.796,
+        "end": 77.576
+      },
+      {
+        "word": "readings",
+        "start": 77.576,
+        "end": 78.161
+      },
+      {
+        "word": "remain",
+        "start": 78.161,
+        "end": 78.616
+      },
+      {
+        "word": "normal,",
+        "start": 78.616,
+        "end": 79.136
+      },
+      {
+        "word": "the",
+        "start": 79.136,
+        "end": 79.396
+      },
+      {
+        "word": "system",
+        "start": 79.396,
+        "end": 79.851
+      },
+      {
+        "word": "might",
+        "start": 79.851,
+        "end": 80.241
+      },
+      {
+        "word": "predict",
+        "start": 80.241,
+        "end": 80.761
+      },
+      {
+        "word": "that",
+        "start": 80.761,
+        "end": 81.086
+      },
+      {
+        "word": "the",
+        "start": 81.086,
+        "end": 81.346
+      },
+      {
+        "word": "panel",
+        "start": 81.346,
+        "end": 81.736
+      },
+      {
+        "word": "is",
+        "start": 81.736,
+        "end": 81.931
+      },
+      {
+        "word": "developing",
+        "start": 81.931,
+        "end": 82.646
+      },
+      {
+        "word": "a",
+        "start": 82.646,
+        "end": 82.776
+      },
+      {
+        "word": "micro-crack.",
+        "start": 82.776,
+        "end": 83.621
+      }
+    ]
+  },
+  {
+    "text": "This kind of early detection allows maintenance teams to plan repairs during scheduled downtime rather than responding to emergency breakdowns.",
+    "sent_start": 83.556,
+    "sent_end": 92.486,
+    "words": [
+      {
+        "word": "This",
+        "start": 83.556,
+        "end": 83.868
+      },
+      {
+        "word": "kind",
+        "start": 83.868,
+        "end": 84.18
+      },
+      {
+        "word": "of",
+        "start": 84.18,
+        "end": 84.367
+      },
+      {
+        "word": "early",
+        "start": 84.367,
+        "end": 84.742
+      },
+      {
+        "word": "detection",
+        "start": 84.742,
+        "end": 85.367
+      },
+      {
+        "word": "allows",
+        "start": 85.367,
+        "end": 85.804
+      },
+      {
+        "word": "maintenance",
+        "start": 85.804,
+        "end": 86.553
+      },
+      {
+        "word": "teams",
+        "start": 86.553,
+        "end": 86.928
+      },
+      {
+        "word": "to",
+        "start": 86.928,
+        "end": 87.115
+      },
+      {
+        "word": "plan",
+        "start": 87.115,
+        "end": 87.428
+      },
+      {
+        "word": "repairs",
+        "start": 87.428,
+        "end": 87.927
+      },
+      {
+        "word": "during",
+        "start": 87.927,
+        "end": 88.364
+      },
+      {
+        "word": "scheduled",
+        "start": 88.364,
+        "end": 88.989
+      },
+      {
+        "word": "downtime",
+        "start": 88.989,
+        "end": 89.551
+      },
+      {
+        "word": "rather",
+        "start": 89.551,
+        "end": 89.988
+      },
+      {
+        "word": "than",
+        "start": 89.988,
+        "end": 90.3
+      },
+      {
+        "word": "responding",
+        "start": 90.3,
+        "end": 90.987
+      },
+      {
+        "word": "to",
+        "start": 90.987,
+        "end": 91.175
+      },
+      {
+        "word": "emergency",
+        "start": 91.175,
+        "end": 91.799
+      },
+      {
+        "word": "breakdowns.",
+        "start": 91.799,
+        "end": 92.549
+      }
+    ]
+  },
+  {
+    "text": "Another important capability is soiling detection.",
+    "sent_start": 92.486,
+    "sent_end": 96.542,
+    "words": [
+      {
+        "word": "Another",
+        "start": 92.486,
+        "end": 93.135
+      },
+      {
+        "word": "important",
+        "start": 93.135,
+        "end": 93.946
+      },
+      {
+        "word": "capability",
+        "start": 93.946,
+        "end": 94.838
+      },
+      {
+        "word": "is",
+        "start": 94.838,
+        "end": 95.082
+      },
+      {
+        "word": "soiling",
+        "start": 95.082,
+        "end": 95.731
+      },
+      {
+        "word": "detection.",
+        "start": 95.731,
+        "end": 96.623
+      }
+    ]
+  },
+  {
+    "text": "Dust and dirt accumulation on panels can reduce energy output by up to thirty percent.",
+    "sent_start": 96.542,
+    "sent_end": 102.833,
+    "words": [
+      {
+        "word": "Dust",
+        "start": 96.542,
+        "end": 96.907
+      },
+      {
+        "word": "and",
+        "start": 96.907,
+        "end": 97.2
+      },
+      {
+        "word": "dirt",
+        "start": 97.2,
+        "end": 97.566
+      },
+      {
+        "word": "accumulation",
+        "start": 97.566,
+        "end": 98.517
+      },
+      {
+        "word": "on",
+        "start": 98.517,
+        "end": 98.736
+      },
+      {
+        "word": "panels",
+        "start": 98.736,
+        "end": 99.249
+      },
+      {
+        "word": "can",
+        "start": 99.249,
+        "end": 99.541
+      },
+      {
+        "word": "reduce",
+        "start": 99.541,
+        "end": 100.053
+      },
+      {
+        "word": "energy",
+        "start": 100.053,
+        "end": 100.565
+      },
+      {
+        "word": "output",
+        "start": 100.565,
+        "end": 101.078
+      },
+      {
+        "word": "by",
+        "start": 101.078,
+        "end": 101.297
+      },
+      {
+        "word": "up",
+        "start": 101.297,
+        "end": 101.516
+      },
+      {
+        "word": "to",
+        "start": 101.516,
+        "end": 101.736
+      },
+      {
+        "word": "thirty",
+        "start": 101.736,
+        "end": 102.248
+      },
+      {
+        "word": "percent.",
+        "start": 102.248,
+        "end": 102.906
+      }
+    ]
+  },
+  {
+    "text": "IoT sensors can measure the degree of soiling on different sections of the farm and automatically trigger cleaning schedules when efficiency drops below a certain threshold.",
+    "sent_start": 102.833,
+    "sent_end": 113.694,
+    "words": [
+      {
+        "word": "IoT",
+        "start": 102.833,
+        "end": 103.084
+      },
+      {
+        "word": "sensors",
+        "start": 103.084,
+        "end": 103.587
+      },
+      {
+        "word": "can",
+        "start": 103.587,
+        "end": 103.838
+      },
+      {
+        "word": "measure",
+        "start": 103.838,
+        "end": 104.34
+      },
+      {
+        "word": "the",
+        "start": 104.34,
+        "end": 104.591
+      },
+      {
+        "word": "degree",
+        "start": 104.591,
+        "end": 105.031
+      },
+      {
+        "word": "of",
+        "start": 105.031,
+        "end": 105.219
+      },
+      {
+        "word": "soiling",
+        "start": 105.219,
+        "end": 105.721
+      },
+      {
+        "word": "on",
+        "start": 105.721,
+        "end": 105.91
+      },
+      {
+        "word": "different",
+        "start": 105.91,
+        "end": 106.537
+      },
+      {
+        "word": "sections",
+        "start": 106.537,
+        "end": 107.102
+      },
+      {
+        "word": "of",
+        "start": 107.102,
+        "end": 107.291
+      },
+      {
+        "word": "the",
+        "start": 107.291,
+        "end": 107.542
+      },
+      {
+        "word": "farm",
+        "start": 107.542,
+        "end": 107.856
+      },
+      {
+        "word": "and",
+        "start": 107.856,
+        "end": 108.107
+      },
+      {
+        "word": "automatically",
+        "start": 108.107,
+        "end": 108.986
+      },
+      {
+        "word": "trigger",
+        "start": 108.986,
+        "end": 109.488
+      },
+      {
+        "word": "cleaning",
+        "start": 109.488,
+        "end": 110.053
+      },
+      {
+        "word": "schedules",
+        "start": 110.053,
+        "end": 110.681
+      },
+      {
+        "word": "when",
+        "start": 110.681,
+        "end": 110.995
+      },
+      {
+        "word": "efficiency",
+        "start": 110.995,
+        "end": 111.685
+      },
+      {
+        "word": "drops",
+        "start": 111.685,
+        "end": 112.062
+      },
+      {
+        "word": "below",
+        "start": 112.062,
+        "end": 112.439
+      },
+      {
+        "word": "a",
+        "start": 112.439,
+        "end": 112.564
+      },
+      {
+        "word": "certain",
+        "start": 112.564,
+        "end": 113.067
+      },
+      {
+        "word": "threshold.",
+        "start": 113.067,
+        "end": 113.757
+      }
+    ]
+  },
+  {
+    "text": "This approach saves water and labor compared to routine cleaning cycles that run regardless of actual need.",
+    "sent_start": 113.694,
+    "sent_end": 120.778,
+    "words": [
+      {
+        "word": "This",
+        "start": 113.694,
+        "end": 114.025
+      },
+      {
+        "word": "approach",
+        "start": 114.025,
+        "end": 114.621
+      },
+      {
+        "word": "saves",
+        "start": 114.621,
+        "end": 115.018
+      },
+      {
+        "word": "water",
+        "start": 115.018,
+        "end": 115.416
+      },
+      {
+        "word": "and",
+        "start": 115.416,
+        "end": 115.68
+      },
+      {
+        "word": "labor",
+        "start": 115.68,
+        "end": 116.078
+      },
+      {
+        "word": "compared",
+        "start": 116.078,
+        "end": 116.673
+      },
+      {
+        "word": "to",
+        "start": 116.673,
+        "end": 116.872
+      },
+      {
+        "word": "routine",
+        "start": 116.872,
+        "end": 117.402
+      },
+      {
+        "word": "cleaning",
+        "start": 117.402,
+        "end": 117.997
+      },
+      {
+        "word": "cycles",
+        "start": 117.997,
+        "end": 118.461
+      },
+      {
+        "word": "that",
+        "start": 118.461,
+        "end": 118.792
+      },
+      {
+        "word": "run",
+        "start": 118.792,
+        "end": 119.057
+      },
+      {
+        "word": "regardless",
+        "start": 119.057,
+        "end": 119.785
+      },
+      {
+        "word": "of",
+        "start": 119.785,
+        "end": 119.983
+      },
+      {
+        "word": "actual",
+        "start": 119.983,
+        "end": 120.447
+      },
+      {
+        "word": "need.",
+        "start": 120.447,
+        "end": 120.844
+      }
+    ]
+  },
+  {
+    "text": "From a product management perspective, building these IoT platforms requires careful thinking about data architecture.",
+    "sent_start": 120.778,
+    "sent_end": 129.208,
+    "words": [
+      {
+        "word": "From",
+        "start": 120.778,
+        "end": 121.135
+      },
+      {
+        "word": "a",
+        "start": 121.135,
+        "end": 121.278
+      },
+      {
+        "word": "product",
+        "start": 121.278,
+        "end": 121.849
+      },
+      {
+        "word": "management",
+        "start": 121.849,
+        "end": 122.635
+      },
+      {
+        "word": "perspective,",
+        "start": 122.635,
+        "end": 123.564
+      },
+      {
+        "word": "building",
+        "start": 123.564,
+        "end": 124.207
+      },
+      {
+        "word": "these",
+        "start": 124.207,
+        "end": 124.636
+      },
+      {
+        "word": "IoT",
+        "start": 124.636,
+        "end": 124.922
+      },
+      {
+        "word": "platforms",
+        "start": 124.922,
+        "end": 125.636
+      },
+      {
+        "word": "requires",
+        "start": 125.636,
+        "end": 126.279
+      },
+      {
+        "word": "careful",
+        "start": 126.279,
+        "end": 126.851
+      },
+      {
+        "word": "thinking",
+        "start": 126.851,
+        "end": 127.494
+      },
+      {
+        "word": "about",
+        "start": 127.494,
+        "end": 127.922
+      },
+      {
+        "word": "data",
+        "start": 127.922,
+        "end": 128.28
+      },
+      {
+        "word": "architecture.",
+        "start": 128.28,
+        "end": 129.28
+      }
+    ]
+  },
+  {
+    "text": "Engineers must decide how to handle millions of data points per day, design dashboards that make complex information easy to understand, and build alert systems that notify the right people at the right time.",
+    "sent_start": 129.208,
+    "sent_end": 142.611,
+    "words": [
+      {
+        "word": "Engineers",
+        "start": 129.208,
+        "end": 129.853
+      },
+      {
+        "word": "must",
+        "start": 129.853,
+        "end": 130.175
+      },
+      {
+        "word": "decide",
+        "start": 130.175,
+        "end": 130.626
+      },
+      {
+        "word": "how",
+        "start": 130.626,
+        "end": 130.884
+      },
+      {
+        "word": "to",
+        "start": 130.884,
+        "end": 131.077
+      },
+      {
+        "word": "handle",
+        "start": 131.077,
+        "end": 131.528
+      },
+      {
+        "word": "millions",
+        "start": 131.528,
+        "end": 132.108
+      },
+      {
+        "word": "of",
+        "start": 132.108,
+        "end": 132.301
+      },
+      {
+        "word": "data",
+        "start": 132.301,
+        "end": 132.623
+      },
+      {
+        "word": "points",
+        "start": 132.623,
+        "end": 133.075
+      },
+      {
+        "word": "per",
+        "start": 133.075,
+        "end": 133.332
+      },
+      {
+        "word": "day,",
+        "start": 133.332,
+        "end": 133.654
+      },
+      {
+        "word": "design",
+        "start": 133.654,
+        "end": 134.106
+      },
+      {
+        "word": "dashboards",
+        "start": 134.106,
+        "end": 134.814
+      },
+      {
+        "word": "that",
+        "start": 134.814,
+        "end": 135.136
+      },
+      {
+        "word": "make",
+        "start": 135.136,
+        "end": 135.459
+      },
+      {
+        "word": "complex",
+        "start": 135.459,
+        "end": 135.974
+      },
+      {
+        "word": "information",
+        "start": 135.974,
+        "end": 136.747
+      },
+      {
+        "word": "easy",
+        "start": 136.747,
+        "end": 137.07
+      },
+      {
+        "word": "to",
+        "start": 137.07,
+        "end": 137.263
+      },
+      {
+        "word": "understand,",
+        "start": 137.263,
+        "end": 138.036
+      },
+      {
+        "word": "and",
+        "start": 138.036,
+        "end": 138.294
+      },
+      {
+        "word": "build",
+        "start": 138.294,
+        "end": 138.68
+      },
+      {
+        "word": "alert",
+        "start": 138.68,
+        "end": 139.067
+      },
+      {
+        "word": "systems",
+        "start": 139.067,
+        "end": 139.583
+      },
+      {
+        "word": "that",
+        "start": 139.583,
+        "end": 139.905
+      },
+      {
+        "word": "notify",
+        "start": 139.905,
+        "end": 140.356
+      },
+      {
+        "word": "the",
+        "start": 140.356,
+        "end": 140.614
+      },
+      {
+        "word": "right",
+        "start": 140.614,
+        "end": 141.0
+      },
+      {
+        "word": "people",
+        "start": 141.0,
+        "end": 141.451
+      },
+      {
+        "word": "at",
+        "start": 141.451,
+        "end": 141.645
+      },
+      {
+        "word": "the",
+        "start": 141.645,
+        "end": 141.902
+      },
+      {
+        "word": "right",
+        "start": 141.902,
+        "end": 142.289
+      },
+      {
+        "word": "time.",
+        "start": 142.289,
+        "end": 142.676
+      }
+    ]
+  },
+  {
+    "text": "The best platforms combine real-time monitoring with long-term trend analysis to support both operational and strategic decisions.",
+    "sent_start": 142.611,
+    "sent_end": 151.431,
+    "words": [
+      {
+        "word": "The",
+        "start": 142.611,
+        "end": 142.882
+      },
+      {
+        "word": "best",
+        "start": 142.882,
+        "end": 143.222
+      },
+      {
+        "word": "platforms",
+        "start": 143.222,
+        "end": 143.9
+      },
+      {
+        "word": "combine",
+        "start": 143.9,
+        "end": 144.443
+      },
+      {
+        "word": "real-time",
+        "start": 144.443,
+        "end": 145.121
+      },
+      {
+        "word": "monitoring",
+        "start": 145.121,
+        "end": 145.868
+      },
+      {
+        "word": "with",
+        "start": 145.868,
+        "end": 146.207
+      },
+      {
+        "word": "long-term",
+        "start": 146.207,
+        "end": 146.885
+      },
+      {
+        "word": "trend",
+        "start": 146.885,
+        "end": 147.292
+      },
+      {
+        "word": "analysis",
+        "start": 147.292,
+        "end": 147.903
+      },
+      {
+        "word": "to",
+        "start": 147.903,
+        "end": 148.106
+      },
+      {
+        "word": "support",
+        "start": 148.106,
+        "end": 148.649
+      },
+      {
+        "word": "both",
+        "start": 148.649,
+        "end": 148.988
+      },
+      {
+        "word": "operational",
+        "start": 148.988,
+        "end": 149.802
+      },
+      {
+        "word": "and",
+        "start": 149.802,
+        "end": 150.074
+      },
+      {
+        "word": "strategic",
+        "start": 150.074,
+        "end": 150.752
+      },
+      {
+        "word": "decisions.",
+        "start": 150.752,
+        "end": 151.498
+      }
+    ]
+  },
+  {
+    "text": "Looking forward, the integration of IoT with digital twin technology will make solar farm management even smarter.",
+    "sent_start": 151.431,
+    "sent_end": 159.556,
+    "words": [
+      {
+        "word": "Looking",
+        "start": 151.431,
+        "end": 152.001
+      },
+      {
+        "word": "forward,",
+        "start": 152.001,
+        "end": 152.642
+      },
+      {
+        "word": "the",
+        "start": 152.642,
+        "end": 152.927
+      },
+      {
+        "word": "integration",
+        "start": 152.927,
+        "end": 153.783
+      },
+      {
+        "word": "of",
+        "start": 153.783,
+        "end": 153.996
+      },
+      {
+        "word": "IoT",
+        "start": 153.996,
+        "end": 154.281
+      },
+      {
+        "word": "with",
+        "start": 154.281,
+        "end": 154.638
+      },
+      {
+        "word": "digital",
+        "start": 154.638,
+        "end": 155.208
+      },
+      {
+        "word": "twin",
+        "start": 155.208,
+        "end": 155.564
+      },
+      {
+        "word": "technology",
+        "start": 155.564,
+        "end": 156.348
+      },
+      {
+        "word": "will",
+        "start": 156.348,
+        "end": 156.705
+      },
+      {
+        "word": "make",
+        "start": 156.705,
+        "end": 157.061
+      },
+      {
+        "word": "solar",
+        "start": 157.061,
+        "end": 157.489
+      },
+      {
+        "word": "farm",
+        "start": 157.489,
+        "end": 157.845
+      },
+      {
+        "word": "management",
+        "start": 157.845,
+        "end": 158.629
+      },
+      {
+        "word": "even",
+        "start": 158.629,
+        "end": 158.985
+      },
+      {
+        "word": "smarter.",
+        "start": 158.985,
+        "end": 159.627
+      }
+    ]
+  },
+  {
+    "text": "A digital twin is a virtual replica of the physical installation that simulates how the system should perform under different conditions.",
+    "sent_start": 159.556,
+    "sent_end": 168.25,
+    "words": [
+      {
+        "word": "A",
+        "start": 159.556,
+        "end": 159.682
+      },
+      {
+        "word": "digital",
+        "start": 159.682,
+        "end": 160.19
+      },
+      {
+        "word": "twin",
+        "start": 160.19,
+        "end": 160.508
+      },
+      {
+        "word": "is",
+        "start": 160.508,
+        "end": 160.698
+      },
+      {
+        "word": "a",
+        "start": 160.698,
+        "end": 160.825
+      },
+      {
+        "word": "virtual",
+        "start": 160.825,
+        "end": 161.333
+      },
+      {
+        "word": "replica",
+        "start": 161.333,
+        "end": 161.84
+      },
+      {
+        "word": "of",
+        "start": 161.84,
+        "end": 162.031
+      },
+      {
+        "word": "the",
+        "start": 162.031,
+        "end": 162.284
+      },
+      {
+        "word": "physical",
+        "start": 162.284,
+        "end": 162.856
+      },
+      {
+        "word": "installation",
+        "start": 162.856,
+        "end": 163.681
+      },
+      {
+        "word": "that",
+        "start": 163.681,
+        "end": 163.998
+      },
+      {
+        "word": "simulates",
+        "start": 163.998,
+        "end": 164.633
+      },
+      {
+        "word": "how",
+        "start": 164.633,
+        "end": 164.886
+      },
+      {
+        "word": "the",
+        "start": 164.886,
+        "end": 165.14
+      },
+      {
+        "word": "system",
+        "start": 165.14,
+        "end": 165.585
+      },
+      {
+        "word": "should",
+        "start": 165.585,
+        "end": 166.029
+      },
+      {
+        "word": "perform",
+        "start": 166.029,
+        "end": 166.537
+      },
+      {
+        "word": "under",
+        "start": 166.537,
+        "end": 166.917
+      },
+      {
+        "word": "different",
+        "start": 166.917,
+        "end": 167.552
+      },
+      {
+        "word": "conditions.",
+        "start": 167.552,
+        "end": 168.313
+      }
+    ]
+  },
+  {
+    "text": "By comparing actual sensor data against the digital twin model, operators can quickly identify anomalies and optimize performance across the entire fleet.",
+    "sent_start": 168.25,
+    "sent_end": 179.097,
+    "words": [
+      {
+        "word": "By",
+        "start": 168.25,
+        "end": 168.461
+      },
+      {
+        "word": "comparing",
+        "start": 168.461,
+        "end": 169.166
+      },
+      {
+        "word": "actual",
+        "start": 169.166,
+        "end": 169.659
+      },
+      {
+        "word": "sensor",
+        "start": 169.659,
+        "end": 170.152
+      },
+      {
+        "word": "data",
+        "start": 170.152,
+        "end": 170.504
+      },
+      {
+        "word": "against",
+        "start": 170.504,
+        "end": 171.067
+      },
+      {
+        "word": "the",
+        "start": 171.067,
+        "end": 171.349
+      },
+      {
+        "word": "digital",
+        "start": 171.349,
+        "end": 171.913
+      },
+      {
+        "word": "twin",
+        "start": 171.913,
+        "end": 172.265
+      },
+      {
+        "word": "model,",
+        "start": 172.265,
+        "end": 172.758
+      },
+      {
+        "word": "operators",
+        "start": 172.758,
+        "end": 173.462
+      },
+      {
+        "word": "can",
+        "start": 173.462,
+        "end": 173.744
+      },
+      {
+        "word": "quickly",
+        "start": 173.744,
+        "end": 174.308
+      },
+      {
+        "word": "identify",
+        "start": 174.308,
+        "end": 174.941
+      },
+      {
+        "word": "anomalies",
+        "start": 174.941,
+        "end": 175.646
+      },
+      {
+        "word": "and",
+        "start": 175.646,
+        "end": 175.928
+      },
+      {
+        "word": "optimize",
+        "start": 175.928,
+        "end": 176.562
+      },
+      {
+        "word": "performance",
+        "start": 176.562,
+        "end": 177.407
+      },
+      {
+        "word": "across",
+        "start": 177.407,
+        "end": 177.9
+      },
+      {
+        "word": "the",
+        "start": 177.9,
+        "end": 178.182
+      },
+      {
+        "word": "entire",
+        "start": 178.182,
+        "end": 178.675
+      },
+      {
+        "word": "fleet.",
+        "start": 178.675,
+        "end": 179.168
+      }
+    ]
+  }
+]
