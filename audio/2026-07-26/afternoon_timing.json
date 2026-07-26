@@ -1,0 +1,1767 @@
+[
+  {
+    "text": "Enterprise energy management is undergoing a fundamental shift as AI copilot technology moves from experimental pilots to production-grade deployment.",
+    "sent_start": 0.1,
+    "sent_end": 10.286,
+    "words": [
+      {
+        "word": "Enterprise",
+        "start": 0.1,
+        "end": 0.847
+      },
+      {
+        "word": "energy",
+        "start": 0.847,
+        "end": 1.322
+      },
+      {
+        "word": "management",
+        "start": 1.322,
+        "end": 2.069
+      },
+      {
+        "word": "is",
+        "start": 2.069,
+        "end": 2.273
+      },
+      {
+        "word": "undergoing",
+        "start": 2.273,
+        "end": 3.02
+      },
+      {
+        "word": "a",
+        "start": 3.02,
+        "end": 3.156
+      },
+      {
+        "word": "fundamental",
+        "start": 3.156,
+        "end": 3.971
+      },
+      {
+        "word": "shift",
+        "start": 3.971,
+        "end": 4.378
+      },
+      {
+        "word": "as",
+        "start": 4.378,
+        "end": 4.582
+      },
+      {
+        "word": "AI",
+        "start": 4.582,
+        "end": 4.786
+      },
+      {
+        "word": "copilot",
+        "start": 4.786,
+        "end": 5.329
+      },
+      {
+        "word": "technology",
+        "start": 5.329,
+        "end": 6.076
+      },
+      {
+        "word": "moves",
+        "start": 6.076,
+        "end": 6.483
+      },
+      {
+        "word": "from",
+        "start": 6.483,
+        "end": 6.823
+      },
+      {
+        "word": "experimental",
+        "start": 6.823,
+        "end": 7.706
+      },
+      {
+        "word": "pilots",
+        "start": 7.706,
+        "end": 8.181
+      },
+      {
+        "word": "to",
+        "start": 8.181,
+        "end": 8.385
+      },
+      {
+        "word": "production-grade",
+        "start": 8.385,
+        "end": 9.539
+      },
+      {
+        "word": "deployment.",
+        "start": 9.539,
+        "end": 10.354
+      }
+    ]
+  },
+  {
+    "text": "These intelligent assistants are no longer simple chatbots — they are deeply integrated into the operational workflows of power plants, factories, and commercial buildings, helping managers make faster and more accurate decisions.",
+    "sent_start": 10.236,
+    "sent_end": 25.917,
+    "words": [
+      {
+        "word": "These",
+        "start": 10.236,
+        "end": 10.645
+      },
+      {
+        "word": "intelligent",
+        "start": 10.645,
+        "end": 11.463
+      },
+      {
+        "word": "assistants",
+        "start": 11.463,
+        "end": 12.213
+      },
+      {
+        "word": "are",
+        "start": 12.213,
+        "end": 12.486
+      },
+      {
+        "word": "no",
+        "start": 12.486,
+        "end": 12.69
+      },
+      {
+        "word": "longer",
+        "start": 12.69,
+        "end": 13.168
+      },
+      {
+        "word": "simple",
+        "start": 13.168,
+        "end": 13.645
+      },
+      {
+        "word": "chatbots",
+        "start": 13.645,
+        "end": 14.259
+      },
+      {
+        "word": "—",
+        "start": 14.259,
+        "end": 14.395
+      },
+      {
+        "word": "they",
+        "start": 14.395,
+        "end": 14.736
+      },
+      {
+        "word": "are",
+        "start": 14.736,
+        "end": 15.008
+      },
+      {
+        "word": "deeply",
+        "start": 15.008,
+        "end": 15.486
+      },
+      {
+        "word": "integrated",
+        "start": 15.486,
+        "end": 16.236
+      },
+      {
+        "word": "into",
+        "start": 16.236,
+        "end": 16.577
+      },
+      {
+        "word": "the",
+        "start": 16.577,
+        "end": 16.849
+      },
+      {
+        "word": "operational",
+        "start": 16.849,
+        "end": 17.667
+      },
+      {
+        "word": "workflows",
+        "start": 17.667,
+        "end": 18.349
+      },
+      {
+        "word": "of",
+        "start": 18.349,
+        "end": 18.554
+      },
+      {
+        "word": "power",
+        "start": 18.554,
+        "end": 18.963
+      },
+      {
+        "word": "plants,",
+        "start": 18.963,
+        "end": 19.508
+      },
+      {
+        "word": "factories,",
+        "start": 19.508,
+        "end": 20.258
+      },
+      {
+        "word": "and",
+        "start": 20.258,
+        "end": 20.531
+      },
+      {
+        "word": "commercial",
+        "start": 20.531,
+        "end": 21.281
+      },
+      {
+        "word": "buildings,",
+        "start": 21.281,
+        "end": 22.031
+      },
+      {
+        "word": "helping",
+        "start": 22.031,
+        "end": 22.576
+      },
+      {
+        "word": "managers",
+        "start": 22.576,
+        "end": 23.19
+      },
+      {
+        "word": "make",
+        "start": 23.19,
+        "end": 23.53
+      },
+      {
+        "word": "faster",
+        "start": 23.53,
+        "end": 24.008
+      },
+      {
+        "word": "and",
+        "start": 24.008,
+        "end": 24.28
+      },
+      {
+        "word": "more",
+        "start": 24.28,
+        "end": 24.621
+      },
+      {
+        "word": "accurate",
+        "start": 24.621,
+        "end": 25.235
+      },
+      {
+        "word": "decisions.",
+        "start": 25.235,
+        "end": 25.985
+      }
+    ]
+  },
+  {
+    "text": "At the core of an AI copilot is a large language model fine-tuned on domain-specific data.",
+    "sent_start": 25.917,
+    "sent_end": 32.375,
+    "words": [
+      {
+        "word": "At",
+        "start": 25.917,
+        "end": 26.132
+      },
+      {
+        "word": "the",
+        "start": 26.132,
+        "end": 26.419
+      },
+      {
+        "word": "core",
+        "start": 26.419,
+        "end": 26.778
+      },
+      {
+        "word": "of",
+        "start": 26.778,
+        "end": 26.993
+      },
+      {
+        "word": "an",
+        "start": 26.993,
+        "end": 27.208
+      },
+      {
+        "word": "AI",
+        "start": 27.208,
+        "end": 27.424
+      },
+      {
+        "word": "copilot",
+        "start": 27.424,
+        "end": 27.998
+      },
+      {
+        "word": "is",
+        "start": 27.998,
+        "end": 28.213
+      },
+      {
+        "word": "a",
+        "start": 28.213,
+        "end": 28.356
+      },
+      {
+        "word": "large",
+        "start": 28.356,
+        "end": 28.787
+      },
+      {
+        "word": "language",
+        "start": 28.787,
+        "end": 29.433
+      },
+      {
+        "word": "model",
+        "start": 29.433,
+        "end": 29.863
+      },
+      {
+        "word": "fine-tuned",
+        "start": 29.863,
+        "end": 30.653
+      },
+      {
+        "word": "on",
+        "start": 30.653,
+        "end": 30.868
+      },
+      {
+        "word": "domain-specific",
+        "start": 30.868,
+        "end": 32.016
+      },
+      {
+        "word": "data.",
+        "start": 32.016,
+        "end": 32.447
+      }
+    ]
+  },
+  {
+    "text": "In the energy sector, this means the model understands terminology like load forecasting, peak shaving, demand response, and carbon intensity.",
+    "sent_start": 32.375,
+    "sent_end": 42.847,
+    "words": [
+      {
+        "word": "In",
+        "start": 32.375,
+        "end": 32.596
+      },
+      {
+        "word": "the",
+        "start": 32.596,
+        "end": 32.891
+      },
+      {
+        "word": "energy",
+        "start": 32.891,
+        "end": 33.407
+      },
+      {
+        "word": "sector,",
+        "start": 33.407,
+        "end": 33.997
+      },
+      {
+        "word": "this",
+        "start": 33.997,
+        "end": 34.366
+      },
+      {
+        "word": "means",
+        "start": 34.366,
+        "end": 34.809
+      },
+      {
+        "word": "the",
+        "start": 34.809,
+        "end": 35.104
+      },
+      {
+        "word": "model",
+        "start": 35.104,
+        "end": 35.546
+      },
+      {
+        "word": "understands",
+        "start": 35.546,
+        "end": 36.431
+      },
+      {
+        "word": "terminology",
+        "start": 36.431,
+        "end": 37.316
+      },
+      {
+        "word": "like",
+        "start": 37.316,
+        "end": 37.685
+      },
+      {
+        "word": "load",
+        "start": 37.685,
+        "end": 38.054
+      },
+      {
+        "word": "forecasting,",
+        "start": 38.054,
+        "end": 39.012
+      },
+      {
+        "word": "peak",
+        "start": 39.012,
+        "end": 39.381
+      },
+      {
+        "word": "shaving,",
+        "start": 39.381,
+        "end": 40.045
+      },
+      {
+        "word": "demand",
+        "start": 40.045,
+        "end": 40.561
+      },
+      {
+        "word": "response,",
+        "start": 40.561,
+        "end": 41.299
+      },
+      {
+        "word": "and",
+        "start": 41.299,
+        "end": 41.594
+      },
+      {
+        "word": "carbon",
+        "start": 41.594,
+        "end": 42.11
+      },
+      {
+        "word": "intensity.",
+        "start": 42.11,
+        "end": 42.921
+      }
+    ]
+  },
+  {
+    "text": "When a facility manager asks a natural language question such as \"Why did our energy costs spike last Tuesday?\", the copilot can query historical meter data, cross-reference weather conditions, and surface the root cause — all within seconds.",
+    "sent_start": 42.847,
+    "sent_end": 59.125,
+    "words": [
+      {
+        "word": "When",
+        "start": 42.847,
+        "end": 43.184
+      },
+      {
+        "word": "a",
+        "start": 43.184,
+        "end": 43.318
+      },
+      {
+        "word": "facility",
+        "start": 43.318,
+        "end": 43.923
+      },
+      {
+        "word": "manager",
+        "start": 43.923,
+        "end": 44.462
+      },
+      {
+        "word": "asks",
+        "start": 44.462,
+        "end": 44.798
+      },
+      {
+        "word": "a",
+        "start": 44.798,
+        "end": 44.932
+      },
+      {
+        "word": "natural",
+        "start": 44.932,
+        "end": 45.471
+      },
+      {
+        "word": "language",
+        "start": 45.471,
+        "end": 46.076
+      },
+      {
+        "word": "question",
+        "start": 46.076,
+        "end": 46.681
+      },
+      {
+        "word": "such",
+        "start": 46.681,
+        "end": 47.018
+      },
+      {
+        "word": "as",
+        "start": 47.018,
+        "end": 47.219
+      },
+      {
+        "word": "\"Why",
+        "start": 47.219,
+        "end": 47.556
+      },
+      {
+        "word": "did",
+        "start": 47.556,
+        "end": 47.825
+      },
+      {
+        "word": "our",
+        "start": 47.825,
+        "end": 48.094
+      },
+      {
+        "word": "energy",
+        "start": 48.094,
+        "end": 48.565
+      },
+      {
+        "word": "costs",
+        "start": 48.565,
+        "end": 48.968
+      },
+      {
+        "word": "spike",
+        "start": 48.968,
+        "end": 49.372
+      },
+      {
+        "word": "last",
+        "start": 49.372,
+        "end": 49.708
+      },
+      {
+        "word": "Tuesday?\",",
+        "start": 49.708,
+        "end": 50.448
+      },
+      {
+        "word": "the",
+        "start": 50.448,
+        "end": 50.717
+      },
+      {
+        "word": "copilot",
+        "start": 50.717,
+        "end": 51.255
+      },
+      {
+        "word": "can",
+        "start": 51.255,
+        "end": 51.524
+      },
+      {
+        "word": "query",
+        "start": 51.524,
+        "end": 51.928
+      },
+      {
+        "word": "historical",
+        "start": 51.928,
+        "end": 52.668
+      },
+      {
+        "word": "meter",
+        "start": 52.668,
+        "end": 53.071
+      },
+      {
+        "word": "data,",
+        "start": 53.071,
+        "end": 53.475
+      },
+      {
+        "word": "cross-reference",
+        "start": 53.475,
+        "end": 54.551
+      },
+      {
+        "word": "weather",
+        "start": 54.551,
+        "end": 55.089
+      },
+      {
+        "word": "conditions,",
+        "start": 55.089,
+        "end": 55.896
+      },
+      {
+        "word": "and",
+        "start": 55.896,
+        "end": 56.165
+      },
+      {
+        "word": "surface",
+        "start": 56.165,
+        "end": 56.704
+      },
+      {
+        "word": "the",
+        "start": 56.704,
+        "end": 56.973
+      },
+      {
+        "word": "root",
+        "start": 56.973,
+        "end": 57.309
+      },
+      {
+        "word": "cause",
+        "start": 57.309,
+        "end": 57.712
+      },
+      {
+        "word": "—",
+        "start": 57.712,
+        "end": 57.847
+      },
+      {
+        "word": "all",
+        "start": 57.847,
+        "end": 58.116
+      },
+      {
+        "word": "within",
+        "start": 58.116,
+        "end": 58.587
+      },
+      {
+        "word": "seconds.",
+        "start": 58.587,
+        "end": 59.192
+      }
+    ]
+  },
+  {
+    "text": "The real value emerges when you consider the complexity of modern energy platforms.",
+    "sent_start": 59.125,
+    "sent_end": 65.083,
+    "words": [
+      {
+        "word": "The",
+        "start": 59.125,
+        "end": 59.412
+      },
+      {
+        "word": "real",
+        "start": 59.412,
+        "end": 59.771
+      },
+      {
+        "word": "value",
+        "start": 59.771,
+        "end": 60.202
+      },
+      {
+        "word": "emerges",
+        "start": 60.202,
+        "end": 60.776
+      },
+      {
+        "word": "when",
+        "start": 60.776,
+        "end": 61.135
+      },
+      {
+        "word": "you",
+        "start": 61.135,
+        "end": 61.422
+      },
+      {
+        "word": "consider",
+        "start": 61.422,
+        "end": 62.068
+      },
+      {
+        "word": "the",
+        "start": 62.068,
+        "end": 62.355
+      },
+      {
+        "word": "complexity",
+        "start": 62.355,
+        "end": 63.145
+      },
+      {
+        "word": "of",
+        "start": 63.145,
+        "end": 63.36
+      },
+      {
+        "word": "modern",
+        "start": 63.36,
+        "end": 63.863
+      },
+      {
+        "word": "energy",
+        "start": 63.863,
+        "end": 64.365
+      },
+      {
+        "word": "platforms.",
+        "start": 64.365,
+        "end": 65.155
+      }
+    ]
+  },
+  {
+    "text": "A typical building management system may integrate data from hundreds of sensors, weather APIs, electricity pricing feeds, and equipment status monitors.",
+    "sent_start": 65.083,
+    "sent_end": 76.236,
+    "words": [
+      {
+        "word": "A",
+        "start": 65.083,
+        "end": 65.229
+      },
+      {
+        "word": "typical",
+        "start": 65.229,
+        "end": 65.812
+      },
+      {
+        "word": "building",
+        "start": 65.812,
+        "end": 66.468
+      },
+      {
+        "word": "management",
+        "start": 66.468,
+        "end": 67.27
+      },
+      {
+        "word": "system",
+        "start": 67.27,
+        "end": 67.78
+      },
+      {
+        "word": "may",
+        "start": 67.78,
+        "end": 68.072
+      },
+      {
+        "word": "integrate",
+        "start": 68.072,
+        "end": 68.801
+      },
+      {
+        "word": "data",
+        "start": 68.801,
+        "end": 69.165
+      },
+      {
+        "word": "from",
+        "start": 69.165,
+        "end": 69.53
+      },
+      {
+        "word": "hundreds",
+        "start": 69.53,
+        "end": 70.186
+      },
+      {
+        "word": "of",
+        "start": 70.186,
+        "end": 70.405
+      },
+      {
+        "word": "sensors,",
+        "start": 70.405,
+        "end": 71.061
+      },
+      {
+        "word": "weather",
+        "start": 71.061,
+        "end": 71.644
+      },
+      {
+        "word": "APIs,",
+        "start": 71.644,
+        "end": 72.081
+      },
+      {
+        "word": "electricity",
+        "start": 72.081,
+        "end": 72.956
+      },
+      {
+        "word": "pricing",
+        "start": 72.956,
+        "end": 73.539
+      },
+      {
+        "word": "feeds,",
+        "start": 73.539,
+        "end": 74.049
+      },
+      {
+        "word": "and",
+        "start": 74.049,
+        "end": 74.341
+      },
+      {
+        "word": "equipment",
+        "start": 74.341,
+        "end": 75.07
+      },
+      {
+        "word": "status",
+        "start": 75.07,
+        "end": 75.58
+      },
+      {
+        "word": "monitors.",
+        "start": 75.58,
+        "end": 76.309
+      }
+    ]
+  },
+  {
+    "text": "Human operators simply cannot process all this information in real time.",
+    "sent_start": 76.236,
+    "sent_end": 81.5,
+    "words": [
+      {
+        "word": "Human",
+        "start": 76.236,
+        "end": 76.675
+      },
+      {
+        "word": "operators",
+        "start": 76.675,
+        "end": 77.406
+      },
+      {
+        "word": "simply",
+        "start": 77.406,
+        "end": 77.918
+      },
+      {
+        "word": "cannot",
+        "start": 77.918,
+        "end": 78.429
+      },
+      {
+        "word": "process",
+        "start": 78.429,
+        "end": 79.014
+      },
+      {
+        "word": "all",
+        "start": 79.014,
+        "end": 79.307
+      },
+      {
+        "word": "this",
+        "start": 79.307,
+        "end": 79.672
+      },
+      {
+        "word": "information",
+        "start": 79.672,
+        "end": 80.55
+      },
+      {
+        "word": "in",
+        "start": 80.55,
+        "end": 80.769
+      },
+      {
+        "word": "real",
+        "start": 80.769,
+        "end": 81.134
+      },
+      {
+        "word": "time.",
+        "start": 81.134,
+        "end": 81.573
+      }
+    ]
+  },
+  {
+    "text": "An AI copilot acts as an intelligent layer on top of this complexity, translating raw data into actionable insights.",
+    "sent_start": 81.5,
+    "sent_end": 90.347,
+    "words": [
+      {
+        "word": "An",
+        "start": 81.5,
+        "end": 81.729
+      },
+      {
+        "word": "AI",
+        "start": 81.729,
+        "end": 81.958
+      },
+      {
+        "word": "copilot",
+        "start": 81.958,
+        "end": 82.568
+      },
+      {
+        "word": "acts",
+        "start": 82.568,
+        "end": 82.949
+      },
+      {
+        "word": "as",
+        "start": 82.949,
+        "end": 83.178
+      },
+      {
+        "word": "an",
+        "start": 83.178,
+        "end": 83.407
+      },
+      {
+        "word": "intelligent",
+        "start": 83.407,
+        "end": 84.322
+      },
+      {
+        "word": "layer",
+        "start": 84.322,
+        "end": 84.78
+      },
+      {
+        "word": "on",
+        "start": 84.78,
+        "end": 85.008
+      },
+      {
+        "word": "top",
+        "start": 85.008,
+        "end": 85.313
+      },
+      {
+        "word": "of",
+        "start": 85.313,
+        "end": 85.542
+      },
+      {
+        "word": "this",
+        "start": 85.542,
+        "end": 85.924
+      },
+      {
+        "word": "complexity,",
+        "start": 85.924,
+        "end": 86.839
+      },
+      {
+        "word": "translating",
+        "start": 86.839,
+        "end": 87.754
+      },
+      {
+        "word": "raw",
+        "start": 87.754,
+        "end": 88.059
+      },
+      {
+        "word": "data",
+        "start": 88.059,
+        "end": 88.44
+      },
+      {
+        "word": "into",
+        "start": 88.44,
+        "end": 88.822
+      },
+      {
+        "word": "actionable",
+        "start": 88.822,
+        "end": 89.661
+      },
+      {
+        "word": "insights.",
+        "start": 89.661,
+        "end": 90.423
+      }
+    ]
+  },
+  {
+    "text": "From a product design perspective, building an AI copilot for energy management requires careful attention to context.",
+    "sent_start": 90.347,
+    "sent_end": 98.986,
+    "words": [
+      {
+        "word": "From",
+        "start": 90.347,
+        "end": 90.713
+      },
+      {
+        "word": "a",
+        "start": 90.713,
+        "end": 90.86
+      },
+      {
+        "word": "product",
+        "start": 90.86,
+        "end": 91.445
+      },
+      {
+        "word": "design",
+        "start": 91.445,
+        "end": 91.958
+      },
+      {
+        "word": "perspective,",
+        "start": 91.958,
+        "end": 92.91
+      },
+      {
+        "word": "building",
+        "start": 92.91,
+        "end": 93.569
+      },
+      {
+        "word": "an",
+        "start": 93.569,
+        "end": 93.788
+      },
+      {
+        "word": "AI",
+        "start": 93.788,
+        "end": 94.008
+      },
+      {
+        "word": "copilot",
+        "start": 94.008,
+        "end": 94.593
+      },
+      {
+        "word": "for",
+        "start": 94.593,
+        "end": 94.886
+      },
+      {
+        "word": "energy",
+        "start": 94.886,
+        "end": 95.399
+      },
+      {
+        "word": "management",
+        "start": 95.399,
+        "end": 96.204
+      },
+      {
+        "word": "requires",
+        "start": 96.204,
+        "end": 96.863
+      },
+      {
+        "word": "careful",
+        "start": 96.863,
+        "end": 97.449
+      },
+      {
+        "word": "attention",
+        "start": 97.449,
+        "end": 98.181
+      },
+      {
+        "word": "to",
+        "start": 98.181,
+        "end": 98.4
+      },
+      {
+        "word": "context.",
+        "start": 98.4,
+        "end": 99.059
+      }
+    ]
+  },
+  {
+    "text": "The assistant needs to understand which building or production line the user is responsible for, what their key performance indicators are, and what actions they are authorized to take.",
+    "sent_start": 98.986,
+    "sent_end": 110.958,
+    "words": [
+      {
+        "word": "The",
+        "start": 98.986,
+        "end": 99.245
+      },
+      {
+        "word": "assistant",
+        "start": 99.245,
+        "end": 99.892
+      },
+      {
+        "word": "needs",
+        "start": 99.892,
+        "end": 100.28
+      },
+      {
+        "word": "to",
+        "start": 100.28,
+        "end": 100.475
+      },
+      {
+        "word": "understand",
+        "start": 100.475,
+        "end": 101.186
+      },
+      {
+        "word": "which",
+        "start": 101.186,
+        "end": 101.575
+      },
+      {
+        "word": "building",
+        "start": 101.575,
+        "end": 102.157
+      },
+      {
+        "word": "or",
+        "start": 102.157,
+        "end": 102.351
+      },
+      {
+        "word": "production",
+        "start": 102.351,
+        "end": 103.063
+      },
+      {
+        "word": "line",
+        "start": 103.063,
+        "end": 103.387
+      },
+      {
+        "word": "the",
+        "start": 103.387,
+        "end": 103.646
+      },
+      {
+        "word": "user",
+        "start": 103.646,
+        "end": 103.969
+      },
+      {
+        "word": "is",
+        "start": 103.969,
+        "end": 104.163
+      },
+      {
+        "word": "responsible",
+        "start": 104.163,
+        "end": 104.94
+      },
+      {
+        "word": "for,",
+        "start": 104.94,
+        "end": 105.263
+      },
+      {
+        "word": "what",
+        "start": 105.263,
+        "end": 105.587
+      },
+      {
+        "word": "their",
+        "start": 105.587,
+        "end": 105.975
+      },
+      {
+        "word": "key",
+        "start": 105.975,
+        "end": 106.234
+      },
+      {
+        "word": "performance",
+        "start": 106.234,
+        "end": 107.011
+      },
+      {
+        "word": "indicators",
+        "start": 107.011,
+        "end": 107.723
+      },
+      {
+        "word": "are,",
+        "start": 107.723,
+        "end": 108.046
+      },
+      {
+        "word": "and",
+        "start": 108.046,
+        "end": 108.305
+      },
+      {
+        "word": "what",
+        "start": 108.305,
+        "end": 108.629
+      },
+      {
+        "word": "actions",
+        "start": 108.629,
+        "end": 109.146
+      },
+      {
+        "word": "they",
+        "start": 109.146,
+        "end": 109.47
+      },
+      {
+        "word": "are",
+        "start": 109.47,
+        "end": 109.729
+      },
+      {
+        "word": "authorized",
+        "start": 109.729,
+        "end": 110.441
+      },
+      {
+        "word": "to",
+        "start": 110.441,
+        "end": 110.635
+      },
+      {
+        "word": "take.",
+        "start": 110.635,
+        "end": 111.023
+      }
+    ]
+  },
+  {
+    "text": "This is where B2B product thinking becomes critical — the copilot must respect organizational hierarchies, role-based access control, and compliance requirements.",
+    "sent_start": 110.958,
+    "sent_end": 122.708,
+    "words": [
+      {
+        "word": "This",
+        "start": 110.958,
+        "end": 111.321
+      },
+      {
+        "word": "is",
+        "start": 111.321,
+        "end": 111.539
+      },
+      {
+        "word": "where",
+        "start": 111.539,
+        "end": 111.974
+      },
+      {
+        "word": "B2B",
+        "start": 111.974,
+        "end": 112.264
+      },
+      {
+        "word": "product",
+        "start": 112.264,
+        "end": 112.844
+      },
+      {
+        "word": "thinking",
+        "start": 112.844,
+        "end": 113.497
+      },
+      {
+        "word": "becomes",
+        "start": 113.497,
+        "end": 114.077
+      },
+      {
+        "word": "critical",
+        "start": 114.077,
+        "end": 114.73
+      },
+      {
+        "word": "—",
+        "start": 114.73,
+        "end": 114.875
+      },
+      {
+        "word": "the",
+        "start": 114.875,
+        "end": 115.165
+      },
+      {
+        "word": "copilot",
+        "start": 115.165,
+        "end": 115.745
+      },
+      {
+        "word": "must",
+        "start": 115.745,
+        "end": 116.108
+      },
+      {
+        "word": "respect",
+        "start": 116.108,
+        "end": 116.688
+      },
+      {
+        "word": "organizational",
+        "start": 116.688,
+        "end": 117.776
+      },
+      {
+        "word": "hierarchies,",
+        "start": 117.776,
+        "end": 118.719
+      },
+      {
+        "word": "role-based",
+        "start": 118.719,
+        "end": 119.517
+      },
+      {
+        "word": "access",
+        "start": 119.517,
+        "end": 120.025
+      },
+      {
+        "word": "control,",
+        "start": 120.025,
+        "end": 120.677
+      },
+      {
+        "word": "and",
+        "start": 120.677,
+        "end": 120.968
+      },
+      {
+        "word": "compliance",
+        "start": 120.968,
+        "end": 121.765
+      },
+      {
+        "word": "requirements.",
+        "start": 121.765,
+        "end": 122.781
+      }
+    ]
+  },
+  {
+    "text": "Looking at the broader trend, AI copilots are becoming a standard feature in enterprise SaaS platforms.",
+    "sent_start": 122.708,
+    "sent_end": 130.069,
+    "words": [
+      {
+        "word": "Looking",
+        "start": 122.708,
+        "end": 123.28
+      },
+      {
+        "word": "at",
+        "start": 123.28,
+        "end": 123.494
+      },
+      {
+        "word": "the",
+        "start": 123.494,
+        "end": 123.78
+      },
+      {
+        "word": "broader",
+        "start": 123.78,
+        "end": 124.352
+      },
+      {
+        "word": "trend,",
+        "start": 124.352,
+        "end": 124.852
+      },
+      {
+        "word": "AI",
+        "start": 124.852,
+        "end": 125.067
+      },
+      {
+        "word": "copilots",
+        "start": 125.067,
+        "end": 125.71
+      },
+      {
+        "word": "are",
+        "start": 125.71,
+        "end": 125.996
+      },
+      {
+        "word": "becoming",
+        "start": 125.996,
+        "end": 126.639
+      },
+      {
+        "word": "a",
+        "start": 126.639,
+        "end": 126.782
+      },
+      {
+        "word": "standard",
+        "start": 126.782,
+        "end": 127.425
+      },
+      {
+        "word": "feature",
+        "start": 127.425,
+        "end": 127.997
+      },
+      {
+        "word": "in",
+        "start": 127.997,
+        "end": 128.211
+      },
+      {
+        "word": "enterprise",
+        "start": 128.211,
+        "end": 128.997
+      },
+      {
+        "word": "SaaS",
+        "start": 128.997,
+        "end": 129.355
+      },
+      {
+        "word": "platforms.",
+        "start": 129.355,
+        "end": 130.141
+      }
+    ]
+  },
+  {
+    "text": "In the energy domain, we can expect to see copilots that not only answer questions but also proactively suggest optimization strategies, draft maintenance schedules, and even execute control commands with human approval.",
+    "sent_start": 130.069,
+    "sent_end": 145.208,
+    "words": [
+      {
+        "word": "In",
+        "start": 130.069,
+        "end": 130.276
+      },
+      {
+        "word": "the",
+        "start": 130.276,
+        "end": 130.551
+      },
+      {
+        "word": "energy",
+        "start": 130.551,
+        "end": 131.033
+      },
+      {
+        "word": "domain,",
+        "start": 131.033,
+        "end": 131.583
+      },
+      {
+        "word": "we",
+        "start": 131.583,
+        "end": 131.79
+      },
+      {
+        "word": "can",
+        "start": 131.79,
+        "end": 132.065
+      },
+      {
+        "word": "expect",
+        "start": 132.065,
+        "end": 132.547
+      },
+      {
+        "word": "to",
+        "start": 132.547,
+        "end": 132.753
+      },
+      {
+        "word": "see",
+        "start": 132.753,
+        "end": 133.028
+      },
+      {
+        "word": "copilots",
+        "start": 133.028,
+        "end": 133.648
+      },
+      {
+        "word": "that",
+        "start": 133.648,
+        "end": 133.992
+      },
+      {
+        "word": "not",
+        "start": 133.992,
+        "end": 134.267
+      },
+      {
+        "word": "only",
+        "start": 134.267,
+        "end": 134.611
+      },
+      {
+        "word": "answer",
+        "start": 134.611,
+        "end": 135.093
+      },
+      {
+        "word": "questions",
+        "start": 135.093,
+        "end": 135.781
+      },
+      {
+        "word": "but",
+        "start": 135.781,
+        "end": 136.056
+      },
+      {
+        "word": "also",
+        "start": 136.056,
+        "end": 136.4
+      },
+      {
+        "word": "proactively",
+        "start": 136.4,
+        "end": 137.226
+      },
+      {
+        "word": "suggest",
+        "start": 137.226,
+        "end": 137.777
+      },
+      {
+        "word": "optimization",
+        "start": 137.777,
+        "end": 138.671
+      },
+      {
+        "word": "strategies,",
+        "start": 138.671,
+        "end": 139.497
+      },
+      {
+        "word": "draft",
+        "start": 139.497,
+        "end": 139.91
+      },
+      {
+        "word": "maintenance",
+        "start": 139.91,
+        "end": 140.735
+      },
+      {
+        "word": "schedules,",
+        "start": 140.735,
+        "end": 141.492
+      },
+      {
+        "word": "and",
+        "start": 141.492,
+        "end": 141.768
+      },
+      {
+        "word": "even",
+        "start": 141.768,
+        "end": 142.112
+      },
+      {
+        "word": "execute",
+        "start": 142.112,
+        "end": 142.662
+      },
+      {
+        "word": "control",
+        "start": 142.662,
+        "end": 143.213
+      },
+      {
+        "word": "commands",
+        "start": 143.213,
+        "end": 143.832
+      },
+      {
+        "word": "with",
+        "start": 143.832,
+        "end": 144.176
+      },
+      {
+        "word": "human",
+        "start": 144.176,
+        "end": 144.589
+      },
+      {
+        "word": "approval.",
+        "start": 144.589,
+        "end": 145.277
+      }
+    ]
+  },
+  {
+    "text": "The next generation of energy management platforms will be defined not by how many dashboards they offer, but by how intelligently their AI assistants help users navigate complexity.",
+    "sent_start": 145.208,
+    "sent_end": 157.167,
+    "words": [
+      {
+        "word": "The",
+        "start": 145.208,
+        "end": 145.471
+      },
+      {
+        "word": "next",
+        "start": 145.471,
+        "end": 145.8
+      },
+      {
+        "word": "generation",
+        "start": 145.8,
+        "end": 146.522
+      },
+      {
+        "word": "of",
+        "start": 146.522,
+        "end": 146.72
+      },
+      {
+        "word": "energy",
+        "start": 146.72,
+        "end": 147.179
+      },
+      {
+        "word": "management",
+        "start": 147.179,
+        "end": 147.902
+      },
+      {
+        "word": "platforms",
+        "start": 147.902,
+        "end": 148.559
+      },
+      {
+        "word": "will",
+        "start": 148.559,
+        "end": 148.888
+      },
+      {
+        "word": "be",
+        "start": 148.888,
+        "end": 149.085
+      },
+      {
+        "word": "defined",
+        "start": 149.085,
+        "end": 149.611
+      },
+      {
+        "word": "not",
+        "start": 149.611,
+        "end": 149.873
+      },
+      {
+        "word": "by",
+        "start": 149.873,
+        "end": 150.071
+      },
+      {
+        "word": "how",
+        "start": 150.071,
+        "end": 150.333
+      },
+      {
+        "word": "many",
+        "start": 150.333,
+        "end": 150.662
+      },
+      {
+        "word": "dashboards",
+        "start": 150.662,
+        "end": 151.385
+      },
+      {
+        "word": "they",
+        "start": 151.385,
+        "end": 151.713
+      },
+      {
+        "word": "offer,",
+        "start": 151.713,
+        "end": 152.173
+      },
+      {
+        "word": "but",
+        "start": 152.173,
+        "end": 152.436
+      },
+      {
+        "word": "by",
+        "start": 152.436,
+        "end": 152.633
+      },
+      {
+        "word": "how",
+        "start": 152.633,
+        "end": 152.896
+      },
+      {
+        "word": "intelligently",
+        "start": 152.896,
+        "end": 153.816
+      },
+      {
+        "word": "their",
+        "start": 153.816,
+        "end": 154.21
+      },
+      {
+        "word": "AI",
+        "start": 154.21,
+        "end": 154.407
+      },
+      {
+        "word": "assistants",
+        "start": 154.407,
+        "end": 155.13
+      },
+      {
+        "word": "help",
+        "start": 155.13,
+        "end": 155.458
+      },
+      {
+        "word": "users",
+        "start": 155.458,
+        "end": 155.853
+      },
+      {
+        "word": "navigate",
+        "start": 155.853,
+        "end": 156.444
+      },
+      {
+        "word": "complexity.",
+        "start": 156.444,
+        "end": 157.232
+      }
+    ]
+  }
+]
